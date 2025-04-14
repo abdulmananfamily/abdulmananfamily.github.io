@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1.0" />
+    <title>Silsilah Abdul Manan</title>
+    <script src="https://unpkg.com/d3@6"></script>
+    <script type="module" src="https://unpkg.com/family-chart@0.2.1"></script>
+    <link rel="stylesheet" href="https://unpkg.com/family-chart@0.2.1/dist/styles/family-chart.css">
+</head>
+
+<body>
+    <div id="FamilyChart" class="f3"
+        style="width:100%;height:900px;margin:auto;background-color:rgb(33,33,33);color:#fff;"></div>
+    <script type="module">
+        fetch('./data.json')
+            .then(res => res.json())
+            .then(data => create(data));
+
+        function create(data) {
+            const f3Chart = f3.createChart('#FamilyChart', data)
+                .setTransitionTime(1000)
+                .setCardXSpacing(250)
+                .setCardYSpacing(150)
+                .setOrientationVertical()
+                .setSingleParentEmptyCard(true, { label: 'ADD' })
+
+            const f3Card = f3Chart.setCard(f3.CardHtml)
+                .setCardDisplay([["nama", "alamat"]])
+                .setCardDim({})
+                .setMiniTree(true)
+                .setStyle('imageRect')
+                .setOnHoverPathToMain()
+
+
+            const f3EditTree = f3Chart.editTree()
+                .fixed(true)
+                .setFields(["nama", "alamat", "birthday"])
+                .setEditFirst(false)
+
+            // Check if the user is accessing the page on a mobile device
+            var isMobile = /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent);
+
+            if (!isMobile) {
+                // User is accessing the page on a desktop device
+                f3EditTree.setNoEdit()
+
+                f3Card.setOnCardClick((e, d) => {
+                    f3EditTree.open(d)
+                    if (f3EditTree.isAddingRelative()) return
+                    f3Card.onCardClickDefault(e, d)
+                })
+
+                f3Chart.updateTree({ initial: true })
+                f3EditTree.open(f3Chart.getMainDatum())
+
+                f3Chart.updateTree({ initial: true })
+            } else {
+                f3Chart.updateTree({ initial: true })
+            }
+        }
+    </script>
+</body>
+
+</html>
