@@ -1,3327 +1,3327 @@
 [
-    {
-        "id": "0",
-        "rels": {
-            "spouses": [
-                "77b5d6c8-72c3-4594-b41a-8573aa3b2b1c"
-            ],
-            "children": [
-                "1c169029-871a-4223-9819-d2c1e35db38c",
-                "67af34b9-ff74-482b-9eaa-5d94818f0d87",
-                "9039171a-b00e-4129-b1af-e21969076b99",
-                "0ed49632-8abd-4d0a-9eee-5f2b9154d6f0",
-                "8642f8bb-78aa-40f0-8b4a-ab55dc973d7b",
-                "814cd604-f771-45eb-b786-66e8a2def1be",
-                "5f872bb1-8754-44fc-8071-41187d9120fe",
-                "e3b50f2a-d465-4fdd-9589-02d5f28f69db",
-                "a7dde435-68fa-42b0-8aae-872de5ad05a1"
-            ]
-        },
-        "data": {
-            "birthday": "",
-            "avatar": "",
-            "gender": "M",
-            "nama": "Abdul Manan"
-        }
-    },
-    {
-        "id": "77b5d6c8-72c3-4594-b41a-8573aa3b2b1c",
-        "data": {
-            "gender": "F",
-            "nama": "Marhamah",
-            "birthday": "",
-            "avatar": ""
-        },
-        "rels": {
-            "spouses": [
-                "0"
-            ],
-            "children": [
-                "1c169029-871a-4223-9819-d2c1e35db38c",
-                "67af34b9-ff74-482b-9eaa-5d94818f0d87",
-                "9039171a-b00e-4129-b1af-e21969076b99",
-                "0ed49632-8abd-4d0a-9eee-5f2b9154d6f0",
-                "8642f8bb-78aa-40f0-8b4a-ab55dc973d7b",
-                "814cd604-f771-45eb-b786-66e8a2def1be",
-                "5f872bb1-8754-44fc-8071-41187d9120fe",
-                "e3b50f2a-d465-4fdd-9589-02d5f28f69db",
-                "a7dde435-68fa-42b0-8aae-872de5ad05a1"
-            ]
-        }
-    },
-    {
-        "id": "1c169029-871a-4223-9819-d2c1e35db38c",
-        "data": {
-            "gender": "F",
-            "nama": "Napsiah",
-            "birthday": "",
-            "avatar": ""
-        },
-        "rels": {
-            "father": "0",
-            "mother": "77b5d6c8-72c3-4594-b41a-8573aa3b2b1c",
-            "children": [
-                "e33d2ebc-cc43-4d7d-b4a9-2972f636b0dd",
-                "16d7cdc6-a554-4d15-a466-f45c9443852e",
-                "4c8248ba-3844-4068-aced-d8de9ad85f0f",
-                "c739edea-d146-4eb8-815b-a56b57644f0e"
-            ],
-            "spouses": [
-                "26fd86c2-037a-4f43-ab2f-a03972e547d7"
-            ]
-        }
-    },
-    {
-        "id": "67af34b9-ff74-482b-9eaa-5d94818f0d87",
-        "data": {
-            "gender": "M",
-            "nama": "Moh Basar",
-            "birthday": "",
-            "avatar": ""
-        },
-        "rels": {
-            "father": "0",
-            "mother": "77b5d6c8-72c3-4594-b41a-8573aa3b2b1c",
-            "spouses": [
-                "f2fac54f-f5b9-49f4-a184-d6546e451e42"
-            ],
-            "children": [
-                "1ed79215-0a3f-45ff-9a58-61ee8f4ed965",
-                "0b3e7288-b993-49f0-af36-abb80c4b17b5",
-                "e3e3643a-4ed6-4046-84bd-875b5c42b18c",
-                "0b0c96d0-680c-4266-99e7-2270db0d4068"
-            ]
-        }
-    },
-    {
-        "id": "9039171a-b00e-4129-b1af-e21969076b99",
-        "data": {
-            "gender": "F",
-            "nama": "Siti Aminah",
-            "birthday": "",
-            "avatar": ""
-        },
-        "rels": {
-            "father": "0",
-            "mother": "77b5d6c8-72c3-4594-b41a-8573aa3b2b1c",
-            "spouses": [
-                "ca0af30b-7e1e-4cab-baef-46053c1e7250"
-            ],
-            "children": [
-                "50a41e61-e6ea-4a86-a2e5-69bd0ccf303a",
-                "4fc68511-ce3e-481e-a56b-b3149d37b1b7",
-                "668382d3-a21b-4e46-b62a-e26d5619da3e",
-                "e4861c16-2376-4085-9bfa-0aed900f2c48"
-            ]
-        }
-    },
-    {
-        "id": "0ed49632-8abd-4d0a-9eee-5f2b9154d6f0",
-        "data": {
-            "gender": "M",
-            "nama": "Muhtarom",
-            "birthday": "",
-            "avatar": ""
-        },
-        "rels": {
-            "father": "0",
-            "mother": "77b5d6c8-72c3-4594-b41a-8573aa3b2b1c",
-            "spouses": [
-                "6f40746c-5e0c-45e7-bc3a-121ed0c09298"
-            ],
-            "children": [
-                "c6a6894d-9094-4d2b-8629-a88d2920b38d",
-                "fa5a0a7d-2a24-41b1-921d-24059b2f050e",
-                "27c3e2a4-6bd4-4aba-9ec3-61b4ff5d1616",
-                "08c924be-80cd-4314-b762-19f98719a3bd",
-                "d3d5416d-e7e5-4acd-a47b-05c0da2efa03",
-                "5a2c1c89-8f38-4f4c-9e8d-910840092319"
-            ]
-        }
-    },
-    {
-        "id": "8642f8bb-78aa-40f0-8b4a-ab55dc973d7b",
-        "data": {
-            "gender": "F",
-            "nama": "Hafadah",
-            "birthday": "",
-            "avatar": ""
-        },
-        "rels": {
-            "father": "0",
-            "mother": "77b5d6c8-72c3-4594-b41a-8573aa3b2b1c",
-            "spouses": [
-                "227d7705-cc5d-46f7-9d72-55b05a984903"
-            ],
-            "children": [
-                "402ee738-7f83-43fe-b2b4-a29360444743",
-                "12af29a7-0e39-4fea-a52a-69288b68d275",
-                "73f15f3e-8b5c-4644-9ff7-daa1c45d1530",
-                "dd220ed3-5b57-4ba1-aefb-f9e6b7797028",
-                "e601e398-37cf-4655-bc8b-f97c319083a0",
-                "fe3fac7d-2925-4d96-ab0e-d49385d8bae2"
-            ]
-        }
-    },
-    {
-        "id": "814cd604-f771-45eb-b786-66e8a2def1be",
-        "data": {
-            "gender": "F",
-            "nama": "Lek Nah",
-            "birthday": "",
-            "avatar": ""
-        },
-        "rels": {
-            "father": "0",
-            "mother": "77b5d6c8-72c3-4594-b41a-8573aa3b2b1c"
-        }
-    },
-    {
-        "id": "5f872bb1-8754-44fc-8071-41187d9120fe",
-        "data": {
-            "gender": "M",
-            "nama": "Tasripin",
-            "birthday": "",
-            "avatar": ""
-        },
-        "rels": {
-            "father": "0",
-            "mother": "77b5d6c8-72c3-4594-b41a-8573aa3b2b1c",
-            "spouses": [
-                "a4616080-1457-4d46-8502-335473e0bc17"
-            ],
-            "children": [
-                "276cdba4-f333-4ddf-9815-05b1d5c4eeb2",
-                "8cdaf0dd-aa69-4e37-b51c-b780112622dc",
-                "50b9d94e-cdc1-4ed3-a81a-81d1a97765aa",
-                "491ad4d2-26d8-46e5-8a3a-18e98cbf442c"
-            ]
-        }
-    },
-    {
-        "id": "e3b50f2a-d465-4fdd-9589-02d5f28f69db",
-        "data": {
-            "gender": "F",
-            "nama": "Tasripah",
-            "birthday": "",
-            "avatar": ""
-        },
-        "rels": {
-            "father": "0",
-            "mother": "77b5d6c8-72c3-4594-b41a-8573aa3b2b1c",
-            "spouses": [
-                "86a9db0a-0f10-4f79-b15a-3350078cd89b"
-            ],
-            "children": [
-                "b4b30a73-30b2-4b73-b76f-c54c0d9a6883",
-                "768ac74d-fd55-4793-9f2f-640d55b9a686",
-                "c9ec053a-4a0f-4987-bb50-436344ede74a"
-            ]
-        }
-    },
-    {
-        "id": "a7dde435-68fa-42b0-8aae-872de5ad05a1",
-        "data": {
-            "gender": "F",
-            "nama": "Asmuah",
-            "birthday": "",
-            "avatar": ""
-        },
-        "rels": {
-            "father": "0",
-            "mother": "77b5d6c8-72c3-4594-b41a-8573aa3b2b1c",
-            "spouses": [
-                "593e6d54-f925-4bf0-a9d4-2dff34d51a6f"
-            ],
-            "children": [
-                "93f16962-7a84-418c-a3dd-250ff375bcf7",
-                "3713fe07-273b-4c28-8859-97b8a55f279e"
-            ]
-        }
-    },
-    {
-        "id": "e33d2ebc-cc43-4d7d-b4a9-2972f636b0dd",
-        "data": {
-            "gender": "F",
-            "nama": "Sri Wanah",
-            "birthday": "",
-            "avatar": ""
-        },
-        "rels": {
-            "father": "1c169029-871a-4223-9819-d2c1e35db38c",
-            "mother": "26fd86c2-037a-4f43-ab2f-a03972e547d7",
-            "spouses": [
-                "3681122c-5eea-4255-971b-06900f28f6f1"
-            ],
-            "children": [
-                "f49135ab-d888-4954-bba8-cf1d63bc5cea",
-                "e2f80522-57ee-4fe0-a886-67c810ee2c76",
-                "e310e687-83f0-4e75-9100-700310fb41e0"
-            ]
-        }
-    },
-    {
-        "id": "26fd86c2-037a-4f43-ab2f-a03972e547d7",
-        "data": {
-            "gender": "M",
-            "nama": "Ismail",
-            "birthday": "",
-            "avatar": ""
-        },
-        "rels": {
-            "spouses": [
-                "1c169029-871a-4223-9819-d2c1e35db38c"
-            ],
-            "children": [
-                "e33d2ebc-cc43-4d7d-b4a9-2972f636b0dd",
-                "16d7cdc6-a554-4d15-a466-f45c9443852e",
-                "4c8248ba-3844-4068-aced-d8de9ad85f0f",
-                "c739edea-d146-4eb8-815b-a56b57644f0e"
-            ]
-        }
-    },
-    {
-        "id": "3681122c-5eea-4255-971b-06900f28f6f1",
-        "data": {
-            "gender": "M",
-            "nama": "Misrin Husein",
-            "birthday": "",
-            "avatar": ""
-        },
-        "rels": {
-            "spouses": [
-                "e33d2ebc-cc43-4d7d-b4a9-2972f636b0dd"
-            ],
-            "children": [
-                "f49135ab-d888-4954-bba8-cf1d63bc5cea",
-                "e2f80522-57ee-4fe0-a886-67c810ee2c76",
-                "e310e687-83f0-4e75-9100-700310fb41e0"
-            ]
-        }
-    },
-    {
-        "id": "f49135ab-d888-4954-bba8-cf1d63bc5cea",
-        "data": {
-            "gender": "M",
-            "nama": "Rindra Andy Husin",
-            "birthday": "",
-            "avatar": ""
-        },
-        "rels": {
-            "father": "e33d2ebc-cc43-4d7d-b4a9-2972f636b0dd",
-            "mother": "3681122c-5eea-4255-971b-06900f28f6f1",
-            "spouses": [
-                "990652ea-26a3-47b7-b246-6249c2967f28"
-            ],
-            "children": [
-                "ac8bfe19-a1c7-4b05-81f3-d8f8c6e02ee0",
-                "76f98a6a-1531-4ece-b99d-2f408e8f4aa5",
-                "818245f7-7b9c-4b9e-8d9e-4cdfb77240ab",
-                "d9d0f945-45b5-4aa1-9a0e-820180e3cbcd",
-                "7749e6d5-b78a-432d-a525-58d714f960fa"
-            ]
-        }
-    },
-    {
-        "id": "990652ea-26a3-47b7-b246-6249c2967f28",
-        "data": {
-            "gender": "F",
-            "nama": "Sofa Hindayati",
-            "birthday": "",
-            "avatar": ""
-        },
-        "rels": {
-            "spouses": [
-                "f49135ab-d888-4954-bba8-cf1d63bc5cea"
-            ],
-            "children": [
-                "ac8bfe19-a1c7-4b05-81f3-d8f8c6e02ee0",
-                "76f98a6a-1531-4ece-b99d-2f408e8f4aa5",
-                "818245f7-7b9c-4b9e-8d9e-4cdfb77240ab",
-                "d9d0f945-45b5-4aa1-9a0e-820180e3cbcd",
-                "7749e6d5-b78a-432d-a525-58d714f960fa"
-            ]
-        }
-    },
-    {
-        "id": "ac8bfe19-a1c7-4b05-81f3-d8f8c6e02ee0",
-        "data": {
-            "gender": "M",
-            "nama": "Renaldy Noval Husin",
-            "birthday": "",
-            "avatar": ""
-        },
-        "rels": {
-            "father": "f49135ab-d888-4954-bba8-cf1d63bc5cea",
-            "mother": "990652ea-26a3-47b7-b246-6249c2967f28"
-        }
-    },
-    {
-        "id": "76f98a6a-1531-4ece-b99d-2f408e8f4aa5",
-        "data": {
-            "gender": "M",
-            "nama": "Tito Fijaya Dwi Efan",
-            "birthday": "",
-            "avatar": ""
-        },
-        "rels": {
-            "father": "f49135ab-d888-4954-bba8-cf1d63bc5cea",
-            "mother": "990652ea-26a3-47b7-b246-6249c2967f28"
-        }
-    },
-    {
-        "id": "818245f7-7b9c-4b9e-8d9e-4cdfb77240ab",
-        "data": {
-            "gender": "F",
-            "nama": "Firza Agisna Sabili",
-            "birthday": "",
-            "avatar": ""
-        },
-        "rels": {
-            "father": "f49135ab-d888-4954-bba8-cf1d63bc5cea",
-            "mother": "990652ea-26a3-47b7-b246-6249c2967f28"
-        }
-    },
-    {
-        "id": "d9d0f945-45b5-4aa1-9a0e-820180e3cbcd",
-        "data": {
-            "gender": "F",
-            "nama": "Faiza",
-            "birthday": "",
-            "avatar": ""
-        },
-        "rels": {
-            "father": "f49135ab-d888-4954-bba8-cf1d63bc5cea",
-            "mother": "990652ea-26a3-47b7-b246-6249c2967f28"
-        }
-    },
-    {
-        "id": "7749e6d5-b78a-432d-a525-58d714f960fa",
-        "data": {
-            "gender": "M",
-            "nama": "Mauza",
-            "birthday": "",
-            "avatar": ""
-        },
-        "rels": {
-            "father": "f49135ab-d888-4954-bba8-cf1d63bc5cea",
-            "mother": "990652ea-26a3-47b7-b246-6249c2967f28"
-        }
-    },
-    {
-        "id": "e2f80522-57ee-4fe0-a886-67c810ee2c76",
-        "data": {
-            "gender": "F",
-            "nama": "Rina Husniatul Laila",
-            "birthday": "",
-            "avatar": ""
-        },
-        "rels": {
-            "father": "e33d2ebc-cc43-4d7d-b4a9-2972f636b0dd",
-            "mother": "3681122c-5eea-4255-971b-06900f28f6f1",
-            "spouses": [
-                "4ac72c49-6e67-4723-9ce9-4422ddf67922"
-            ],
-            "children": [
-                "c2c1e121-9bf7-4254-869c-a21a4544e234",
-                "e49f44dc-3d9e-4816-b13d-063ed5cecb3c"
-            ]
-        }
-    },
-    {
-        "id": "4ac72c49-6e67-4723-9ce9-4422ddf67922",
-        "data": {
-            "gender": "M",
-            "nama": "Awang Gitayana ",
-            "birthday": "",
-            "avatar": ""
-        },
-        "rels": {
-            "spouses": [
-                "e2f80522-57ee-4fe0-a886-67c810ee2c76"
-            ],
-            "children": [
-                "c2c1e121-9bf7-4254-869c-a21a4544e234",
-                "e49f44dc-3d9e-4816-b13d-063ed5cecb3c"
-            ]
-        }
-    },
-    {
-        "id": "c2c1e121-9bf7-4254-869c-a21a4544e234",
-        "data": {
-            "gender": "F",
-            "nama": "Rigita abidah Ardelia ",
-            "birthday": "",
-            "avatar": ""
-        },
-        "rels": {
-            "father": "e2f80522-57ee-4fe0-a886-67c810ee2c76",
-            "mother": "4ac72c49-6e67-4723-9ce9-4422ddf67922"
-        }
-    },
-    {
-        "id": "e49f44dc-3d9e-4816-b13d-063ed5cecb3c",
-        "data": {
-            "gender": "M",
-            "nama": "Favian Ari resewara ",
-            "birthday": "",
-            "avatar": ""
-        },
-        "rels": {
-            "father": "e2f80522-57ee-4fe0-a886-67c810ee2c76",
-            "mother": "4ac72c49-6e67-4723-9ce9-4422ddf67922"
-        }
-    },
-    {
-        "id": "e310e687-83f0-4e75-9100-700310fb41e0",
-        "data": {
-            "gender": "F",
-            "nama": "Rinvica Nur Istighfaroh ",
-            "birthday": "",
-            "avatar": ""
-        },
-        "rels": {
-            "father": "3681122c-5eea-4255-971b-06900f28f6f1",
-            "mother": "e33d2ebc-cc43-4d7d-b4a9-2972f636b0dd",
-            "spouses": [
-                "26866d55-7d5e-4efc-aacd-9f9c7ade2c1a"
-            ],
-            "children": [
-                "a6133e14-81bb-4e83-a2c1-aeacf18eef35",
-                "398648da-688a-42e2-a223-3655c0164b49"
-            ]
-        }
-    },
-    {
-        "id": "26866d55-7d5e-4efc-aacd-9f9c7ade2c1a",
-        "data": {
-            "gender": "M",
-            "nama": "Fajar Nur rohman",
-            "birthday": "",
-            "avatar": ""
-        },
-        "rels": {
-            "spouses": [
-                "e310e687-83f0-4e75-9100-700310fb41e0"
-            ],
-            "children": [
-                "a6133e14-81bb-4e83-a2c1-aeacf18eef35",
-                "398648da-688a-42e2-a223-3655c0164b49"
-            ]
-        }
-    },
-    {
-        "id": "a6133e14-81bb-4e83-a2c1-aeacf18eef35",
-        "data": {
-            "gender": "F",
-            "nama": "Lintang Khayra Rohman ",
-            "birthday": "",
-            "avatar": ""
-        },
-        "rels": {
-            "father": "e310e687-83f0-4e75-9100-700310fb41e0",
-            "mother": "26866d55-7d5e-4efc-aacd-9f9c7ade2c1a"
-        }
-    },
-    {
-        "id": "398648da-688a-42e2-a223-3655c0164b49",
-        "data": {
-            "gender": "F",
-            "nama": "Hanum Khaylina Rohman",
-            "birthday": "",
-            "avatar": ""
-        },
-        "rels": {
-            "father": "e310e687-83f0-4e75-9100-700310fb41e0",
-            "mother": "26866d55-7d5e-4efc-aacd-9f9c7ade2c1a"
-        }
-    },
-    {
-        "id": "16d7cdc6-a554-4d15-a466-f45c9443852e",
-        "data": {
-            "gender": "M",
-            "nama": "Habib Muanam",
-            "birthday": "",
-            "avatar": ""
-        },
-        "rels": {
-            "father": "1c169029-871a-4223-9819-d2c1e35db38c",
-            "mother": "26fd86c2-037a-4f43-ab2f-a03972e547d7",
-            "spouses": [
-                "722678e5-dfd2-4063-a120-c48bf32b96e9"
-            ],
-            "children": [
-                "b4673307-b915-4ab2-9dc7-238a6d8bbf8d",
-                "7c4be67c-7d15-4b54-a7dc-113fb61aa2b7",
-                "6e25ea3d-f41e-4618-9f16-9214397ad25e"
-            ]
-        }
-    },
-    {
-        "id": "722678e5-dfd2-4063-a120-c48bf32b96e9",
-        "data": {
-            "gender": "F",
-            "nama": "Khusnul Hotimah",
-            "birthday": "",
-            "avatar": ""
-        },
-        "rels": {
-            "spouses": [
-                "16d7cdc6-a554-4d15-a466-f45c9443852e"
-            ],
-            "children": [
-                "b4673307-b915-4ab2-9dc7-238a6d8bbf8d",
-                "7c4be67c-7d15-4b54-a7dc-113fb61aa2b7",
-                "6e25ea3d-f41e-4618-9f16-9214397ad25e"
-            ]
-        }
-    },
-    {
-        "id": "b4673307-b915-4ab2-9dc7-238a6d8bbf8d",
-        "data": {
-            "gender": "M",
-            "nama": "Alvian Adi Pratama",
-            "birthday": "",
-            "avatar": ""
-        },
-        "rels": {
-            "father": "16d7cdc6-a554-4d15-a466-f45c9443852e",
-            "mother": "722678e5-dfd2-4063-a120-c48bf32b96e9",
-            "spouses": [
-                "1b3baaa4-1970-4a14-bb1c-3ee9b21bcbd5"
-            ],
-            "children": [
-                "5ae24a29-2daa-4c26-9a7b-1de5e5f8cadc"
-            ]
-        }
-    },
-    {
-        "id": "1b3baaa4-1970-4a14-bb1c-3ee9b21bcbd5",
-        "data": {
-            "gender": "F",
-            "nama": "Endah Purwanti",
-            "birthday": "",
-            "avatar": ""
-        },
-        "rels": {
-            "spouses": [
-                "b4673307-b915-4ab2-9dc7-238a6d8bbf8d"
-            ],
-            "children": [
-                "5ae24a29-2daa-4c26-9a7b-1de5e5f8cadc"
-            ]
-        }
-    },
-    {
-        "id": "5ae24a29-2daa-4c26-9a7b-1de5e5f8cadc",
-        "data": {
-            "gender": "M",
-            "nama": "Ren Ezaz Alcantara",
-            "birthday": "",
-            "avatar": ""
-        },
-        "rels": {
-            "father": "b4673307-b915-4ab2-9dc7-238a6d8bbf8d",
-            "mother": "1b3baaa4-1970-4a14-bb1c-3ee9b21bcbd5"
-        }
-    },
-    {
-        "id": "7c4be67c-7d15-4b54-a7dc-113fb61aa2b7",
-        "data": {
-            "gender": "F",
-            "nama": "Ainun Fitri Habibah  ",
-            "birthday": "",
-            "avatar": ""
-        },
-        "rels": {
-            "father": "16d7cdc6-a554-4d15-a466-f45c9443852e",
-            "mother": "722678e5-dfd2-4063-a120-c48bf32b96e9"
-        }
-    },
-    {
-        "id": "6e25ea3d-f41e-4618-9f16-9214397ad25e",
-        "data": {
-            "gender": "F",
-            "nama": "Aulia Annisatul Habibah",
-            "birthday": "",
-            "avatar": ""
-        },
-        "rels": {
-            "father": "16d7cdc6-a554-4d15-a466-f45c9443852e",
-            "mother": "722678e5-dfd2-4063-a120-c48bf32b96e9"
-        }
-    },
-    {
-        "id": "4c8248ba-3844-4068-aced-d8de9ad85f0f",
-        "data": {
-            "gender": "F",
-            "nama": "Nurul Mahsum ",
-            "birthday": "",
-            "avatar": ""
-        },
-        "rels": {
-            "father": "1c169029-871a-4223-9819-d2c1e35db38c",
-            "mother": "26fd86c2-037a-4f43-ab2f-a03972e547d7",
-            "spouses": [
-                "7b8c176a-ab50-46f6-a216-8296142f9edc"
-            ],
-            "children": [
-                "0133aa0e-9cdb-4c1b-bb7d-07af3429a5b1",
-                "23b8d9a7-2b30-412a-a4a4-50eda0165daa"
-            ]
-        }
-    },
-    {
-        "id": "7b8c176a-ab50-46f6-a216-8296142f9edc",
-        "data": {
-            "gender": "M",
-            "nama": "Mujiono",
-            "birthday": "",
-            "avatar": ""
-        },
-        "rels": {
-            "spouses": [
-                "4c8248ba-3844-4068-aced-d8de9ad85f0f"
-            ],
-            "children": [
-                "0133aa0e-9cdb-4c1b-bb7d-07af3429a5b1",
-                "23b8d9a7-2b30-412a-a4a4-50eda0165daa"
-            ]
-        }
-    },
-    {
-        "id": "0133aa0e-9cdb-4c1b-bb7d-07af3429a5b1",
-        "data": {
-            "gender": "M",
-            "nama": "Tinton aji Kusuma",
-            "birthday": "",
-            "avatar": ""
-        },
-        "rels": {
-            "father": "4c8248ba-3844-4068-aced-d8de9ad85f0f",
-            "mother": "7b8c176a-ab50-46f6-a216-8296142f9edc",
-            "spouses": [
-                "1adaeda9-e2b9-458b-8c55-8b14ff08c8cc"
-            ],
-            "children": [
-                "8e0079eb-ed37-4c77-a5d3-48d14bf68def",
-                "5b066dfa-4ff3-4057-a4be-c4372d3fed6f",
-                "d5475baf-57ee-4700-889f-35b8d95c61b4"
-            ]
-        }
-    },
-    {
-        "id": "1adaeda9-e2b9-458b-8c55-8b14ff08c8cc",
-        "data": {
-            "gender": "F",
-            "nama": "Novia Ukrovia",
-            "birthday": "",
-            "avatar": ""
-        },
-        "rels": {
-            "spouses": [
-                "0133aa0e-9cdb-4c1b-bb7d-07af3429a5b1"
-            ],
-            "children": [
-                "8e0079eb-ed37-4c77-a5d3-48d14bf68def",
-                "5b066dfa-4ff3-4057-a4be-c4372d3fed6f",
-                "d5475baf-57ee-4700-889f-35b8d95c61b4"
-            ]
-        }
-    },
-    {
-        "id": "8e0079eb-ed37-4c77-a5d3-48d14bf68def",
-        "data": {
-            "gender": "M",
-            "nama": "Destino Hirsyu Alvaro",
-            "birthday": "",
-            "avatar": ""
-        },
-        "rels": {
-            "father": "0133aa0e-9cdb-4c1b-bb7d-07af3429a5b1",
-            "mother": "1adaeda9-e2b9-458b-8c55-8b14ff08c8cc"
-        }
-    },
-    {
-        "id": "5b066dfa-4ff3-4057-a4be-c4372d3fed6f",
-        "data": {
-            "gender": "F",
-            "nama": "Glandys  Ceria Almahrina ",
-            "birthday": "",
-            "avatar": ""
-        },
-        "rels": {
-            "father": "0133aa0e-9cdb-4c1b-bb7d-07af3429a5b1",
-            "mother": "1adaeda9-e2b9-458b-8c55-8b14ff08c8cc"
-        }
-    },
-    {
-        "id": "d5475baf-57ee-4700-889f-35b8d95c61b4",
-        "data": {
-            "gender": "F",
-            "nama": "Glania Audy Almahira",
-            "birthday": "",
-            "avatar": ""
-        },
-        "rels": {
-            "father": "0133aa0e-9cdb-4c1b-bb7d-07af3429a5b1",
-            "mother": "1adaeda9-e2b9-458b-8c55-8b14ff08c8cc"
-        }
-    },
-    {
-        "id": "23b8d9a7-2b30-412a-a4a4-50eda0165daa",
-        "data": {
-            "gender": "F",
-            "nama": "Hanifah Hidayati",
-            "birthday": "",
-            "avatar": ""
-        },
-        "rels": {
-            "father": "4c8248ba-3844-4068-aced-d8de9ad85f0f",
-            "mother": "7b8c176a-ab50-46f6-a216-8296142f9edc",
-            "spouses": [
-                "0bebf933-e982-417d-b4bd-1f7b671fd669"
-            ],
-            "children": [
-                "67f73303-42ee-43e3-bf8a-6970a98955ce",
-                "1421911a-9210-4a9d-8fa1-a8dc93596306"
-            ]
-        }
-    },
-    {
-        "id": "0bebf933-e982-417d-b4bd-1f7b671fd669",
-        "data": {
-            "gender": "M",
-            "nama": "Khoiru Rezak",
-            "birthday": "",
-            "avatar": ""
-        },
-        "rels": {
-            "spouses": [
-                "23b8d9a7-2b30-412a-a4a4-50eda0165daa"
-            ],
-            "children": [
-                "67f73303-42ee-43e3-bf8a-6970a98955ce",
-                "1421911a-9210-4a9d-8fa1-a8dc93596306"
-            ]
-        }
-    },
-    {
-        "id": "67f73303-42ee-43e3-bf8a-6970a98955ce",
-        "data": {
-            "gender": "F",
-            "nama": "Elshanum Puspa Fahriza",
-            "birthday": "",
-            "avatar": ""
-        },
-        "rels": {
-            "father": "23b8d9a7-2b30-412a-a4a4-50eda0165daa",
-            "mother": "0bebf933-e982-417d-b4bd-1f7b671fd669"
-        }
-    },
-    {
-        "id": "1421911a-9210-4a9d-8fa1-a8dc93596306",
-        "data": {
-            "gender": "M",
-            "nama": "Ziyan Chlolid Fariza",
-            "birthday": "",
-            "avatar": ""
-        },
-        "rels": {
-            "father": "23b8d9a7-2b30-412a-a4a4-50eda0165daa",
-            "mother": "0bebf933-e982-417d-b4bd-1f7b671fd669"
-        }
-    },
-    {
-        "id": "c739edea-d146-4eb8-815b-a56b57644f0e",
-        "data": {
-            "gender": "F",
-            "nama": "Rohmawati",
-            "birthday": "",
-            "avatar": ""
-        },
-        "rels": {
-            "father": "1c169029-871a-4223-9819-d2c1e35db38c",
-            "mother": "26fd86c2-037a-4f43-ab2f-a03972e547d7"
-        }
-    },
-    {
-        "id": "f2fac54f-f5b9-49f4-a184-d6546e451e42",
-        "data": {
-            "gender": "F",
-            "nama": "Nahudah",
-            "birthday": "",
-            "avatar": ""
-        },
-        "rels": {
-            "spouses": [
-                "67af34b9-ff74-482b-9eaa-5d94818f0d87"
-            ],
-            "children": [
-                "1ed79215-0a3f-45ff-9a58-61ee8f4ed965",
-                "0b3e7288-b993-49f0-af36-abb80c4b17b5",
-                "e3e3643a-4ed6-4046-84bd-875b5c42b18c",
-                "0b0c96d0-680c-4266-99e7-2270db0d4068"
-            ]
-        }
-    },
-    {
-        "id": "1ed79215-0a3f-45ff-9a58-61ee8f4ed965",
-        "data": {
-            "gender": "F",
-            "nama": "Untung Farida",
-            "birthday": "",
-            "avatar": ""
-        },
-        "rels": {
-            "father": "67af34b9-ff74-482b-9eaa-5d94818f0d87",
-            "mother": "f2fac54f-f5b9-49f4-a184-d6546e451e42",
-            "spouses": [
-                "b2410ee9-cf8e-4197-ba87-e16b44c46f93"
-            ],
-            "children": [
-                "e9199c9a-a2c7-4185-911a-f6c12bddbf1e",
-                "44c3ff34-7476-4e37-b35a-85126aa7375e",
-                "625a80fe-91eb-4076-a0b2-b63e1792aff1"
-            ]
-        }
-    },
-    {
-        "id": "b2410ee9-cf8e-4197-ba87-e16b44c46f93",
-        "data": {
-            "gender": "M",
-            "nama": "Hadi Gunawan",
-            "birthday": "",
-            "avatar": ""
-        },
-        "rels": {
-            "spouses": [
-                "1ed79215-0a3f-45ff-9a58-61ee8f4ed965"
-            ],
-            "children": [
-                "e9199c9a-a2c7-4185-911a-f6c12bddbf1e",
-                "44c3ff34-7476-4e37-b35a-85126aa7375e",
-                "625a80fe-91eb-4076-a0b2-b63e1792aff1"
-            ]
-        }
-    },
-    {
-        "id": "e9199c9a-a2c7-4185-911a-f6c12bddbf1e",
-        "data": {
-            "gender": "M",
-            "nama": "Ardi Rahmansyah Hadis",
-            "birthday": "",
-            "avatar": ""
-        },
-        "rels": {
-            "father": "1ed79215-0a3f-45ff-9a58-61ee8f4ed965",
-            "mother": "b2410ee9-cf8e-4197-ba87-e16b44c46f93",
-            "spouses": [
-                "fba34e1b-2557-45eb-8c7c-5ff3dae64091"
-            ],
-            "children": [
-                "0e9c7a78-0225-4431-a056-ef087e403f6f",
-                "ad47ebc5-8baa-47c2-8963-3814281db99e",
-                "901d938b-bb18-4862-83f9-f5444993e629",
-                "6a494768-f091-4736-8515-b9ed84466ba5"
-            ]
-        }
-    },
-    {
-        "id": "fba34e1b-2557-45eb-8c7c-5ff3dae64091",
-        "data": {
-            "gender": "F",
-            "nama": "Afnia",
-            "birthday": "",
-            "avatar": ""
-        },
-        "rels": {
-            "spouses": [
-                "e9199c9a-a2c7-4185-911a-f6c12bddbf1e"
-            ],
-            "children": [
-                "0e9c7a78-0225-4431-a056-ef087e403f6f",
-                "ad47ebc5-8baa-47c2-8963-3814281db99e",
-                "901d938b-bb18-4862-83f9-f5444993e629",
-                "6a494768-f091-4736-8515-b9ed84466ba5"
-            ]
-        }
-    },
-    {
-        "id": "0e9c7a78-0225-4431-a056-ef087e403f6f",
-        "data": {
-            "gender": "M",
-            "nama": "Omar",
-            "birthday": "",
-            "avatar": ""
-        },
-        "rels": {
-            "father": "e9199c9a-a2c7-4185-911a-f6c12bddbf1e",
-            "mother": "fba34e1b-2557-45eb-8c7c-5ff3dae64091"
-        }
-    },
-    {
-        "id": "ad47ebc5-8baa-47c2-8963-3814281db99e",
-        "data": {
-            "gender": "F",
-            "nama": "Zeza",
-            "birthday": "",
-            "avatar": ""
-        },
-        "rels": {
-            "father": "e9199c9a-a2c7-4185-911a-f6c12bddbf1e",
-            "mother": "fba34e1b-2557-45eb-8c7c-5ff3dae64091"
-        }
-    },
-    {
-        "id": "901d938b-bb18-4862-83f9-f5444993e629",
-        "data": {
-            "gender": "M",
-            "nama": "Dibah",
-            "birthday": "",
-            "avatar": ""
-        },
-        "rels": {
-            "father": "e9199c9a-a2c7-4185-911a-f6c12bddbf1e",
-            "mother": "fba34e1b-2557-45eb-8c7c-5ff3dae64091"
-        }
-    },
-    {
-        "id": "6a494768-f091-4736-8515-b9ed84466ba5",
-        "data": {
-            "gender": "F",
-            "nama": "Jihan",
-            "birthday": "",
-            "avatar": ""
-        },
-        "rels": {
-            "father": "e9199c9a-a2c7-4185-911a-f6c12bddbf1e",
-            "mother": "fba34e1b-2557-45eb-8c7c-5ff3dae64091"
-        }
-    },
-    {
-        "id": "44c3ff34-7476-4e37-b35a-85126aa7375e",
-        "data": {
-            "gender": "F",
-            "nama": "Choirul Ulfa Dina ",
-            "birthday": "",
-            "avatar": ""
-        },
-        "rels": {
-            "father": "1ed79215-0a3f-45ff-9a58-61ee8f4ed965",
-            "mother": "b2410ee9-cf8e-4197-ba87-e16b44c46f93",
-            "spouses": [
-                "82311768-6da9-4d1e-8d39-39f1d1a65e37"
-            ],
-            "children": [
-                "082cdd70-5b89-4102-b7c4-3f4877dda39c",
-                "d40c8e9a-24f7-4952-84e3-3bd3c299dcd6",
-                "8be61dca-443a-46a0-bd50-65064b7edd8f"
-            ]
-        }
-    },
-    {
-        "id": "82311768-6da9-4d1e-8d39-39f1d1a65e37",
-        "data": {
-            "gender": "M",
-            "nama": "Henry",
-            "birthday": "",
-            "avatar": ""
-        },
-        "rels": {
-            "spouses": [
-                "44c3ff34-7476-4e37-b35a-85126aa7375e"
-            ],
-            "children": [
-                "082cdd70-5b89-4102-b7c4-3f4877dda39c",
-                "d40c8e9a-24f7-4952-84e3-3bd3c299dcd6",
-                "8be61dca-443a-46a0-bd50-65064b7edd8f"
-            ]
-        }
-    },
-    {
-        "id": "082cdd70-5b89-4102-b7c4-3f4877dda39c",
-        "data": {
-            "gender": "F",
-            "nama": "Marza",
-            "birthday": "",
-            "avatar": ""
-        },
-        "rels": {
-            "father": "44c3ff34-7476-4e37-b35a-85126aa7375e",
-            "mother": "82311768-6da9-4d1e-8d39-39f1d1a65e37"
-        }
-    },
-    {
-        "id": "d40c8e9a-24f7-4952-84e3-3bd3c299dcd6",
-        "data": {
-            "gender": "F",
-            "nama": "Alesha",
-            "birthday": "",
-            "avatar": ""
-        },
-        "rels": {
-            "father": "44c3ff34-7476-4e37-b35a-85126aa7375e",
-            "mother": "82311768-6da9-4d1e-8d39-39f1d1a65e37"
-        }
-    },
-    {
-        "id": "8be61dca-443a-46a0-bd50-65064b7edd8f",
-        "data": {
-            "gender": "F",
-            "nama": "Sheza",
-            "birthday": "",
-            "avatar": ""
-        },
-        "rels": {
-            "father": "44c3ff34-7476-4e37-b35a-85126aa7375e",
-            "mother": "82311768-6da9-4d1e-8d39-39f1d1a65e37"
-        }
-    },
-    {
-        "id": "625a80fe-91eb-4076-a0b2-b63e1792aff1",
-        "data": {
-            "gender": "F",
-            "nama": "Nisrina Salsabilah",
-            "birthday": "",
-            "avatar": ""
-        },
-        "rels": {
-            "father": "1ed79215-0a3f-45ff-9a58-61ee8f4ed965",
-            "mother": "b2410ee9-cf8e-4197-ba87-e16b44c46f93"
-        }
-    },
-    {
-        "id": "0b3e7288-b993-49f0-af36-abb80c4b17b5",
-        "data": {
-            "gender": "M",
-            "nama": "Agus Nasihin",
-            "birthday": "",
-            "avatar": ""
-        },
-        "rels": {
-            "father": "67af34b9-ff74-482b-9eaa-5d94818f0d87",
-            "mother": "f2fac54f-f5b9-49f4-a184-d6546e451e42",
-            "spouses": [
-                "9c376129-f45d-4c12-9790-f32e055b3e84"
-            ],
-            "children": [
-                "d979391b-9f66-4cd8-a185-5c763c73587d",
-                "66860de5-0034-4c39-a4e4-b6f925b77de2"
-            ]
-        }
-    },
-    {
-        "id": "9c376129-f45d-4c12-9790-f32e055b3e84",
-        "data": {
-            "gender": "F",
-            "nama": "Emi Laila Khurotul Muazizah",
-            "birthday": "",
-            "avatar": ""
-        },
-        "rels": {
-            "spouses": [
-                "0b3e7288-b993-49f0-af36-abb80c4b17b5"
-            ],
-            "children": [
-                "d979391b-9f66-4cd8-a185-5c763c73587d",
-                "66860de5-0034-4c39-a4e4-b6f925b77de2"
-            ]
-        }
-    },
-    {
-        "id": "d979391b-9f66-4cd8-a185-5c763c73587d",
-        "data": {
-            "gender": "F",
-            "nama": "Sherlena Wahidah Andhikayanti",
-            "birthday": "",
-            "avatar": ""
-        },
-        "rels": {
-            "father": "0b3e7288-b993-49f0-af36-abb80c4b17b5",
-            "mother": "9c376129-f45d-4c12-9790-f32e055b3e84"
-        }
-    },
-    {
-        "id": "66860de5-0034-4c39-a4e4-b6f925b77de2",
-        "data": {
-            "gender": "M",
-            "nama": "M Farabi Kapptana Loga",
-            "birthday": "",
-            "avatar": ""
-        },
-        "rels": {
-            "father": "0b3e7288-b993-49f0-af36-abb80c4b17b5",
-            "mother": "9c376129-f45d-4c12-9790-f32e055b3e84"
-        }
-    },
-    {
-        "id": "e3e3643a-4ed6-4046-84bd-875b5c42b18c",
-        "data": {
-            "gender": "F",
-            "nama": "Indranik Nurma ",
-            "birthday": "",
-            "avatar": ""
-        },
-        "rels": {
-            "father": "67af34b9-ff74-482b-9eaa-5d94818f0d87",
-            "mother": "f2fac54f-f5b9-49f4-a184-d6546e451e42",
-            "spouses": [
-                "243ad463-76de-4fb8-a5cf-f56c272abc28"
-            ],
-            "children": [
-                "53969757-5489-4b0e-acbe-3b58ea1707d0",
-                "ae2884f2-50cf-4591-b43d-0b37e76c9cab",
-                "9482f8ee-4299-403e-a2bf-3d4fcd90e7cc"
-            ]
-        }
-    },
-    {
-        "id": "243ad463-76de-4fb8-a5cf-f56c272abc28",
-        "data": {
-            "gender": "M",
-            "nama": "Moh Yusuf",
-            "birthday": "",
-            "avatar": ""
-        },
-        "rels": {
-            "spouses": [
-                "e3e3643a-4ed6-4046-84bd-875b5c42b18c"
-            ],
-            "children": [
-                "53969757-5489-4b0e-acbe-3b58ea1707d0",
-                "ae2884f2-50cf-4591-b43d-0b37e76c9cab",
-                "9482f8ee-4299-403e-a2bf-3d4fcd90e7cc"
-            ]
-        }
-    },
-    {
-        "id": "53969757-5489-4b0e-acbe-3b58ea1707d0",
-        "data": {
-            "gender": "M",
-            "nama": "Wildan Fauzy",
-            "birthday": "",
-            "avatar": ""
-        },
-        "rels": {
-            "father": "e3e3643a-4ed6-4046-84bd-875b5c42b18c",
-            "mother": "243ad463-76de-4fb8-a5cf-f56c272abc28"
-        }
-    },
-    {
-        "id": "ae2884f2-50cf-4591-b43d-0b37e76c9cab",
-        "data": {
-            "gender": "M",
-            "nama": "Fahmi Firmannsyah",
-            "birthday": "",
-            "avatar": ""
-        },
-        "rels": {
-            "father": "e3e3643a-4ed6-4046-84bd-875b5c42b18c",
-            "mother": "243ad463-76de-4fb8-a5cf-f56c272abc28"
-        }
-    },
-    {
-        "id": "9482f8ee-4299-403e-a2bf-3d4fcd90e7cc",
-        "data": {
-            "gender": "F",
-            "nama": "Nadine Zakkyyah Azzahara",
-            "birthday": "",
-            "avatar": ""
-        },
-        "rels": {
-            "father": "e3e3643a-4ed6-4046-84bd-875b5c42b18c",
-            "mother": "243ad463-76de-4fb8-a5cf-f56c272abc28"
-        }
-    },
-    {
-        "id": "0b0c96d0-680c-4266-99e7-2270db0d4068",
-        "data": {
-            "gender": "F",
-            "nama": "Nurul Hapipah",
-            "birthday": "",
-            "avatar": ""
-        },
-        "rels": {
-            "father": "67af34b9-ff74-482b-9eaa-5d94818f0d87",
-            "mother": "f2fac54f-f5b9-49f4-a184-d6546e451e42",
-            "spouses": [
-                "832380fc-3f78-4a2f-aa8a-df35f2bd1f14"
-            ],
-            "children": [
-                "6b9f7288-5d96-4941-99d4-84b0a9a39135",
-                "72fc338c-a994-4dce-b2b0-367b0253a93f"
-            ]
-        }
-    },
-    {
-        "id": "832380fc-3f78-4a2f-aa8a-df35f2bd1f14",
-        "data": {
-            "gender": "M",
-            "nama": "Samuji",
-            "birthday": "",
-            "avatar": ""
-        },
-        "rels": {
-            "spouses": [
-                "0b0c96d0-680c-4266-99e7-2270db0d4068"
-            ],
-            "children": [
-                "6b9f7288-5d96-4941-99d4-84b0a9a39135",
-                "72fc338c-a994-4dce-b2b0-367b0253a93f"
-            ]
-        }
-    },
-    {
-        "id": "6b9f7288-5d96-4941-99d4-84b0a9a39135",
-        "data": {
-            "gender": "F",
-            "nama": "Inna Oriyza Sativa",
-            "birthday": "",
-            "avatar": ""
-        },
-        "rels": {
-            "father": "0b0c96d0-680c-4266-99e7-2270db0d4068",
-            "mother": "832380fc-3f78-4a2f-aa8a-df35f2bd1f14"
-        }
-    },
-    {
-        "id": "72fc338c-a994-4dce-b2b0-367b0253a93f",
-        "data": {
-            "gender": "F",
-            "nama": "Nayyara Aishah Savita",
-            "birthday": "",
-            "avatar": ""
-        },
-        "rels": {
-            "father": "0b0c96d0-680c-4266-99e7-2270db0d4068",
-            "mother": "832380fc-3f78-4a2f-aa8a-df35f2bd1f14"
-        }
-    },
-    {
-        "id": "ca0af30b-7e1e-4cab-baef-46053c1e7250",
-        "data": {
-            "gender": "M",
-            "nama": "Maksum",
-            "birthday": "",
-            "avatar": ""
-        },
-        "rels": {
-            "spouses": [
-                "9039171a-b00e-4129-b1af-e21969076b99"
-            ],
-            "children": [
-                "50a41e61-e6ea-4a86-a2e5-69bd0ccf303a",
-                "4fc68511-ce3e-481e-a56b-b3149d37b1b7",
-                "668382d3-a21b-4e46-b62a-e26d5619da3e",
-                "e4861c16-2376-4085-9bfa-0aed900f2c48"
-            ]
-        }
-    },
-    {
-        "id": "50a41e61-e6ea-4a86-a2e5-69bd0ccf303a",
-        "data": {
-            "gender": "M",
-            "nama": "Gatot Syaiful Bahri ",
-            "birthday": "",
-            "avatar": ""
-        },
-        "rels": {
-            "father": "9039171a-b00e-4129-b1af-e21969076b99",
-            "mother": "ca0af30b-7e1e-4cab-baef-46053c1e7250",
-            "spouses": [
-                "0eb04b51-7189-4aa6-84c0-af62998f309b"
-            ],
-            "children": [
-                "d722a951-f41f-4d5c-b793-cd06ac6c0e4a",
-                "1398d158-72e6-4932-a7a9-1281b348beaf",
-                "b91a5b1c-77f9-4836-be4a-cf4fc1e5ba7e"
-            ]
-        }
-    },
-    {
-        "id": "0eb04b51-7189-4aa6-84c0-af62998f309b",
-        "data": {
-            "gender": "F",
-            "nama": "Yus Mainah",
-            "birthday": "",
-            "avatar": ""
-        },
-        "rels": {
-            "spouses": [
-                "50a41e61-e6ea-4a86-a2e5-69bd0ccf303a"
-            ],
-            "children": [
-                "d722a951-f41f-4d5c-b793-cd06ac6c0e4a",
-                "1398d158-72e6-4932-a7a9-1281b348beaf",
-                "b91a5b1c-77f9-4836-be4a-cf4fc1e5ba7e"
-            ]
-        }
-    },
-    {
-        "id": "d722a951-f41f-4d5c-b793-cd06ac6c0e4a",
-        "data": {
-            "gender": "M",
-            "nama": "Efan",
-            "birthday": "",
-            "avatar": ""
-        },
-        "rels": {
-            "father": "50a41e61-e6ea-4a86-a2e5-69bd0ccf303a",
-            "mother": "0eb04b51-7189-4aa6-84c0-af62998f309b"
-        }
-    },
-    {
-        "id": "1398d158-72e6-4932-a7a9-1281b348beaf",
-        "data": {
-            "gender": "M",
-            "nama": "Arik",
-            "birthday": "",
-            "avatar": ""
-        },
-        "rels": {
-            "father": "50a41e61-e6ea-4a86-a2e5-69bd0ccf303a",
-            "mother": "0eb04b51-7189-4aa6-84c0-af62998f309b"
-        }
-    },
-    {
-        "id": "b91a5b1c-77f9-4836-be4a-cf4fc1e5ba7e",
-        "data": {
-            "gender": "M",
-            "nama": "Izal",
-            "birthday": "",
-            "avatar": ""
-        },
-        "rels": {
-            "father": "50a41e61-e6ea-4a86-a2e5-69bd0ccf303a",
-            "mother": "0eb04b51-7189-4aa6-84c0-af62998f309b"
-        }
-    },
-    {
-        "id": "4fc68511-ce3e-481e-a56b-b3149d37b1b7",
-        "data": {
-            "gender": "F",
-            "nama": "Lilik Farida",
-            "birthday": "",
-            "avatar": ""
-        },
-        "rels": {
-            "father": "9039171a-b00e-4129-b1af-e21969076b99",
-            "mother": "ca0af30b-7e1e-4cab-baef-46053c1e7250",
-            "spouses": [
-                "455513f8-d74c-45bb-8963-6c313be6a080"
-            ],
-            "children": [
-                "84a9dee2-04b0-490a-a6e2-78000378b287",
-                "447bcbc3-423c-4022-bc6c-d45f044bc849"
-            ]
-        }
-    },
-    {
-        "id": "455513f8-d74c-45bb-8963-6c313be6a080",
-        "data": {
-            "gender": "M",
-            "nama": "Gatot",
-            "birthday": "",
-            "avatar": ""
-        },
-        "rels": {
-            "spouses": [
-                "4fc68511-ce3e-481e-a56b-b3149d37b1b7"
-            ],
-            "children": [
-                "84a9dee2-04b0-490a-a6e2-78000378b287",
-                "447bcbc3-423c-4022-bc6c-d45f044bc849"
-            ]
-        }
-    },
-    {
-        "id": "84a9dee2-04b0-490a-a6e2-78000378b287",
-        "data": {
-            "gender": "M",
-            "nama": "Arif Aprila Sanjaya",
-            "birthday": "",
-            "avatar": ""
-        },
-        "rels": {
-            "father": "4fc68511-ce3e-481e-a56b-b3149d37b1b7",
-            "mother": "455513f8-d74c-45bb-8963-6c313be6a080",
-            "spouses": [
-                "52081c67-e42f-4329-98c2-97c027e0df45"
-            ],
-            "children": [
-                "60137d79-c958-45f3-9b3c-95ab6be1f221",
-                "b87b93f2-9fec-4a52-b3ee-a21091c1ad0e"
-            ]
-        }
-    },
-    {
-        "id": "52081c67-e42f-4329-98c2-97c027e0df45",
-        "data": {
-            "gender": "F",
-            "nama": "Yuli Rahmawati",
-            "birthday": "",
-            "avatar": ""
-        },
-        "rels": {
-            "spouses": [
-                "84a9dee2-04b0-490a-a6e2-78000378b287"
-            ],
-            "children": [
-                "60137d79-c958-45f3-9b3c-95ab6be1f221",
-                "b87b93f2-9fec-4a52-b3ee-a21091c1ad0e"
-            ]
-        }
-    },
-    {
-        "id": "60137d79-c958-45f3-9b3c-95ab6be1f221",
-        "data": {
-            "gender": "F",
-            "nama": "Layang Asmara",
-            "birthday": "",
-            "avatar": ""
-        },
-        "rels": {
-            "father": "84a9dee2-04b0-490a-a6e2-78000378b287",
-            "mother": "52081c67-e42f-4329-98c2-97c027e0df45"
-        }
-    },
-    {
-        "id": "b87b93f2-9fec-4a52-b3ee-a21091c1ad0e",
-        "data": {
-            "gender": "F",
-            "nama": "Yura",
-            "birthday": "",
-            "avatar": ""
-        },
-        "rels": {
-            "father": "84a9dee2-04b0-490a-a6e2-78000378b287",
-            "mother": "52081c67-e42f-4329-98c2-97c027e0df45"
-        }
-    },
-    {
-        "id": "447bcbc3-423c-4022-bc6c-d45f044bc849",
-        "data": {
-            "gender": "M",
-            "nama": "Befin Amanda Putra ",
-            "birthday": "",
-            "avatar": ""
-        },
-        "rels": {
-            "father": "4fc68511-ce3e-481e-a56b-b3149d37b1b7",
-            "mother": "455513f8-d74c-45bb-8963-6c313be6a080",
-            "spouses": [
-                "9f5d999e-fcf1-4584-8bf8-286ae23876ec"
-            ],
-            "children": [
-                "7dd1f907-666e-47b1-8399-69a127878e73",
-                "c52320ce-8dc3-485a-a332-027b11c15710"
-            ]
-        }
-    },
-    {
-        "id": "9f5d999e-fcf1-4584-8bf8-286ae23876ec",
-        "data": {
-            "gender": "F",
-            "nama": "Rachmah Chairani",
-            "birthday": "",
-            "avatar": ""
-        },
-        "rels": {
-            "spouses": [
-                "447bcbc3-423c-4022-bc6c-d45f044bc849"
-            ],
-            "children": [
-                "7dd1f907-666e-47b1-8399-69a127878e73",
-                "c52320ce-8dc3-485a-a332-027b11c15710"
-            ]
-        }
-    },
-    {
-        "id": "7dd1f907-666e-47b1-8399-69a127878e73",
-        "data": {
-            "gender": "M",
-            "nama": "Fattah Arsyad",
-            "birthday": "",
-            "avatar": ""
-        },
-        "rels": {
-            "father": "447bcbc3-423c-4022-bc6c-d45f044bc849",
-            "mother": "9f5d999e-fcf1-4584-8bf8-286ae23876ec"
-        }
-    },
-    {
-        "id": "c52320ce-8dc3-485a-a332-027b11c15710",
-        "data": {
-            "gender": "F",
-            "nama": "Azzalea Zalfa",
-            "birthday": "",
-            "avatar": ""
-        },
-        "rels": {
-            "father": "447bcbc3-423c-4022-bc6c-d45f044bc849",
-            "mother": "9f5d999e-fcf1-4584-8bf8-286ae23876ec"
-        }
-    },
-    {
-        "id": "668382d3-a21b-4e46-b62a-e26d5619da3e",
-        "data": {
-            "gender": "M",
-            "nama": "Sulis",
-            "birthday": "",
-            "avatar": ""
-        },
-        "rels": {
-            "father": "9039171a-b00e-4129-b1af-e21969076b99",
-            "mother": "ca0af30b-7e1e-4cab-baef-46053c1e7250",
-            "spouses": [
-                "04c7a580-a7e2-4dfb-9346-8dc4eb174925"
-            ],
-            "children": [
-                "644ac2ea-e704-44dd-89ad-a67e4d1ad406",
-                "3591a2e0-0a91-4d23-b9b7-96dffd997c0d",
-                "d2772a44-987d-42be-bb0d-b6fa5c3966a0"
-            ]
-        }
-    },
-    {
-        "id": "04c7a580-a7e2-4dfb-9346-8dc4eb174925",
-        "data": {
-            "gender": "F",
-            "nama": "Hairomin",
-            "birthday": "",
-            "avatar": ""
-        },
-        "rels": {
-            "spouses": [
-                "668382d3-a21b-4e46-b62a-e26d5619da3e"
-            ],
-            "children": [
-                "644ac2ea-e704-44dd-89ad-a67e4d1ad406",
-                "3591a2e0-0a91-4d23-b9b7-96dffd997c0d",
-                "d2772a44-987d-42be-bb0d-b6fa5c3966a0"
-            ]
-        }
-    },
-    {
-        "id": "644ac2ea-e704-44dd-89ad-a67e4d1ad406",
-        "data": {
-            "gender": "M",
-            "nama": "Ryan Hidayatullah",
-            "birthday": "",
-            "avatar": ""
-        },
-        "rels": {
-            "father": "668382d3-a21b-4e46-b62a-e26d5619da3e",
-            "mother": "04c7a580-a7e2-4dfb-9346-8dc4eb174925",
-            "spouses": [
-                "1baf7ce2-d8da-4377-8df8-7efadef284e2"
-            ],
-            "children": [
-                "6609db4e-f7fb-4776-8440-b60aae981917",
-                "10e23810-c2ca-41e8-a74b-c07c10a605f4",
-                "b7e51baf-608a-4e59-a555-76670dfaa931"
-            ]
-        }
-    },
-    {
-        "id": "1baf7ce2-d8da-4377-8df8-7efadef284e2",
-        "data": {
-            "gender": "F",
-            "nama": "Aprisanti Nia",
-            "birthday": "",
-            "avatar": ""
-        },
-        "rels": {
-            "spouses": [
-                "644ac2ea-e704-44dd-89ad-a67e4d1ad406"
-            ],
-            "children": [
-                "6609db4e-f7fb-4776-8440-b60aae981917",
-                "10e23810-c2ca-41e8-a74b-c07c10a605f4",
-                "b7e51baf-608a-4e59-a555-76670dfaa931"
-            ]
-        }
-    },
-    {
-        "id": "6609db4e-f7fb-4776-8440-b60aae981917",
-        "data": {
-            "gender": "F",
-            "nama": "Mediana",
-            "birthday": "",
-            "avatar": ""
-        },
-        "rels": {
-            "father": "644ac2ea-e704-44dd-89ad-a67e4d1ad406",
-            "mother": "1baf7ce2-d8da-4377-8df8-7efadef284e2"
-        }
-    },
-    {
-        "id": "10e23810-c2ca-41e8-a74b-c07c10a605f4",
-        "data": {
-            "gender": "F",
-            "nama": "Rubby",
-            "birthday": "",
-            "avatar": ""
-        },
-        "rels": {
-            "father": "644ac2ea-e704-44dd-89ad-a67e4d1ad406",
-            "mother": "1baf7ce2-d8da-4377-8df8-7efadef284e2"
-        }
-    },
-    {
-        "id": "b7e51baf-608a-4e59-a555-76670dfaa931",
-        "data": {
-            "gender": "F",
-            "nama": "Hawwa",
-            "birthday": "",
-            "avatar": ""
-        },
-        "rels": {
-            "father": "644ac2ea-e704-44dd-89ad-a67e4d1ad406",
-            "mother": "1baf7ce2-d8da-4377-8df8-7efadef284e2"
-        }
-    },
-    {
-        "id": "3591a2e0-0a91-4d23-b9b7-96dffd997c0d",
-        "data": {
-            "gender": "F",
-            "nama": "Titah Lailiyah ",
-            "birthday": "",
-            "avatar": ""
-        },
-        "rels": {
-            "father": "668382d3-a21b-4e46-b62a-e26d5619da3e",
-            "mother": "04c7a580-a7e2-4dfb-9346-8dc4eb174925",
-            "spouses": [
-                "5d93b80d-796a-4798-9d73-ea3243303b50"
-            ]
-        }
-    },
-    {
-        "id": "5d93b80d-796a-4798-9d73-ea3243303b50",
-        "data": {
-            "gender": "M",
-            "nama": "Firman Rosadi",
-            "birthday": "",
-            "avatar": ""
-        },
-        "rels": {
-            "spouses": [
-                "3591a2e0-0a91-4d23-b9b7-96dffd997c0d"
-            ],
-            "children": []
-        }
-    },
-    {
-        "id": "d2772a44-987d-42be-bb0d-b6fa5c3966a0",
-        "data": {
-            "gender": "M",
-            "nama": "Sulton",
-            "birthday": "",
-            "avatar": ""
-        },
-        "rels": {
-            "father": "668382d3-a21b-4e46-b62a-e26d5619da3e",
-            "mother": "04c7a580-a7e2-4dfb-9346-8dc4eb174925"
-        }
-    },
-    {
-        "id": "e4861c16-2376-4085-9bfa-0aed900f2c48",
-        "data": {
-            "gender": "F",
-            "nama": "Yayuk S Rahayu",
-            "birthday": "",
-            "avatar": ""
-        },
-        "rels": {
-            "father": "9039171a-b00e-4129-b1af-e21969076b99",
-            "mother": "ca0af30b-7e1e-4cab-baef-46053c1e7250",
-            "spouses": [
-                "3dd0489c-a877-4804-8619-e1eee3b449ec"
-            ],
-            "children": [
-                "336141ad-ba5c-4281-9f25-ddc7357806b6",
-                "011b213c-b6ab-4679-ab38-83e1a161b415",
-                "4263b7ee-ea5b-4139-b352-50b8f9b2ba13"
-            ]
-        }
-    },
-    {
-        "id": "3dd0489c-a877-4804-8619-e1eee3b449ec",
-        "data": {
-            "gender": "M",
-            "nama": "Husnan",
-            "birthday": "",
-            "avatar": ""
-        },
-        "rels": {
-            "spouses": [
-                "e4861c16-2376-4085-9bfa-0aed900f2c48"
-            ],
-            "children": [
-                "336141ad-ba5c-4281-9f25-ddc7357806b6",
-                "011b213c-b6ab-4679-ab38-83e1a161b415",
-                "4263b7ee-ea5b-4139-b352-50b8f9b2ba13"
-            ]
-        }
-    },
-    {
-        "id": "336141ad-ba5c-4281-9f25-ddc7357806b6",
-        "data": {
-            "gender": "F",
-            "nama": "Hilma Yunanda",
-            "birthday": "",
-            "avatar": ""
-        },
-        "rels": {
-            "father": "e4861c16-2376-4085-9bfa-0aed900f2c48",
-            "mother": "3dd0489c-a877-4804-8619-e1eee3b449ec",
-            "spouses": [
-                "1fe299d8-141a-4b1f-8fac-aef9ce43f99c"
-            ],
-            "children": [
-                "1f7e02b5-2e09-4f6b-94bb-da621366ebda"
-            ]
-        }
-    },
-    {
-        "id": "1fe299d8-141a-4b1f-8fac-aef9ce43f99c",
-        "data": {
-            "gender": "M",
-            "nama": "Gilang",
-            "birthday": "",
-            "avatar": ""
-        },
-        "rels": {
-            "spouses": [
-                "336141ad-ba5c-4281-9f25-ddc7357806b6"
-            ],
-            "children": [
-                "1f7e02b5-2e09-4f6b-94bb-da621366ebda"
-            ]
-        }
-    },
-    {
-        "id": "1f7e02b5-2e09-4f6b-94bb-da621366ebda",
-        "data": {
-            "gender": "M",
-            "nama": "Aydan",
-            "birthday": "",
-            "avatar": ""
-        },
-        "rels": {
-            "father": "336141ad-ba5c-4281-9f25-ddc7357806b6",
-            "mother": "1fe299d8-141a-4b1f-8fac-aef9ce43f99c"
-        }
-    },
-    {
-        "id": "011b213c-b6ab-4679-ab38-83e1a161b415",
-        "data": {
-            "gender": "M",
-            "nama": "Hilman Yunan Yusnizar",
-            "birthday": "",
-            "avatar": ""
-        },
-        "rels": {
-            "father": "e4861c16-2376-4085-9bfa-0aed900f2c48",
-            "mother": "3dd0489c-a877-4804-8619-e1eee3b449ec"
-        }
-    },
-    {
-        "id": "4263b7ee-ea5b-4139-b352-50b8f9b2ba13",
-        "data": {
-            "gender": "M",
-            "nama": "Nizal",
-            "birthday": "",
-            "avatar": ""
-        },
-        "rels": {
-            "father": "e4861c16-2376-4085-9bfa-0aed900f2c48",
-            "mother": "3dd0489c-a877-4804-8619-e1eee3b449ec"
-        }
-    },
-    {
-        "id": "6f40746c-5e0c-45e7-bc3a-121ed0c09298",
-        "data": {
-            "gender": "F",
-            "nama": "Halimah",
-            "lokasi": "",
-            "birthday": ""
-        },
-        "rels": {
-            "spouses": [
-                "0ed49632-8abd-4d0a-9eee-5f2b9154d6f0"
-            ],
-            "children": [
-                "c6a6894d-9094-4d2b-8629-a88d2920b38d",
-                "fa5a0a7d-2a24-41b1-921d-24059b2f050e",
-                "27c3e2a4-6bd4-4aba-9ec3-61b4ff5d1616",
-                "08c924be-80cd-4314-b762-19f98719a3bd",
-                "d3d5416d-e7e5-4acd-a47b-05c0da2efa03",
-                "5a2c1c89-8f38-4f4c-9e8d-910840092319"
-            ]
-        }
-    },
-    {
-        "id": "c6a6894d-9094-4d2b-8629-a88d2920b38d",
-        "data": {
-            "gender": "F",
-            "nama": "Erma Syarifah",
-            "lokasi": "",
-            "birthday": ""
-        },
-        "rels": {
-            "father": "0ed49632-8abd-4d0a-9eee-5f2b9154d6f0",
-            "mother": "6f40746c-5e0c-45e7-bc3a-121ed0c09298",
-            "spouses": [
-                "8bdda49d-51f8-46dc-925e-c83bc4c80ee3"
-            ],
-            "children": []
-        }
-    },
-    {
-        "id": "fa5a0a7d-2a24-41b1-921d-24059b2f050e",
-        "data": {
-            "gender": "M",
-            "nama": "Samuri",
-            "lokasi": "",
-            "birthday": ""
-        },
-        "rels": {
-            "father": "0ed49632-8abd-4d0a-9eee-5f2b9154d6f0",
-            "mother": "6f40746c-5e0c-45e7-bc3a-121ed0c09298",
-            "spouses": [
-                "4f3ff207-0aa0-4f18-9f77-45fa671de6fc"
-            ],
-            "children": [
-                "5c00dd75-cbc0-4648-ae20-953b05ac8ea3"
-            ]
-        }
-    },
-    {
-        "id": "8bdda49d-51f8-46dc-925e-c83bc4c80ee3",
-        "data": {
-            "gender": "M",
-            "nama": "Teguh Irawan",
-            "lokasi": "",
-            "birthday": ""
-        },
-        "rels": {
-            "spouses": [
-                "c6a6894d-9094-4d2b-8629-a88d2920b38d"
-            ],
-            "children": []
-        }
-    },
-    {
-        "id": "4f3ff207-0aa0-4f18-9f77-45fa671de6fc",
-        "data": {
-            "gender": "F",
-            "nama": "Anin hapsari Slistyowati",
-            "lokasi": "",
-            "birthday": ""
-        },
-        "rels": {
-            "spouses": [
-                "fa5a0a7d-2a24-41b1-921d-24059b2f050e"
-            ],
-            "children": [
-                "5c00dd75-cbc0-4648-ae20-953b05ac8ea3"
-            ]
-        }
-    },
-    {
-        "id": "5c00dd75-cbc0-4648-ae20-953b05ac8ea3",
-        "data": {
-            "gender": "M",
-            "nama": "Ibnu Rafif Farhezi",
-            "lokasi": "",
-            "birthday": ""
-        },
-        "rels": {
-            "father": "fa5a0a7d-2a24-41b1-921d-24059b2f050e",
-            "mother": "4f3ff207-0aa0-4f18-9f77-45fa671de6fc"
-        }
-    },
-    {
-        "id": "27c3e2a4-6bd4-4aba-9ec3-61b4ff5d1616",
-        "data": {
-            "gender": "F",
-            "nama": "Nurul Umamah",
-            "lokasi": "",
-            "birthday": ""
-        },
-        "rels": {
-            "mother": "6f40746c-5e0c-45e7-bc3a-121ed0c09298",
-            "father": "0ed49632-8abd-4d0a-9eee-5f2b9154d6f0"
-        }
-    },
-    {
-        "id": "08c924be-80cd-4314-b762-19f98719a3bd",
-        "data": {
-            "gender": "F",
-            "nama": "Ika Numawati",
-            "lokasi": "",
-            "birthday": ""
-        },
-        "rels": {
-            "mother": "6f40746c-5e0c-45e7-bc3a-121ed0c09298",
-            "father": "0ed49632-8abd-4d0a-9eee-5f2b9154d6f0",
-            "spouses": [
-                "3a4f84da-fbb6-4be5-88c8-382ceedf05b3"
-            ],
-            "children": [
-                "80d585eb-d793-44f5-894a-666cde49e3cb"
-            ]
-        }
-    },
-    {
-        "id": "3a4f84da-fbb6-4be5-88c8-382ceedf05b3",
-        "data": {
-            "gender": "M",
-            "nama": "Sofyan Zubairi",
-            "lokasi": "",
-            "birthday": ""
-        },
-        "rels": {
-            "spouses": [
-                "08c924be-80cd-4314-b762-19f98719a3bd"
-            ],
-            "children": [
-                "80d585eb-d793-44f5-894a-666cde49e3cb"
-            ]
-        }
-    },
-    {
-        "id": "80d585eb-d793-44f5-894a-666cde49e3cb",
-        "data": {
-            "gender": "M",
-            "nama": "M. Widy Alfriandra Husaini",
-            "lokasi": "",
-            "birthday": ""
-        },
-        "rels": {
-            "father": "3a4f84da-fbb6-4be5-88c8-382ceedf05b3",
-            "mother": "08c924be-80cd-4314-b762-19f98719a3bd"
-        }
-    },
-    {
-        "id": "d3d5416d-e7e5-4acd-a47b-05c0da2efa03",
-        "data": {
-            "gender": "F",
-            "nama": "Ulfi Ningtias",
-            "lokasi": "",
-            "birthday": ""
-        },
-        "rels": {
-            "mother": "6f40746c-5e0c-45e7-bc3a-121ed0c09298",
-            "father": "0ed49632-8abd-4d0a-9eee-5f2b9154d6f0",
-            "spouses": [
-                "6ff11e1e-54d2-4dd1-b38b-801ed4fea916"
-            ],
-            "children": [
-                "cddc0ed9-deb8-47e7-9412-8c7353ef1fb1"
-            ]
-        }
-    },
-    {
-        "id": "6ff11e1e-54d2-4dd1-b38b-801ed4fea916",
-        "data": {
-            "gender": "M",
-            "nama": "Ar. Arohman",
-            "lokasi": "",
-            "birthday": ""
-        },
-        "rels": {
-            "spouses": [
-                "d3d5416d-e7e5-4acd-a47b-05c0da2efa03"
-            ],
-            "children": [
-                "cddc0ed9-deb8-47e7-9412-8c7353ef1fb1"
-            ]
-        }
-    },
-    {
-        "id": "cddc0ed9-deb8-47e7-9412-8c7353ef1fb1",
-        "data": {
-            "gender": "F",
-            "nama": "Arvinnindita Keisya",
-            "lokasi": "",
-            "birthday": ""
-        },
-        "rels": {
-            "mother": "d3d5416d-e7e5-4acd-a47b-05c0da2efa03",
-            "father": "6ff11e1e-54d2-4dd1-b38b-801ed4fea916"
-        }
-    },
-    {
-        "id": "5a2c1c89-8f38-4f4c-9e8d-910840092319",
-        "data": {
-            "gender": "F",
-            "nama": "Nurul Fidiaty",
-            "lokasi": "",
-            "birthday": ""
-        },
-        "rels": {
-            "mother": "6f40746c-5e0c-45e7-bc3a-121ed0c09298",
-            "father": "0ed49632-8abd-4d0a-9eee-5f2b9154d6f0",
-            "spouses": [
-                "e1c1ebd5-3395-4f9d-a9f9-55768528d3b2"
-            ],
-            "children": []
-        }
-    },
-    {
-        "id": "e1c1ebd5-3395-4f9d-a9f9-55768528d3b2",
-        "data": {
-            "gender": "M",
-            "nama": "Wahyu Ansori",
-            "lokasi": "",
-            "birthday": ""
-        },
-        "rels": {
-            "spouses": [
-                "5a2c1c89-8f38-4f4c-9e8d-910840092319"
-            ],
-            "children": []
-        }
-    },
-    {
-        "id": "227d7705-cc5d-46f7-9d72-55b05a984903",
-        "data": {
-            "gender": "M",
-            "nama": "Masdour",
-            "lokasi": "",
-            "birthday": ""
-        },
-        "rels": {
-            "spouses": [
-                "8642f8bb-78aa-40f0-8b4a-ab55dc973d7b"
-            ],
-            "children": [
-                "402ee738-7f83-43fe-b2b4-a29360444743",
-                "12af29a7-0e39-4fea-a52a-69288b68d275",
-                "73f15f3e-8b5c-4644-9ff7-daa1c45d1530",
-                "dd220ed3-5b57-4ba1-aefb-f9e6b7797028",
-                "e601e398-37cf-4655-bc8b-f97c319083a0",
-                "fe3fac7d-2925-4d96-ab0e-d49385d8bae2"
-            ]
-        }
-    },
-    {
-        "id": "402ee738-7f83-43fe-b2b4-a29360444743",
-        "data": {
-            "gender": "F",
-            "nama": "Nurul Hidayati",
-            "lokasi": "",
-            "birthday": ""
-        },
-        "rels": {
-            "mother": "8642f8bb-78aa-40f0-8b4a-ab55dc973d7b",
-            "father": "227d7705-cc5d-46f7-9d72-55b05a984903",
-            "spouses": [
-                "98439723-4373-4cc2-8d9b-8c0536a651fe"
-            ],
-            "children": [
-                "625f12d0-b163-4cc7-9af9-1a6c79f410de",
-                "5d8fa99c-7fe8-4aa3-b1e1-921d44dc4d3c",
-                "f5babf8f-1cb1-4db3-b940-d620dbeaaed4"
-            ]
-        }
-    },
-    {
-        "id": "98439723-4373-4cc2-8d9b-8c0536a651fe",
-        "data": {
-            "gender": "M",
-            "nama": "Gondo Sukmono",
-            "lokasi": "",
-            "birthday": ""
-        },
-        "rels": {
-            "spouses": [
-                "402ee738-7f83-43fe-b2b4-a29360444743"
-            ],
-            "children": [
-                "625f12d0-b163-4cc7-9af9-1a6c79f410de",
-                "5d8fa99c-7fe8-4aa3-b1e1-921d44dc4d3c",
-                "f5babf8f-1cb1-4db3-b940-d620dbeaaed4"
-            ]
-        }
-    },
-    {
-        "id": "625f12d0-b163-4cc7-9af9-1a6c79f410de",
-        "data": {
-            "gender": "M",
-            "nama": "Bachtiar Lingga P",
-            "lokasi": "",
-            "birthday": ""
-        },
-        "rels": {
-            "father": "98439723-4373-4cc2-8d9b-8c0536a651fe",
-            "mother": "402ee738-7f83-43fe-b2b4-a29360444743",
-            "spouses": [
-                "d279a016-b212-426c-988c-4e3d6886a0cb"
-            ],
-            "children": [
-                "87c412b9-ecc9-4cce-8338-35828072b3df",
-                "22f8eb63-0f35-441f-9cba-2c5d2f96e84f",
-                "4f22acc3-dcdb-427c-ae96-14d31a047e0b"
-            ]
-        }
-    },
-    {
-        "id": "5d8fa99c-7fe8-4aa3-b1e1-921d44dc4d3c",
-        "data": {
-            "gender": "F",
-            "nama": "Laras Sekar Arum",
-            "lokasi": "",
-            "birthday": ""
-        },
-        "rels": {
-            "mother": "402ee738-7f83-43fe-b2b4-a29360444743",
-            "father": "98439723-4373-4cc2-8d9b-8c0536a651fe",
-            "spouses": [
-                "7c0e257a-7630-46a1-a442-6b6fefc5b176"
-            ],
-            "children": [
-                "2931c8a6-a2cb-4289-8cf4-e298161dab77",
-                "e800217d-797a-433d-b407-4b6865cf5444"
-            ]
-        }
-    },
-    {
-        "id": "f5babf8f-1cb1-4db3-b940-d620dbeaaed4",
-        "data": {
-            "gender": "M",
-            "nama": "Rikaz Maulana T",
-            "lokasi": "",
-            "birthday": ""
-        },
-        "rels": {
-            "father": "98439723-4373-4cc2-8d9b-8c0536a651fe",
-            "mother": "402ee738-7f83-43fe-b2b4-a29360444743"
-        }
-    },
-    {
-        "id": "d279a016-b212-426c-988c-4e3d6886a0cb",
-        "data": {
-            "gender": "F",
-            "nama": "Desi",
-            "lokasi": "",
-            "birthday": ""
-        },
-        "rels": {
-            "spouses": [
-                "625f12d0-b163-4cc7-9af9-1a6c79f410de"
-            ],
-            "children": [
-                "87c412b9-ecc9-4cce-8338-35828072b3df",
-                "22f8eb63-0f35-441f-9cba-2c5d2f96e84f",
-                "4f22acc3-dcdb-427c-ae96-14d31a047e0b"
-            ]
-        }
-    },
-    {
-        "id": "87c412b9-ecc9-4cce-8338-35828072b3df",
-        "data": {
-            "gender": "F",
-            "nama": "Retha ( Rere)",
-            "lokasi": "",
-            "birthday": ""
-        },
-        "rels": {
-            "father": "625f12d0-b163-4cc7-9af9-1a6c79f410de",
-            "mother": "d279a016-b212-426c-988c-4e3d6886a0cb"
-        }
-    },
-    {
-        "id": "22f8eb63-0f35-441f-9cba-2c5d2f96e84f",
-        "data": {
-            "gender": "M",
-            "nama": "Rafisky",
-            "lokasi": "",
-            "birthday": ""
-        },
-        "rels": {
-            "mother": "d279a016-b212-426c-988c-4e3d6886a0cb",
-            "father": "625f12d0-b163-4cc7-9af9-1a6c79f410de"
-        }
-    },
-    {
-        "id": "4f22acc3-dcdb-427c-ae96-14d31a047e0b",
-        "data": {
-            "gender": "M",
-            "nama": "Rafandra",
-            "lokasi": "",
-            "birthday": ""
-        },
-        "rels": {
-            "father": "625f12d0-b163-4cc7-9af9-1a6c79f410de",
-            "mother": "d279a016-b212-426c-988c-4e3d6886a0cb"
-        }
-    },
-    {
-        "id": "7c0e257a-7630-46a1-a442-6b6fefc5b176",
-        "data": {
-            "gender": "M",
-            "nama": "Bima",
-            "lokasi": "",
-            "birthday": ""
-        },
-        "rels": {
-            "spouses": [
-                "5d8fa99c-7fe8-4aa3-b1e1-921d44dc4d3c"
-            ],
-            "children": [
-                "2931c8a6-a2cb-4289-8cf4-e298161dab77",
-                "e800217d-797a-433d-b407-4b6865cf5444"
-            ]
-        }
-    },
-    {
-        "id": "2931c8a6-a2cb-4289-8cf4-e298161dab77",
-        "data": {
-            "gender": "F",
-            "nama": "Nuwa",
-            "lokasi": "",
-            "birthday": ""
-        },
-        "rels": {
-            "mother": "5d8fa99c-7fe8-4aa3-b1e1-921d44dc4d3c",
-            "father": "7c0e257a-7630-46a1-a442-6b6fefc5b176"
-        }
-    },
-    {
-        "id": "e800217d-797a-433d-b407-4b6865cf5444",
-        "data": {
-            "gender": "M",
-            "nama": "Nabil",
-            "lokasi": "",
-            "birthday": ""
-        },
-        "rels": {
-            "father": "7c0e257a-7630-46a1-a442-6b6fefc5b176",
-            "mother": "5d8fa99c-7fe8-4aa3-b1e1-921d44dc4d3c"
-        }
-    },
-    {
-        "id": "12af29a7-0e39-4fea-a52a-69288b68d275",
-        "data": {
-            "gender": "F",
-            "nama": "Nurul Hindana",
-            "lokasi": "",
-            "birthday": ""
-        },
-        "rels": {
-            "mother": "8642f8bb-78aa-40f0-8b4a-ab55dc973d7b",
-            "father": "227d7705-cc5d-46f7-9d72-55b05a984903",
-            "spouses": [
-                "f3b4d61d-f299-44a1-a3cb-b26e2fffd887"
-            ],
-            "children": [
-                "61148b4f-e964-48d0-8538-74d75d0a71b2"
-            ]
-        }
-    },
-    {
-        "id": "f3b4d61d-f299-44a1-a3cb-b26e2fffd887",
-        "data": {
-            "gender": "M",
-            "nama": "Abdul Halim",
-            "lokasi": "",
-            "birthday": ""
-        },
-        "rels": {
-            "spouses": [
-                "12af29a7-0e39-4fea-a52a-69288b68d275"
-            ],
-            "children": [
-                "61148b4f-e964-48d0-8538-74d75d0a71b2"
-            ]
-        }
-    },
-    {
-        "id": "61148b4f-e964-48d0-8538-74d75d0a71b2",
-        "data": {
-            "gender": "M",
-            "nama": "Andi Halim Laparaga",
-            "lokasi": "",
-            "birthday": ""
-        },
-        "rels": {
-            "father": "f3b4d61d-f299-44a1-a3cb-b26e2fffd887",
-            "mother": "12af29a7-0e39-4fea-a52a-69288b68d275"
-        }
-    },
-    {
-        "id": "73f15f3e-8b5c-4644-9ff7-daa1c45d1530",
-        "data": {
-            "gender": "M",
-            "nama": "Prahadi",
-            "lokasi": "",
-            "birthday": ""
-        },
-        "rels": {
-            "father": "227d7705-cc5d-46f7-9d72-55b05a984903",
-            "mother": "8642f8bb-78aa-40f0-8b4a-ab55dc973d7b",
-            "spouses": [
-                "bb1e603d-47f6-4d00-9171-8670f51c19ae"
-            ],
-            "children": [
-                "19945a17-86b5-4044-a569-618abbc99d83",
-                "09b7eebe-3971-4c2a-8b4e-a687c213630c",
-                "b277d3ca-6386-4dc3-bb96-bf5ebc1f4ca1"
-            ]
-        }
-    },
-    {
-        "id": "bb1e603d-47f6-4d00-9171-8670f51c19ae",
-        "data": {
-            "gender": "F",
-            "nama": "Sriyani",
-            "lokasi": "",
-            "birthday": ""
-        },
-        "rels": {
-            "spouses": [
-                "73f15f3e-8b5c-4644-9ff7-daa1c45d1530"
-            ],
-            "children": [
-                "19945a17-86b5-4044-a569-618abbc99d83",
-                "09b7eebe-3971-4c2a-8b4e-a687c213630c",
-                "b277d3ca-6386-4dc3-bb96-bf5ebc1f4ca1"
-            ]
-        }
-    },
-    {
-        "id": "19945a17-86b5-4044-a569-618abbc99d83",
-        "data": {
-            "gender": "F",
-            "nama": "Arum SAE",
-            "lokasi": "",
-            "birthday": ""
-        },
-        "rels": {
-            "mother": "bb1e603d-47f6-4d00-9171-8670f51c19ae",
-            "father": "73f15f3e-8b5c-4644-9ff7-daa1c45d1530",
-            "spouses": [
-                "ca09670b-ceaf-4249-9889-10c487519aad"
-            ],
-            "children": [
-                "a3188fdf-6735-44b9-b5b1-a51f960a7f04",
-                "20e1a384-866a-404e-b5b8-6cbc8fca5761"
-            ]
-        }
-    },
-    {
-        "id": "ca09670b-ceaf-4249-9889-10c487519aad",
-        "data": {
-            "gender": "M",
-            "nama": "Fikriyan ( Yayan)",
-            "lokasi": "",
-            "birthday": ""
-        },
-        "rels": {
-            "spouses": [
-                "19945a17-86b5-4044-a569-618abbc99d83"
-            ],
-            "children": [
-                "a3188fdf-6735-44b9-b5b1-a51f960a7f04",
-                "20e1a384-866a-404e-b5b8-6cbc8fca5761"
-            ]
-        }
-    },
-    {
-        "id": "a3188fdf-6735-44b9-b5b1-a51f960a7f04",
-        "data": {
-            "gender": "F",
-            "nama": "Tifa",
-            "lokasi": "",
-            "birthday": ""
-        },
-        "rels": {
-            "mother": "19945a17-86b5-4044-a569-618abbc99d83",
-            "father": "ca09670b-ceaf-4249-9889-10c487519aad"
-        }
-    },
-    {
-        "id": "20e1a384-866a-404e-b5b8-6cbc8fca5761",
-        "data": {
-            "gender": "M",
-            "nama": "Ardan",
-            "lokasi": "",
-            "birthday": ""
-        },
-        "rels": {
-            "father": "ca09670b-ceaf-4249-9889-10c487519aad",
-            "mother": "19945a17-86b5-4044-a569-618abbc99d83"
-        }
-    },
-    {
-        "id": "09b7eebe-3971-4c2a-8b4e-a687c213630c",
-        "data": {
-            "gender": "M",
-            "nama": "Arga SAE",
-            "lokasi": "",
-            "birthday": ""
-        },
-        "rels": {
-            "father": "73f15f3e-8b5c-4644-9ff7-daa1c45d1530",
-            "mother": "bb1e603d-47f6-4d00-9171-8670f51c19ae"
-        }
-    },
-    {
-        "id": "b277d3ca-6386-4dc3-bb96-bf5ebc1f4ca1",
-        "data": {
-            "gender": "M",
-            "nama": "Ubay SAE",
-            "lokasi": "",
-            "birthday": ""
-        },
-        "rels": {
-            "father": "73f15f3e-8b5c-4644-9ff7-daa1c45d1530",
-            "mother": "bb1e603d-47f6-4d00-9171-8670f51c19ae"
-        }
-    },
-    {
-        "id": "dd220ed3-5b57-4ba1-aefb-f9e6b7797028",
-        "data": {
-            "gender": "F",
-            "nama": "Nuryani",
-            "lokasi": "",
-            "birthday": ""
-        },
-        "rels": {
-            "mother": "8642f8bb-78aa-40f0-8b4a-ab55dc973d7b",
-            "father": "227d7705-cc5d-46f7-9d72-55b05a984903",
-            "spouses": [
-                "066a9a47-7fdf-4201-8012-e874b5381ed7"
-            ],
-            "children": [
-                "10ffd475-89fa-4bac-9514-cfd6685d7aa6",
-                "6606ab9c-3286-4f85-af79-a4bcd67a83e8"
-            ]
-        }
-    },
-    {
-        "id": "066a9a47-7fdf-4201-8012-e874b5381ed7",
-        "data": {
-            "gender": "M",
-            "nama": "Catur Triyono",
-            "lokasi": "",
-            "birthday": ""
-        },
-        "rels": {
-            "spouses": [
-                "dd220ed3-5b57-4ba1-aefb-f9e6b7797028"
-            ],
-            "children": [
-                "10ffd475-89fa-4bac-9514-cfd6685d7aa6",
-                "6606ab9c-3286-4f85-af79-a4bcd67a83e8"
-            ]
-        }
-    },
-    {
-        "id": "10ffd475-89fa-4bac-9514-cfd6685d7aa6",
-        "data": {
-            "gender": "M",
-            "nama": "Royan Samuro",
-            "lokasi": "",
-            "birthday": ""
-        },
-        "rels": {
-            "father": "066a9a47-7fdf-4201-8012-e874b5381ed7",
-            "mother": "dd220ed3-5b57-4ba1-aefb-f9e6b7797028",
-            "spouses": [
-                "ec6e1a5d-c997-44d7-a544-7a8e77e48335"
-            ],
-            "children": [
-                "62ee31a0-8d44-43ab-ae54-c9cef46d4862",
-                "dffa42bd-9c49-43e5-8301-b3e293e5d2c5",
-                "4315387d-6f57-4d0e-9092-f10f5d34714d"
-            ]
-        }
-    },
-    {
-        "id": "6606ab9c-3286-4f85-af79-a4bcd67a83e8",
-        "data": {
-            "gender": "F",
-            "nama": "Iqnuti Ragamis",
-            "lokasi": "",
-            "birthday": ""
-        },
-        "rels": {
-            "mother": "dd220ed3-5b57-4ba1-aefb-f9e6b7797028",
-            "father": "066a9a47-7fdf-4201-8012-e874b5381ed7"
-        }
-    },
-    {
-        "id": "ec6e1a5d-c997-44d7-a544-7a8e77e48335",
-        "data": {
-            "gender": "F",
-            "nama": "Zeza",
-            "lokasi": "",
-            "birthday": ""
-        },
-        "rels": {
-            "spouses": [
-                "10ffd475-89fa-4bac-9514-cfd6685d7aa6"
-            ],
-            "children": [
-                "62ee31a0-8d44-43ab-ae54-c9cef46d4862",
-                "dffa42bd-9c49-43e5-8301-b3e293e5d2c5",
-                "4315387d-6f57-4d0e-9092-f10f5d34714d"
-            ]
-        }
-    },
-    {
-        "id": "62ee31a0-8d44-43ab-ae54-c9cef46d4862",
-        "data": {
-            "gender": "F",
-            "nama": "Adnin",
-            "lokasi": "",
-            "birthday": ""
-        },
-        "rels": {
-            "mother": "ec6e1a5d-c997-44d7-a544-7a8e77e48335",
-            "father": "10ffd475-89fa-4bac-9514-cfd6685d7aa6"
-        }
-    },
-    {
-        "id": "dffa42bd-9c49-43e5-8301-b3e293e5d2c5",
-        "data": {
-            "gender": "M",
-            "nama": "Adam",
-            "lokasi": "",
-            "birthday": ""
-        },
-        "rels": {
-            "father": "10ffd475-89fa-4bac-9514-cfd6685d7aa6",
-            "mother": "ec6e1a5d-c997-44d7-a544-7a8e77e48335"
-        }
-    },
-    {
-        "id": "4315387d-6f57-4d0e-9092-f10f5d34714d",
-        "data": {
-            "gender": "M",
-            "nama": "Albar",
-            "lokasi": "",
-            "birthday": ""
-        },
-        "rels": {
-            "mother": "ec6e1a5d-c997-44d7-a544-7a8e77e48335",
-            "father": "10ffd475-89fa-4bac-9514-cfd6685d7aa6"
-        }
-    },
-    {
-        "id": "e601e398-37cf-4655-bc8b-f97c319083a0",
-        "data": {
-            "gender": "F",
-            "nama": "Nurtitah Ningsih",
-            "lokasi": "",
-            "birthday": ""
-        },
-        "rels": {
-            "mother": "8642f8bb-78aa-40f0-8b4a-ab55dc973d7b",
-            "father": "227d7705-cc5d-46f7-9d72-55b05a984903",
-            "spouses": [
-                "18e87af0-200d-4086-9f62-8ab1d48d388b"
-            ],
-            "children": [
-                "d535b5b6-8654-436d-9c9b-7d63ab3f1797",
-                "1cb374c9-5837-4d81-828e-a16fefa4905a",
-                "379fe293-07cf-49f6-84c3-fb1129131232"
-            ]
-        }
-    },
-    {
-        "id": "18e87af0-200d-4086-9f62-8ab1d48d388b",
-        "data": {
-            "gender": "M",
-            "nama": "Achmad Sukarno",
-            "lokasi": "",
-            "birthday": ""
-        },
-        "rels": {
-            "spouses": [
-                "e601e398-37cf-4655-bc8b-f97c319083a0"
-            ],
-            "children": [
-                "d535b5b6-8654-436d-9c9b-7d63ab3f1797",
-                "1cb374c9-5837-4d81-828e-a16fefa4905a",
-                "379fe293-07cf-49f6-84c3-fb1129131232"
-            ]
-        }
-    },
-    {
-        "id": "d535b5b6-8654-436d-9c9b-7d63ab3f1797",
-        "data": {
-            "gender": "F",
-            "nama": "Damai Nur Sukarno",
-            "lokasi": "",
-            "birthday": ""
-        },
-        "rels": {
-            "father": "18e87af0-200d-4086-9f62-8ab1d48d388b",
-            "mother": "e601e398-37cf-4655-bc8b-f97c319083a0"
-        }
-    },
-    {
-        "id": "1cb374c9-5837-4d81-828e-a16fefa4905a",
-        "data": {
-            "gender": "M",
-            "nama": "Kenzza Ashabi Nur Sukarno",
-            "lokasi": "",
-            "birthday": ""
-        },
-        "rels": {
-            "father": "18e87af0-200d-4086-9f62-8ab1d48d388b",
-            "mother": "e601e398-37cf-4655-bc8b-f97c319083a0"
-        }
-    },
-    {
-        "id": "379fe293-07cf-49f6-84c3-fb1129131232",
-        "data": {
-            "gender": "F",
-            "nama": "Nasttit Hana Nur Sukarno",
-            "lokasi": "",
-            "birthday": ""
-        },
-        "rels": {
-            "mother": "e601e398-37cf-4655-bc8b-f97c319083a0",
-            "father": "18e87af0-200d-4086-9f62-8ab1d48d388b"
-        }
-    },
-    {
-        "id": "fe3fac7d-2925-4d96-ab0e-d49385d8bae2",
-        "data": {
-            "gender": "M",
-            "nama": "Sugeng Wahyudi",
-            "lokasi": "",
-            "birthday": ""
-        },
-        "rels": {
-            "father": "227d7705-cc5d-46f7-9d72-55b05a984903",
-            "mother": "8642f8bb-78aa-40f0-8b4a-ab55dc973d7b",
-            "spouses": [
-                "643c0456-c1fa-4aa4-bbd7-f697e207107c"
-            ],
-            "children": [
-                "c9eb4235-5e71-407a-be58-0d5fe3a69b84",
-                "6a4a128e-9717-403d-84d6-0a49ef59a5f0"
-            ]
-        }
-    },
-    {
-        "id": "643c0456-c1fa-4aa4-bbd7-f697e207107c",
-        "data": {
-            "gender": "F",
-            "nama": "Dewi Pupasari",
-            "lokasi": "",
-            "birthday": ""
-        },
-        "rels": {
-            "spouses": [
-                "fe3fac7d-2925-4d96-ab0e-d49385d8bae2"
-            ],
-            "children": [
-                "c9eb4235-5e71-407a-be58-0d5fe3a69b84",
-                "6a4a128e-9717-403d-84d6-0a49ef59a5f0"
-            ]
-        }
-    },
-    {
-        "id": "c9eb4235-5e71-407a-be58-0d5fe3a69b84",
-        "data": {
-            "gender": "F",
-            "nama": "Veda Nadira Kanzluay",
-            "lokasi": "",
-            "birthday": ""
-        },
-        "rels": {
-            "father": "fe3fac7d-2925-4d96-ab0e-d49385d8bae2",
-            "mother": "643c0456-c1fa-4aa4-bbd7-f697e207107c"
-        }
-    },
-    {
-        "id": "6a4a128e-9717-403d-84d6-0a49ef59a5f0",
-        "data": {
-            "gender": "F",
-            "nama": "Veda Kanaya Kanzluay",
-            "lokasi": "",
-            "birthday": ""
-        },
-        "rels": {
-            "mother": "643c0456-c1fa-4aa4-bbd7-f697e207107c",
-            "father": "fe3fac7d-2925-4d96-ab0e-d49385d8bae2"
-        }
-    },
-    {
-        "id": "a4616080-1457-4d46-8502-335473e0bc17",
-        "data": {
-            "gender": "F",
-            "nama": "Safiyah",
-            "lokasi": "",
-            "birthday": ""
-        },
-        "rels": {
-            "spouses": [
-                "5f872bb1-8754-44fc-8071-41187d9120fe"
-            ],
-            "children": [
-                "276cdba4-f333-4ddf-9815-05b1d5c4eeb2",
-                "8cdaf0dd-aa69-4e37-b51c-b780112622dc",
-                "50b9d94e-cdc1-4ed3-a81a-81d1a97765aa",
-                "491ad4d2-26d8-46e5-8a3a-18e98cbf442c"
-            ]
-        }
-    },
-    {
-        "id": "276cdba4-f333-4ddf-9815-05b1d5c4eeb2",
-        "data": {
-            "gender": "M",
-            "nama": "Ergiyanto",
-            "lokasi": "",
-            "birthday": ""
-        },
-        "rels": {
-            "father": "5f872bb1-8754-44fc-8071-41187d9120fe",
-            "mother": "a4616080-1457-4d46-8502-335473e0bc17",
-            "spouses": [
-                "91cf370b-011f-45b7-a7a8-f3c0fbd8d67b"
-            ],
-            "children": [
-                "75c46177-cb73-4540-8d35-cd243278e2c9",
-                "a8705c19-3ae7-46ed-978b-6756c760b7bc"
-            ]
-        }
-    },
-    {
-        "id": "8cdaf0dd-aa69-4e37-b51c-b780112622dc",
-        "data": {
-            "gender": "F",
-            "nama": "Anis Suryani",
-            "lokasi": "",
-            "birthday": ""
-        },
-        "rels": {
-            "mother": "a4616080-1457-4d46-8502-335473e0bc17",
-            "father": "5f872bb1-8754-44fc-8071-41187d9120fe",
-            "spouses": [
-                "fa2de8b3-22bc-4d16-91a3-3afe69fa3997"
-            ],
-            "children": [
-                "2567eeae-b920-4037-99f5-f5c608a7b3c3",
-                "72b0202a-716c-4d1f-baba-b0fede1d6d57"
-            ]
-        }
-    },
-    {
-        "id": "50b9d94e-cdc1-4ed3-a81a-81d1a97765aa",
-        "data": {
-            "gender": "M",
-            "nama": "Umar Handoyo",
-            "lokasi": "",
-            "birthday": ""
-        },
-        "rels": {
-            "father": "5f872bb1-8754-44fc-8071-41187d9120fe",
-            "mother": "a4616080-1457-4d46-8502-335473e0bc17",
-            "spouses": [
-                "eddf5b9e-d521-404d-a435-b3492b5ac5f2"
-            ],
-            "children": [
-                "835402df-427a-48a1-9144-8ea66d25f72f",
-                "d3553497-4f49-480e-899b-e09652183593"
-            ]
-        }
-    },
-    {
-        "id": "91cf370b-011f-45b7-a7a8-f3c0fbd8d67b",
-        "data": {
-            "gender": "F",
-            "nama": "Wiwik Meinarni ",
-            "lokasi": "",
-            "birthday": ""
-        },
-        "rels": {
-            "spouses": [
-                "276cdba4-f333-4ddf-9815-05b1d5c4eeb2"
-            ],
-            "children": [
-                "75c46177-cb73-4540-8d35-cd243278e2c9",
-                "a8705c19-3ae7-46ed-978b-6756c760b7bc"
-            ]
-        }
-    },
-    {
-        "id": "75c46177-cb73-4540-8d35-cd243278e2c9",
-        "data": {
-            "gender": "F",
-            "nama": "Cahaya Utami Ramadani",
-            "lokasi": "",
-            "birthday": ""
-        },
-        "rels": {
-            "father": "276cdba4-f333-4ddf-9815-05b1d5c4eeb2",
-            "mother": "91cf370b-011f-45b7-a7a8-f3c0fbd8d67b"
-        }
-    },
-    {
-        "id": "a8705c19-3ae7-46ed-978b-6756c760b7bc",
-        "data": {
-            "gender": "M",
-            "nama": "Danang Wildansyah",
-            "lokasi": "",
-            "birthday": ""
-        },
-        "rels": {
-            "mother": "91cf370b-011f-45b7-a7a8-f3c0fbd8d67b",
-            "father": "276cdba4-f333-4ddf-9815-05b1d5c4eeb2"
-        }
-    },
-    {
-        "id": "fa2de8b3-22bc-4d16-91a3-3afe69fa3997",
-        "data": {
-            "gender": "M",
-            "nama": "M. Wahyudi",
-            "lokasi": "",
-            "birthday": ""
-        },
-        "rels": {
-            "spouses": [
-                "8cdaf0dd-aa69-4e37-b51c-b780112622dc"
-            ],
-            "children": [
-                "2567eeae-b920-4037-99f5-f5c608a7b3c3",
-                "72b0202a-716c-4d1f-baba-b0fede1d6d57"
-            ]
-        }
-    },
-    {
-        "id": "2567eeae-b920-4037-99f5-f5c608a7b3c3",
-        "data": {
-            "gender": "M",
-            "nama": "Rifkay Saputra",
-            "lokasi": "",
-            "birthday": ""
-        },
-        "rels": {
-            "father": "fa2de8b3-22bc-4d16-91a3-3afe69fa3997",
-            "mother": "8cdaf0dd-aa69-4e37-b51c-b780112622dc"
-        }
-    },
-    {
-        "id": "72b0202a-716c-4d1f-baba-b0fede1d6d57",
-        "data": {
-            "gender": "M",
-            "nama": "Dwi Nurhandika",
-            "lokasi": "",
-            "birthday": ""
-        },
-        "rels": {
-            "mother": "8cdaf0dd-aa69-4e37-b51c-b780112622dc",
-            "father": "fa2de8b3-22bc-4d16-91a3-3afe69fa3997"
-        }
-    },
-    {
-        "id": "eddf5b9e-d521-404d-a435-b3492b5ac5f2",
-        "data": {
-            "gender": "F",
-            "nama": "Lista Listari ST",
-            "lokasi": "",
-            "birthday": ""
-        },
-        "rels": {
-            "spouses": [
-                "50b9d94e-cdc1-4ed3-a81a-81d1a97765aa"
-            ],
-            "children": [
-                "835402df-427a-48a1-9144-8ea66d25f72f",
-                "d3553497-4f49-480e-899b-e09652183593"
-            ]
-        }
-    },
-    {
-        "id": "835402df-427a-48a1-9144-8ea66d25f72f",
-        "data": {
-            "gender": "M",
-            "nama": "Daffa Martadinata",
-            "lokasi": "",
-            "birthday": ""
-        },
-        "rels": {
-            "father": "50b9d94e-cdc1-4ed3-a81a-81d1a97765aa",
-            "mother": "eddf5b9e-d521-404d-a435-b3492b5ac5f2"
-        }
-    },
-    {
-        "id": "d3553497-4f49-480e-899b-e09652183593",
-        "data": {
-            "gender": "M",
-            "nama": "Azkayra Salvina Handoyo",
-            "lokasi": "",
-            "birthday": ""
-        },
-        "rels": {
-            "mother": "eddf5b9e-d521-404d-a435-b3492b5ac5f2",
-            "father": "50b9d94e-cdc1-4ed3-a81a-81d1a97765aa"
-        }
-    },
-    {
-        "id": "491ad4d2-26d8-46e5-8a3a-18e98cbf442c",
-        "data": {
-            "gender": "M",
-            "nama": "Arie Alfian",
-            "lokasi": "",
-            "birthday": ""
-        },
-        "rels": {
-            "father": "5f872bb1-8754-44fc-8071-41187d9120fe",
-            "mother": "a4616080-1457-4d46-8502-335473e0bc17"
-        }
-    },
-    {
-        "id": "86a9db0a-0f10-4f79-b15a-3350078cd89b",
-        "data": {
-            "gender": "M",
-            "nama": "Asmuni",
-            "lokasi": "",
-            "birthday": ""
-        },
-        "rels": {
-            "spouses": [
-                "e3b50f2a-d465-4fdd-9589-02d5f28f69db"
-            ],
-            "children": [
-                "b4b30a73-30b2-4b73-b76f-c54c0d9a6883",
-                "768ac74d-fd55-4793-9f2f-640d55b9a686",
-                "c9ec053a-4a0f-4987-bb50-436344ede74a"
-            ]
-        }
-    },
-    {
-        "id": "b4b30a73-30b2-4b73-b76f-c54c0d9a6883",
-        "data": {
-            "gender": "F",
-            "nama": "Imma Badariyah",
-            "lokasi": "",
-            "birthday": ""
-        },
-        "rels": {
-            "father": "86a9db0a-0f10-4f79-b15a-3350078cd89b",
-            "mother": "e3b50f2a-d465-4fdd-9589-02d5f28f69db",
-            "spouses": [
-                "6a2a1258-37ef-4883-aa83-8ae1bcaa2be4"
-            ],
-            "children": [
-                "973b4828-da70-42b0-903e-642afe38a1ac",
-                "d59d04e3-fa84-4900-a7c0-ff20ee41a1e6"
-            ]
-        }
-    },
-    {
-        "id": "768ac74d-fd55-4793-9f2f-640d55b9a686",
-        "data": {
-            "gender": "M",
-            "nama": "Ibnu Mas’ud",
-            "lokasi": "",
-            "birthday": ""
-        },
-        "rels": {
-            "mother": "e3b50f2a-d465-4fdd-9589-02d5f28f69db",
-            "father": "86a9db0a-0f10-4f79-b15a-3350078cd89b",
-            "spouses": [
-                "b1f8e7ed-43f4-48cc-adef-ece19d6a9d9d"
-            ],
-            "children": [
-                "ee7cc9ee-ac1d-4cf3-a4eb-c5082f1bdaab",
-                "d0a072ae-446d-4fe3-9358-d0774f310fac"
-            ]
-        }
-    },
-    {
-        "id": "c9ec053a-4a0f-4987-bb50-436344ede74a",
-        "data": {
-            "gender": "F",
-            "nama": "Sri Hindrawati",
-            "lokasi": "",
-            "birthday": ""
-        },
-        "rels": {
-            "mother": "e3b50f2a-d465-4fdd-9589-02d5f28f69db",
-            "father": "86a9db0a-0f10-4f79-b15a-3350078cd89b",
-            "spouses": [
-                "d6dc0448-9de0-49c0-9f58-ba55d4d6308e"
-            ],
-            "children": [
-                "1b49d8c2-a76f-4d92-8f26-f8d3d044fced",
-                "fa692afb-dff3-4a82-9cd9-9a01e5690dba",
-                "28a5da4c-44c2-49c0-995e-158a9e821bc5"
-            ]
-        }
-    },
-    {
-        "id": "6a2a1258-37ef-4883-aa83-8ae1bcaa2be4",
-        "data": {
-            "gender": "M",
-            "nama": "Samiudin",
-            "lokasi": "",
-            "birthday": ""
-        },
-        "rels": {
-            "spouses": [
-                "b4b30a73-30b2-4b73-b76f-c54c0d9a6883"
-            ],
-            "children": [
-                "973b4828-da70-42b0-903e-642afe38a1ac",
-                "d59d04e3-fa84-4900-a7c0-ff20ee41a1e6"
-            ]
-        }
-    },
-    {
-        "id": "973b4828-da70-42b0-903e-642afe38a1ac",
-        "data": {
-            "gender": "M",
-            "nama": "Adam Azizi",
-            "lokasi": "",
-            "birthday": ""
-        },
-        "rels": {
-            "father": "6a2a1258-37ef-4883-aa83-8ae1bcaa2be4",
-            "mother": "b4b30a73-30b2-4b73-b76f-c54c0d9a6883"
-        }
-    },
-    {
-        "id": "d59d04e3-fa84-4900-a7c0-ff20ee41a1e6",
-        "data": {
-            "gender": "F",
-            "nama": "Aura Rahadastul Aisyi",
-            "lokasi": "",
-            "birthday": ""
-        },
-        "rels": {
-            "mother": "b4b30a73-30b2-4b73-b76f-c54c0d9a6883",
-            "father": "6a2a1258-37ef-4883-aa83-8ae1bcaa2be4"
-        }
-    },
-    {
-        "id": "b1f8e7ed-43f4-48cc-adef-ece19d6a9d9d",
-        "data": {
-            "gender": "F",
-            "nama": "Yana Masniati",
-            "lokasi": "",
-            "birthday": ""
-        },
-        "rels": {
-            "spouses": [
-                "768ac74d-fd55-4793-9f2f-640d55b9a686"
-            ],
-            "children": [
-                "ee7cc9ee-ac1d-4cf3-a4eb-c5082f1bdaab",
-                "d0a072ae-446d-4fe3-9358-d0774f310fac"
-            ]
-        }
-    },
-    {
-        "id": "ee7cc9ee-ac1d-4cf3-a4eb-c5082f1bdaab",
-        "data": {
-            "gender": "M",
-            "nama": "Naufal Alfarirzi Mas’ud",
-            "lokasi": "",
-            "birthday": ""
-        },
-        "rels": {
-            "father": "768ac74d-fd55-4793-9f2f-640d55b9a686",
-            "mother": "b1f8e7ed-43f4-48cc-adef-ece19d6a9d9d"
-        }
-    },
-    {
-        "id": "d0a072ae-446d-4fe3-9358-d0774f310fac",
-        "data": {
-            "gender": "M",
-            "nama": "Firzan Alfatih Mas’ud",
-            "lokasi": "",
-            "birthday": ""
-        },
-        "rels": {
-            "mother": "b1f8e7ed-43f4-48cc-adef-ece19d6a9d9d",
-            "father": "768ac74d-fd55-4793-9f2f-640d55b9a686"
-        }
-    },
-    {
-        "id": "d6dc0448-9de0-49c0-9f58-ba55d4d6308e",
-        "data": {
-            "gender": "M",
-            "nama": "Suhardiman",
-            "lokasi": "",
-            "birthday": ""
-        },
-        "rels": {
-            "spouses": [
-                "c9ec053a-4a0f-4987-bb50-436344ede74a"
-            ],
-            "children": [
-                "1b49d8c2-a76f-4d92-8f26-f8d3d044fced",
-                "fa692afb-dff3-4a82-9cd9-9a01e5690dba",
-                "28a5da4c-44c2-49c0-995e-158a9e821bc5"
-            ]
-        }
-    },
-    {
-        "id": "1b49d8c2-a76f-4d92-8f26-f8d3d044fced",
-        "data": {
-            "gender": "M",
-            "nama": "Rasyid Aditya Perdana",
-            "lokasi": "",
-            "birthday": ""
-        },
-        "rels": {
-            "father": "d6dc0448-9de0-49c0-9f58-ba55d4d6308e",
-            "mother": "c9ec053a-4a0f-4987-bb50-436344ede74a"
-        }
-    },
-    {
-        "id": "fa692afb-dff3-4a82-9cd9-9a01e5690dba",
-        "data": {
-            "gender": "M",
-            "nama": "Abdul Aziz Saputra",
-            "lokasi": "",
-            "birthday": ""
-        },
-        "rels": {
-            "mother": "c9ec053a-4a0f-4987-bb50-436344ede74a",
-            "father": "d6dc0448-9de0-49c0-9f58-ba55d4d6308e"
-        }
-    },
-    {
-        "id": "28a5da4c-44c2-49c0-995e-158a9e821bc5",
-        "data": {
-            "gender": "F",
-            "nama": "Salsabila Kirana Alli Faturrhman",
-            "lokasi": "",
-            "birthday": ""
-        },
-        "rels": {
-            "mother": "c9ec053a-4a0f-4987-bb50-436344ede74a",
-            "father": "d6dc0448-9de0-49c0-9f58-ba55d4d6308e"
-        }
-    },
-    {
-        "id": "593e6d54-f925-4bf0-a9d4-2dff34d51a6f",
-        "data": {
-            "gender": "M",
-            "nama": "Abdul Murid",
-            "lokasi": "",
-            "birthday": ""
-        },
-        "rels": {
-            "spouses": [
-                "a7dde435-68fa-42b0-8aae-872de5ad05a1"
-            ],
-            "children": [
-                "93f16962-7a84-418c-a3dd-250ff375bcf7",
-                "3713fe07-273b-4c28-8859-97b8a55f279e"
-            ]
-        }
-    },
-    {
-        "id": "93f16962-7a84-418c-a3dd-250ff375bcf7",
-        "data": {
-            "gender": "F",
-            "nama": "Luluk Purwani ",
-            "lokasi": "",
-            "birthday": ""
-        },
-        "rels": {
-            "father": "593e6d54-f925-4bf0-a9d4-2dff34d51a6f",
-            "mother": "a7dde435-68fa-42b0-8aae-872de5ad05a1",
-            "spouses": [
-                "1f58d5db-0ee6-46ab-bb14-cc610ec040c1"
-            ],
-            "children": [
-                "db95184d-f3e6-4670-ab58-4806103601e2"
-            ]
-        }
-    },
-    {
-        "id": "3713fe07-273b-4c28-8859-97b8a55f279e",
-        "data": {
-            "gender": "F",
-            "nama": "Yuyun Kustini",
-            "lokasi": "",
-            "birthday": ""
-        },
-        "rels": {
-            "mother": "a7dde435-68fa-42b0-8aae-872de5ad05a1",
-            "father": "593e6d54-f925-4bf0-a9d4-2dff34d51a6f",
-            "spouses": [
-                "3a344197-9f0a-41ea-9bc0-063c3623ef1d"
-            ],
-            "children": [
-                "a6fa25b5-d001-4cc6-85e7-dd10eccf1933"
-            ]
-        }
-    },
-    {
-        "id": "1f58d5db-0ee6-46ab-bb14-cc610ec040c1",
-        "data": {
-            "gender": "M",
-            "nama": "Purwanto",
-            "lokasi": "",
-            "birthday": ""
-        },
-        "rels": {
-            "spouses": [
-                "93f16962-7a84-418c-a3dd-250ff375bcf7"
-            ],
-            "children": [
-                "db95184d-f3e6-4670-ab58-4806103601e2"
-            ]
-        }
-    },
-    {
-        "id": "db95184d-f3e6-4670-ab58-4806103601e2",
-        "data": {
-            "gender": "M",
-            "nama": "Rafa Aqmalul Fattah",
-            "lokasi": "",
-            "birthday": ""
-        },
-        "rels": {
-            "father": "1f58d5db-0ee6-46ab-bb14-cc610ec040c1",
-            "mother": "93f16962-7a84-418c-a3dd-250ff375bcf7"
-        }
-    },
-    {
-        "id": "3a344197-9f0a-41ea-9bc0-063c3623ef1d",
-        "data": {
-            "gender": "M",
-            "nama": "Lukman Ahadi",
-            "lokasi": "",
-            "birthday": ""
-        },
-        "rels": {
-            "spouses": [
-                "3713fe07-273b-4c28-8859-97b8a55f279e"
-            ],
-            "children": [
-                "a6fa25b5-d001-4cc6-85e7-dd10eccf1933"
-            ]
-        }
-    },
-    {
-        "id": "a6fa25b5-d001-4cc6-85e7-dd10eccf1933",
-        "data": {
-            "gender": "F",
-            "nama": "Aliyah Hafidzah Hadi",
-            "lokasi": "",
-            "birthday": ""
-        },
-        "rels": {
-            "mother": "3713fe07-273b-4c28-8859-97b8a55f279e",
-            "father": "3a344197-9f0a-41ea-9bc0-063c3623ef1d"
-        }
+  {
+    "id": "0",
+    "rels": {
+      "spouses": [
+        "77b5d6c8-72c3-4594-b41a-8573aa3b2b1c"
+      ],
+      "children": [
+        "1c169029-871a-4223-9819-d2c1e35db38c",
+        "67af34b9-ff74-482b-9eaa-5d94818f0d87",
+        "9039171a-b00e-4129-b1af-e21969076b99",
+        "0ed49632-8abd-4d0a-9eee-5f2b9154d6f0",
+        "8642f8bb-78aa-40f0-8b4a-ab55dc973d7b",
+        "814cd604-f771-45eb-b786-66e8a2def1be",
+        "5f872bb1-8754-44fc-8071-41187d9120fe",
+        "e3b50f2a-d465-4fdd-9589-02d5f28f69db",
+        "a7dde435-68fa-42b0-8aae-872de5ad05a1"
+      ]
+    },
+    "data": {
+      "birthday": "",
+      "avatar": "",
+      "gender": "M",
+      "nama": "Abdul Manan"
     }
+  },
+  {
+    "id": "77b5d6c8-72c3-4594-b41a-8573aa3b2b1c",
+    "data": {
+      "gender": "F",
+      "nama": "Marhamah",
+      "birthday": "",
+      "avatar": ""
+    },
+    "rels": {
+      "spouses": [
+        "0"
+      ],
+      "children": [
+        "1c169029-871a-4223-9819-d2c1e35db38c",
+        "67af34b9-ff74-482b-9eaa-5d94818f0d87",
+        "9039171a-b00e-4129-b1af-e21969076b99",
+        "0ed49632-8abd-4d0a-9eee-5f2b9154d6f0",
+        "8642f8bb-78aa-40f0-8b4a-ab55dc973d7b",
+        "814cd604-f771-45eb-b786-66e8a2def1be",
+        "5f872bb1-8754-44fc-8071-41187d9120fe",
+        "e3b50f2a-d465-4fdd-9589-02d5f28f69db",
+        "a7dde435-68fa-42b0-8aae-872de5ad05a1"
+      ]
+    }
+  },
+  {
+    "id": "1c169029-871a-4223-9819-d2c1e35db38c",
+    "data": {
+      "gender": "F",
+      "nama": "Napsiah",
+      "birthday": "",
+      "avatar": ""
+    },
+    "rels": {
+      "father": "0",
+      "mother": "77b5d6c8-72c3-4594-b41a-8573aa3b2b1c",
+      "children": [
+        "e33d2ebc-cc43-4d7d-b4a9-2972f636b0dd",
+        "16d7cdc6-a554-4d15-a466-f45c9443852e",
+        "4c8248ba-3844-4068-aced-d8de9ad85f0f",
+        "c739edea-d146-4eb8-815b-a56b57644f0e"
+      ],
+      "spouses": [
+        "26fd86c2-037a-4f43-ab2f-a03972e547d7"
+      ]
+    }
+  },
+  {
+    "id": "67af34b9-ff74-482b-9eaa-5d94818f0d87",
+    "data": {
+      "gender": "M",
+      "nama": "Moh Basar",
+      "birthday": "",
+      "avatar": ""
+    },
+    "rels": {
+      "father": "0",
+      "mother": "77b5d6c8-72c3-4594-b41a-8573aa3b2b1c",
+      "spouses": [
+        "f2fac54f-f5b9-49f4-a184-d6546e451e42"
+      ],
+      "children": [
+        "1ed79215-0a3f-45ff-9a58-61ee8f4ed965",
+        "0b3e7288-b993-49f0-af36-abb80c4b17b5",
+        "e3e3643a-4ed6-4046-84bd-875b5c42b18c",
+        "0b0c96d0-680c-4266-99e7-2270db0d4068"
+      ]
+    }
+  },
+  {
+    "id": "9039171a-b00e-4129-b1af-e21969076b99",
+    "data": {
+      "gender": "F",
+      "nama": "Siti Aminah",
+      "birthday": "",
+      "avatar": ""
+    },
+    "rels": {
+      "father": "0",
+      "mother": "77b5d6c8-72c3-4594-b41a-8573aa3b2b1c",
+      "spouses": [
+        "ca0af30b-7e1e-4cab-baef-46053c1e7250"
+      ],
+      "children": [
+        "50a41e61-e6ea-4a86-a2e5-69bd0ccf303a",
+        "4fc68511-ce3e-481e-a56b-b3149d37b1b7",
+        "668382d3-a21b-4e46-b62a-e26d5619da3e",
+        "e4861c16-2376-4085-9bfa-0aed900f2c48"
+      ]
+    }
+  },
+  {
+    "id": "0ed49632-8abd-4d0a-9eee-5f2b9154d6f0",
+    "data": {
+      "gender": "M",
+      "nama": "Muhtarom",
+      "birthday": "",
+      "avatar": ""
+    },
+    "rels": {
+      "father": "0",
+      "mother": "77b5d6c8-72c3-4594-b41a-8573aa3b2b1c",
+      "spouses": [
+        "6f40746c-5e0c-45e7-bc3a-121ed0c09298"
+      ],
+      "children": [
+        "c6a6894d-9094-4d2b-8629-a88d2920b38d",
+        "fa5a0a7d-2a24-41b1-921d-24059b2f050e",
+        "27c3e2a4-6bd4-4aba-9ec3-61b4ff5d1616",
+        "08c924be-80cd-4314-b762-19f98719a3bd",
+        "d3d5416d-e7e5-4acd-a47b-05c0da2efa03",
+        "5a2c1c89-8f38-4f4c-9e8d-910840092319"
+      ]
+    }
+  },
+  {
+    "id": "8642f8bb-78aa-40f0-8b4a-ab55dc973d7b",
+    "data": {
+      "gender": "F",
+      "nama": "Hafadah",
+      "birthday": "",
+      "avatar": ""
+    },
+    "rels": {
+      "father": "0",
+      "mother": "77b5d6c8-72c3-4594-b41a-8573aa3b2b1c",
+      "spouses": [
+        "227d7705-cc5d-46f7-9d72-55b05a984903"
+      ],
+      "children": [
+        "402ee738-7f83-43fe-b2b4-a29360444743",
+        "12af29a7-0e39-4fea-a52a-69288b68d275",
+        "73f15f3e-8b5c-4644-9ff7-daa1c45d1530",
+        "dd220ed3-5b57-4ba1-aefb-f9e6b7797028",
+        "e601e398-37cf-4655-bc8b-f97c319083a0",
+        "fe3fac7d-2925-4d96-ab0e-d49385d8bae2"
+      ]
+    }
+  },
+  {
+    "id": "814cd604-f771-45eb-b786-66e8a2def1be",
+    "data": {
+      "gender": "F",
+      "nama": "Lek Nah",
+      "birthday": "",
+      "avatar": ""
+    },
+    "rels": {
+      "father": "0",
+      "mother": "77b5d6c8-72c3-4594-b41a-8573aa3b2b1c"
+    }
+  },
+  {
+    "id": "5f872bb1-8754-44fc-8071-41187d9120fe",
+    "data": {
+      "gender": "M",
+      "nama": "Tasripin",
+      "birthday": "",
+      "avatar": ""
+    },
+    "rels": {
+      "father": "0",
+      "mother": "77b5d6c8-72c3-4594-b41a-8573aa3b2b1c",
+      "spouses": [
+        "a4616080-1457-4d46-8502-335473e0bc17"
+      ],
+      "children": [
+        "276cdba4-f333-4ddf-9815-05b1d5c4eeb2",
+        "8cdaf0dd-aa69-4e37-b51c-b780112622dc",
+        "50b9d94e-cdc1-4ed3-a81a-81d1a97765aa",
+        "491ad4d2-26d8-46e5-8a3a-18e98cbf442c"
+      ]
+    }
+  },
+  {
+    "id": "e3b50f2a-d465-4fdd-9589-02d5f28f69db",
+    "data": {
+      "gender": "F",
+      "nama": "Tasripah",
+      "birthday": "",
+      "avatar": ""
+    },
+    "rels": {
+      "father": "0",
+      "mother": "77b5d6c8-72c3-4594-b41a-8573aa3b2b1c",
+      "spouses": [
+        "86a9db0a-0f10-4f79-b15a-3350078cd89b"
+      ],
+      "children": [
+        "b4b30a73-30b2-4b73-b76f-c54c0d9a6883",
+        "768ac74d-fd55-4793-9f2f-640d55b9a686",
+        "c9ec053a-4a0f-4987-bb50-436344ede74a"
+      ]
+    }
+  },
+  {
+    "id": "a7dde435-68fa-42b0-8aae-872de5ad05a1",
+    "data": {
+      "gender": "F",
+      "nama": "Asmuah",
+      "birthday": "",
+      "avatar": ""
+    },
+    "rels": {
+      "father": "0",
+      "mother": "77b5d6c8-72c3-4594-b41a-8573aa3b2b1c",
+      "spouses": [
+        "593e6d54-f925-4bf0-a9d4-2dff34d51a6f"
+      ],
+      "children": [
+        "93f16962-7a84-418c-a3dd-250ff375bcf7",
+        "3713fe07-273b-4c28-8859-97b8a55f279e"
+      ]
+    }
+  },
+  {
+    "id": "e33d2ebc-cc43-4d7d-b4a9-2972f636b0dd",
+    "data": {
+      "gender": "F",
+      "nama": "Sri Wanah",
+      "birthday": "",
+      "avatar": ""
+    },
+    "rels": {
+      "father": "1c169029-871a-4223-9819-d2c1e35db38c",
+      "mother": "26fd86c2-037a-4f43-ab2f-a03972e547d7",
+      "spouses": [
+        "3681122c-5eea-4255-971b-06900f28f6f1"
+      ],
+      "children": [
+        "f49135ab-d888-4954-bba8-cf1d63bc5cea",
+        "e2f80522-57ee-4fe0-a886-67c810ee2c76",
+        "e310e687-83f0-4e75-9100-700310fb41e0"
+      ]
+    }
+  },
+  {
+    "id": "26fd86c2-037a-4f43-ab2f-a03972e547d7",
+    "data": {
+      "gender": "M",
+      "nama": "Ismail",
+      "birthday": "",
+      "avatar": ""
+    },
+    "rels": {
+      "spouses": [
+        "1c169029-871a-4223-9819-d2c1e35db38c"
+      ],
+      "children": [
+        "e33d2ebc-cc43-4d7d-b4a9-2972f636b0dd",
+        "16d7cdc6-a554-4d15-a466-f45c9443852e",
+        "4c8248ba-3844-4068-aced-d8de9ad85f0f",
+        "c739edea-d146-4eb8-815b-a56b57644f0e"
+      ]
+    }
+  },
+  {
+    "id": "3681122c-5eea-4255-971b-06900f28f6f1",
+    "data": {
+      "gender": "M",
+      "nama": "Misrin Husein",
+      "birthday": "",
+      "avatar": ""
+    },
+    "rels": {
+      "spouses": [
+        "e33d2ebc-cc43-4d7d-b4a9-2972f636b0dd"
+      ],
+      "children": [
+        "f49135ab-d888-4954-bba8-cf1d63bc5cea",
+        "e2f80522-57ee-4fe0-a886-67c810ee2c76",
+        "e310e687-83f0-4e75-9100-700310fb41e0"
+      ]
+    }
+  },
+  {
+    "id": "f49135ab-d888-4954-bba8-cf1d63bc5cea",
+    "data": {
+      "gender": "M",
+      "nama": "Rindra Andy Husin",
+      "birthday": "",
+      "avatar": ""
+    },
+    "rels": {
+      "father": "e33d2ebc-cc43-4d7d-b4a9-2972f636b0dd",
+      "mother": "3681122c-5eea-4255-971b-06900f28f6f1",
+      "spouses": [
+        "990652ea-26a3-47b7-b246-6249c2967f28"
+      ],
+      "children": [
+        "ac8bfe19-a1c7-4b05-81f3-d8f8c6e02ee0",
+        "76f98a6a-1531-4ece-b99d-2f408e8f4aa5",
+        "818245f7-7b9c-4b9e-8d9e-4cdfb77240ab",
+        "d9d0f945-45b5-4aa1-9a0e-820180e3cbcd",
+        "7749e6d5-b78a-432d-a525-58d714f960fa"
+      ]
+    }
+  },
+  {
+    "id": "990652ea-26a3-47b7-b246-6249c2967f28",
+    "data": {
+      "gender": "F",
+      "nama": "Sofa Hindayati",
+      "birthday": "",
+      "avatar": ""
+    },
+    "rels": {
+      "spouses": [
+        "f49135ab-d888-4954-bba8-cf1d63bc5cea"
+      ],
+      "children": [
+        "ac8bfe19-a1c7-4b05-81f3-d8f8c6e02ee0",
+        "76f98a6a-1531-4ece-b99d-2f408e8f4aa5",
+        "818245f7-7b9c-4b9e-8d9e-4cdfb77240ab",
+        "d9d0f945-45b5-4aa1-9a0e-820180e3cbcd",
+        "7749e6d5-b78a-432d-a525-58d714f960fa"
+      ]
+    }
+  },
+  {
+    "id": "ac8bfe19-a1c7-4b05-81f3-d8f8c6e02ee0",
+    "data": {
+      "gender": "M",
+      "nama": "Renaldy Noval Husin",
+      "birthday": "",
+      "avatar": ""
+    },
+    "rels": {
+      "father": "f49135ab-d888-4954-bba8-cf1d63bc5cea",
+      "mother": "990652ea-26a3-47b7-b246-6249c2967f28"
+    }
+  },
+  {
+    "id": "76f98a6a-1531-4ece-b99d-2f408e8f4aa5",
+    "data": {
+      "gender": "M",
+      "nama": "Tito Fijaya Dwi Efan",
+      "birthday": "",
+      "avatar": ""
+    },
+    "rels": {
+      "father": "f49135ab-d888-4954-bba8-cf1d63bc5cea",
+      "mother": "990652ea-26a3-47b7-b246-6249c2967f28"
+    }
+  },
+  {
+    "id": "818245f7-7b9c-4b9e-8d9e-4cdfb77240ab",
+    "data": {
+      "gender": "F",
+      "nama": "Firza Agisna Sabili",
+      "birthday": "",
+      "avatar": ""
+    },
+    "rels": {
+      "father": "f49135ab-d888-4954-bba8-cf1d63bc5cea",
+      "mother": "990652ea-26a3-47b7-b246-6249c2967f28"
+    }
+  },
+  {
+    "id": "d9d0f945-45b5-4aa1-9a0e-820180e3cbcd",
+    "data": {
+      "gender": "F",
+      "nama": "Faiza",
+      "birthday": "",
+      "avatar": ""
+    },
+    "rels": {
+      "father": "f49135ab-d888-4954-bba8-cf1d63bc5cea",
+      "mother": "990652ea-26a3-47b7-b246-6249c2967f28"
+    }
+  },
+  {
+    "id": "7749e6d5-b78a-432d-a525-58d714f960fa",
+    "data": {
+      "gender": "M",
+      "nama": "Mauza",
+      "birthday": "",
+      "avatar": ""
+    },
+    "rels": {
+      "father": "f49135ab-d888-4954-bba8-cf1d63bc5cea",
+      "mother": "990652ea-26a3-47b7-b246-6249c2967f28"
+    }
+  },
+  {
+    "id": "e2f80522-57ee-4fe0-a886-67c810ee2c76",
+    "data": {
+      "gender": "F",
+      "nama": "Rina Husniatul Laila",
+      "birthday": "",
+      "avatar": ""
+    },
+    "rels": {
+      "father": "e33d2ebc-cc43-4d7d-b4a9-2972f636b0dd",
+      "mother": "3681122c-5eea-4255-971b-06900f28f6f1",
+      "spouses": [
+        "4ac72c49-6e67-4723-9ce9-4422ddf67922"
+      ],
+      "children": [
+        "c2c1e121-9bf7-4254-869c-a21a4544e234",
+        "e49f44dc-3d9e-4816-b13d-063ed5cecb3c"
+      ]
+    }
+  },
+  {
+    "id": "4ac72c49-6e67-4723-9ce9-4422ddf67922",
+    "data": {
+      "gender": "M",
+      "nama": "Awang Gitayana ",
+      "birthday": "",
+      "avatar": ""
+    },
+    "rels": {
+      "spouses": [
+        "e2f80522-57ee-4fe0-a886-67c810ee2c76"
+      ],
+      "children": [
+        "c2c1e121-9bf7-4254-869c-a21a4544e234",
+        "e49f44dc-3d9e-4816-b13d-063ed5cecb3c"
+      ]
+    }
+  },
+  {
+    "id": "c2c1e121-9bf7-4254-869c-a21a4544e234",
+    "data": {
+      "gender": "F",
+      "nama": "Rigita abidah Ardelia ",
+      "birthday": "",
+      "avatar": ""
+    },
+    "rels": {
+      "father": "e2f80522-57ee-4fe0-a886-67c810ee2c76",
+      "mother": "4ac72c49-6e67-4723-9ce9-4422ddf67922"
+    }
+  },
+  {
+    "id": "e49f44dc-3d9e-4816-b13d-063ed5cecb3c",
+    "data": {
+      "gender": "M",
+      "nama": "Favian Ari resewara ",
+      "birthday": "",
+      "avatar": ""
+    },
+    "rels": {
+      "father": "e2f80522-57ee-4fe0-a886-67c810ee2c76",
+      "mother": "4ac72c49-6e67-4723-9ce9-4422ddf67922"
+    }
+  },
+  {
+    "id": "e310e687-83f0-4e75-9100-700310fb41e0",
+    "data": {
+      "gender": "F",
+      "nama": "Rinvica Nur Istighfaroh ",
+      "birthday": "",
+      "avatar": ""
+    },
+    "rels": {
+      "father": "3681122c-5eea-4255-971b-06900f28f6f1",
+      "mother": "e33d2ebc-cc43-4d7d-b4a9-2972f636b0dd",
+      "spouses": [
+        "26866d55-7d5e-4efc-aacd-9f9c7ade2c1a"
+      ],
+      "children": [
+        "a6133e14-81bb-4e83-a2c1-aeacf18eef35",
+        "398648da-688a-42e2-a223-3655c0164b49"
+      ]
+    }
+  },
+  {
+    "id": "26866d55-7d5e-4efc-aacd-9f9c7ade2c1a",
+    "data": {
+      "gender": "M",
+      "nama": "Fajar Nur rohman",
+      "birthday": "",
+      "avatar": ""
+    },
+    "rels": {
+      "spouses": [
+        "e310e687-83f0-4e75-9100-700310fb41e0"
+      ],
+      "children": [
+        "a6133e14-81bb-4e83-a2c1-aeacf18eef35",
+        "398648da-688a-42e2-a223-3655c0164b49"
+      ]
+    }
+  },
+  {
+    "id": "a6133e14-81bb-4e83-a2c1-aeacf18eef35",
+    "data": {
+      "gender": "F",
+      "nama": "Lintang Khayra Rohman ",
+      "birthday": "",
+      "avatar": ""
+    },
+    "rels": {
+      "father": "e310e687-83f0-4e75-9100-700310fb41e0",
+      "mother": "26866d55-7d5e-4efc-aacd-9f9c7ade2c1a"
+    }
+  },
+  {
+    "id": "398648da-688a-42e2-a223-3655c0164b49",
+    "data": {
+      "gender": "F",
+      "nama": "Hanum Khaylina Rohman",
+      "birthday": "",
+      "avatar": ""
+    },
+    "rels": {
+      "father": "e310e687-83f0-4e75-9100-700310fb41e0",
+      "mother": "26866d55-7d5e-4efc-aacd-9f9c7ade2c1a"
+    }
+  },
+  {
+    "id": "16d7cdc6-a554-4d15-a466-f45c9443852e",
+    "data": {
+      "gender": "M",
+      "nama": "Habib Muanam",
+      "birthday": "",
+      "avatar": ""
+    },
+    "rels": {
+      "father": "1c169029-871a-4223-9819-d2c1e35db38c",
+      "mother": "26fd86c2-037a-4f43-ab2f-a03972e547d7",
+      "spouses": [
+        "722678e5-dfd2-4063-a120-c48bf32b96e9"
+      ],
+      "children": [
+        "b4673307-b915-4ab2-9dc7-238a6d8bbf8d",
+        "7c4be67c-7d15-4b54-a7dc-113fb61aa2b7",
+        "6e25ea3d-f41e-4618-9f16-9214397ad25e"
+      ]
+    }
+  },
+  {
+    "id": "722678e5-dfd2-4063-a120-c48bf32b96e9",
+    "data": {
+      "gender": "F",
+      "nama": "Khusnul Hotimah",
+      "birthday": "",
+      "avatar": ""
+    },
+    "rels": {
+      "spouses": [
+        "16d7cdc6-a554-4d15-a466-f45c9443852e"
+      ],
+      "children": [
+        "b4673307-b915-4ab2-9dc7-238a6d8bbf8d",
+        "7c4be67c-7d15-4b54-a7dc-113fb61aa2b7",
+        "6e25ea3d-f41e-4618-9f16-9214397ad25e"
+      ]
+    }
+  },
+  {
+    "id": "b4673307-b915-4ab2-9dc7-238a6d8bbf8d",
+    "data": {
+      "gender": "M",
+      "nama": "Alvian Adi Pratama",
+      "birthday": "",
+      "avatar": ""
+    },
+    "rels": {
+      "father": "16d7cdc6-a554-4d15-a466-f45c9443852e",
+      "mother": "722678e5-dfd2-4063-a120-c48bf32b96e9",
+      "spouses": [
+        "1b3baaa4-1970-4a14-bb1c-3ee9b21bcbd5"
+      ],
+      "children": [
+        "5ae24a29-2daa-4c26-9a7b-1de5e5f8cadc"
+      ]
+    }
+  },
+  {
+    "id": "1b3baaa4-1970-4a14-bb1c-3ee9b21bcbd5",
+    "data": {
+      "gender": "F",
+      "nama": "Endah Purwanti",
+      "birthday": "",
+      "avatar": ""
+    },
+    "rels": {
+      "spouses": [
+        "b4673307-b915-4ab2-9dc7-238a6d8bbf8d"
+      ],
+      "children": [
+        "5ae24a29-2daa-4c26-9a7b-1de5e5f8cadc"
+      ]
+    }
+  },
+  {
+    "id": "5ae24a29-2daa-4c26-9a7b-1de5e5f8cadc",
+    "data": {
+      "gender": "M",
+      "nama": "Ren Ezaz Alcantara",
+      "birthday": "",
+      "avatar": ""
+    },
+    "rels": {
+      "father": "b4673307-b915-4ab2-9dc7-238a6d8bbf8d",
+      "mother": "1b3baaa4-1970-4a14-bb1c-3ee9b21bcbd5"
+    }
+  },
+  {
+    "id": "7c4be67c-7d15-4b54-a7dc-113fb61aa2b7",
+    "data": {
+      "gender": "F",
+      "nama": "Ainun Fitri Habibah  ",
+      "birthday": "",
+      "avatar": ""
+    },
+    "rels": {
+      "father": "16d7cdc6-a554-4d15-a466-f45c9443852e",
+      "mother": "722678e5-dfd2-4063-a120-c48bf32b96e9"
+    }
+  },
+  {
+    "id": "6e25ea3d-f41e-4618-9f16-9214397ad25e",
+    "data": {
+      "gender": "F",
+      "nama": "Aulia Annisatul Habibah",
+      "birthday": "",
+      "avatar": ""
+    },
+    "rels": {
+      "father": "16d7cdc6-a554-4d15-a466-f45c9443852e",
+      "mother": "722678e5-dfd2-4063-a120-c48bf32b96e9"
+    }
+  },
+  {
+    "id": "4c8248ba-3844-4068-aced-d8de9ad85f0f",
+    "data": {
+      "gender": "F",
+      "nama": "Nurul Mahsum ",
+      "birthday": "",
+      "avatar": ""
+    },
+    "rels": {
+      "father": "1c169029-871a-4223-9819-d2c1e35db38c",
+      "mother": "26fd86c2-037a-4f43-ab2f-a03972e547d7",
+      "spouses": [
+        "7b8c176a-ab50-46f6-a216-8296142f9edc"
+      ],
+      "children": [
+        "0133aa0e-9cdb-4c1b-bb7d-07af3429a5b1",
+        "23b8d9a7-2b30-412a-a4a4-50eda0165daa"
+      ]
+    }
+  },
+  {
+    "id": "7b8c176a-ab50-46f6-a216-8296142f9edc",
+    "data": {
+      "gender": "M",
+      "nama": "Mujiono",
+      "birthday": "",
+      "avatar": ""
+    },
+    "rels": {
+      "spouses": [
+        "4c8248ba-3844-4068-aced-d8de9ad85f0f"
+      ],
+      "children": [
+        "0133aa0e-9cdb-4c1b-bb7d-07af3429a5b1",
+        "23b8d9a7-2b30-412a-a4a4-50eda0165daa"
+      ]
+    }
+  },
+  {
+    "id": "0133aa0e-9cdb-4c1b-bb7d-07af3429a5b1",
+    "data": {
+      "gender": "M",
+      "nama": "Tinton aji Kusuma",
+      "birthday": "",
+      "avatar": ""
+    },
+    "rels": {
+      "father": "4c8248ba-3844-4068-aced-d8de9ad85f0f",
+      "mother": "7b8c176a-ab50-46f6-a216-8296142f9edc",
+      "spouses": [
+        "1adaeda9-e2b9-458b-8c55-8b14ff08c8cc"
+      ],
+      "children": [
+        "8e0079eb-ed37-4c77-a5d3-48d14bf68def",
+        "5b066dfa-4ff3-4057-a4be-c4372d3fed6f",
+        "d5475baf-57ee-4700-889f-35b8d95c61b4"
+      ]
+    }
+  },
+  {
+    "id": "1adaeda9-e2b9-458b-8c55-8b14ff08c8cc",
+    "data": {
+      "gender": "F",
+      "nama": "Novia Ukrovia",
+      "birthday": "",
+      "avatar": ""
+    },
+    "rels": {
+      "spouses": [
+        "0133aa0e-9cdb-4c1b-bb7d-07af3429a5b1"
+      ],
+      "children": [
+        "8e0079eb-ed37-4c77-a5d3-48d14bf68def",
+        "5b066dfa-4ff3-4057-a4be-c4372d3fed6f",
+        "d5475baf-57ee-4700-889f-35b8d95c61b4"
+      ]
+    }
+  },
+  {
+    "id": "8e0079eb-ed37-4c77-a5d3-48d14bf68def",
+    "data": {
+      "gender": "M",
+      "nama": "Destino Hirsyu Alvaro",
+      "birthday": "",
+      "avatar": ""
+    },
+    "rels": {
+      "father": "0133aa0e-9cdb-4c1b-bb7d-07af3429a5b1",
+      "mother": "1adaeda9-e2b9-458b-8c55-8b14ff08c8cc"
+    }
+  },
+  {
+    "id": "5b066dfa-4ff3-4057-a4be-c4372d3fed6f",
+    "data": {
+      "gender": "F",
+      "nama": "Glandys  Ceria Almahrina ",
+      "birthday": "",
+      "avatar": ""
+    },
+    "rels": {
+      "father": "0133aa0e-9cdb-4c1b-bb7d-07af3429a5b1",
+      "mother": "1adaeda9-e2b9-458b-8c55-8b14ff08c8cc"
+    }
+  },
+  {
+    "id": "d5475baf-57ee-4700-889f-35b8d95c61b4",
+    "data": {
+      "gender": "F",
+      "nama": "Glania Audy Almahira",
+      "birthday": "",
+      "avatar": ""
+    },
+    "rels": {
+      "father": "0133aa0e-9cdb-4c1b-bb7d-07af3429a5b1",
+      "mother": "1adaeda9-e2b9-458b-8c55-8b14ff08c8cc"
+    }
+  },
+  {
+    "id": "23b8d9a7-2b30-412a-a4a4-50eda0165daa",
+    "data": {
+      "gender": "F",
+      "nama": "Hanifah Hidayati",
+      "birthday": "",
+      "avatar": ""
+    },
+    "rels": {
+      "father": "4c8248ba-3844-4068-aced-d8de9ad85f0f",
+      "mother": "7b8c176a-ab50-46f6-a216-8296142f9edc",
+      "spouses": [
+        "0bebf933-e982-417d-b4bd-1f7b671fd669"
+      ],
+      "children": [
+        "67f73303-42ee-43e3-bf8a-6970a98955ce",
+        "1421911a-9210-4a9d-8fa1-a8dc93596306"
+      ]
+    }
+  },
+  {
+    "id": "0bebf933-e982-417d-b4bd-1f7b671fd669",
+    "data": {
+      "gender": "M",
+      "nama": "Khoiru Rezak",
+      "birthday": "",
+      "avatar": ""
+    },
+    "rels": {
+      "spouses": [
+        "23b8d9a7-2b30-412a-a4a4-50eda0165daa"
+      ],
+      "children": [
+        "67f73303-42ee-43e3-bf8a-6970a98955ce",
+        "1421911a-9210-4a9d-8fa1-a8dc93596306"
+      ]
+    }
+  },
+  {
+    "id": "67f73303-42ee-43e3-bf8a-6970a98955ce",
+    "data": {
+      "gender": "F",
+      "nama": "Elshanum Puspa Fahriza",
+      "birthday": "",
+      "avatar": ""
+    },
+    "rels": {
+      "father": "23b8d9a7-2b30-412a-a4a4-50eda0165daa",
+      "mother": "0bebf933-e982-417d-b4bd-1f7b671fd669"
+    }
+  },
+  {
+    "id": "1421911a-9210-4a9d-8fa1-a8dc93596306",
+    "data": {
+      "gender": "M",
+      "nama": "Ziyan Chlolid Fariza",
+      "birthday": "",
+      "avatar": ""
+    },
+    "rels": {
+      "father": "23b8d9a7-2b30-412a-a4a4-50eda0165daa",
+      "mother": "0bebf933-e982-417d-b4bd-1f7b671fd669"
+    }
+  },
+  {
+    "id": "c739edea-d146-4eb8-815b-a56b57644f0e",
+    "data": {
+      "gender": "F",
+      "nama": "Rohmawati",
+      "birthday": "",
+      "avatar": ""
+    },
+    "rels": {
+      "father": "1c169029-871a-4223-9819-d2c1e35db38c",
+      "mother": "26fd86c2-037a-4f43-ab2f-a03972e547d7"
+    }
+  },
+  {
+    "id": "f2fac54f-f5b9-49f4-a184-d6546e451e42",
+    "data": {
+      "gender": "F",
+      "nama": "Nahudah",
+      "birthday": "",
+      "avatar": ""
+    },
+    "rels": {
+      "spouses": [
+        "67af34b9-ff74-482b-9eaa-5d94818f0d87"
+      ],
+      "children": [
+        "1ed79215-0a3f-45ff-9a58-61ee8f4ed965",
+        "0b3e7288-b993-49f0-af36-abb80c4b17b5",
+        "e3e3643a-4ed6-4046-84bd-875b5c42b18c",
+        "0b0c96d0-680c-4266-99e7-2270db0d4068"
+      ]
+    }
+  },
+  {
+    "id": "1ed79215-0a3f-45ff-9a58-61ee8f4ed965",
+    "data": {
+      "gender": "F",
+      "nama": "Untung Farida",
+      "birthday": "",
+      "avatar": ""
+    },
+    "rels": {
+      "father": "67af34b9-ff74-482b-9eaa-5d94818f0d87",
+      "mother": "f2fac54f-f5b9-49f4-a184-d6546e451e42",
+      "spouses": [
+        "b2410ee9-cf8e-4197-ba87-e16b44c46f93"
+      ],
+      "children": [
+        "e9199c9a-a2c7-4185-911a-f6c12bddbf1e",
+        "44c3ff34-7476-4e37-b35a-85126aa7375e",
+        "625a80fe-91eb-4076-a0b2-b63e1792aff1"
+      ]
+    }
+  },
+  {
+    "id": "b2410ee9-cf8e-4197-ba87-e16b44c46f93",
+    "data": {
+      "gender": "M",
+      "nama": "Hadi Gunawan",
+      "birthday": "",
+      "avatar": ""
+    },
+    "rels": {
+      "spouses": [
+        "1ed79215-0a3f-45ff-9a58-61ee8f4ed965"
+      ],
+      "children": [
+        "e9199c9a-a2c7-4185-911a-f6c12bddbf1e",
+        "44c3ff34-7476-4e37-b35a-85126aa7375e",
+        "625a80fe-91eb-4076-a0b2-b63e1792aff1"
+      ]
+    }
+  },
+  {
+    "id": "e9199c9a-a2c7-4185-911a-f6c12bddbf1e",
+    "data": {
+      "gender": "M",
+      "nama": "Ardi Rahmansyah Hadis",
+      "birthday": "",
+      "avatar": ""
+    },
+    "rels": {
+      "father": "1ed79215-0a3f-45ff-9a58-61ee8f4ed965",
+      "mother": "b2410ee9-cf8e-4197-ba87-e16b44c46f93",
+      "spouses": [
+        "fba34e1b-2557-45eb-8c7c-5ff3dae64091"
+      ],
+      "children": [
+        "0e9c7a78-0225-4431-a056-ef087e403f6f",
+        "ad47ebc5-8baa-47c2-8963-3814281db99e",
+        "901d938b-bb18-4862-83f9-f5444993e629",
+        "6a494768-f091-4736-8515-b9ed84466ba5"
+      ]
+    }
+  },
+  {
+    "id": "fba34e1b-2557-45eb-8c7c-5ff3dae64091",
+    "data": {
+      "gender": "F",
+      "nama": "Afnia",
+      "birthday": "",
+      "avatar": ""
+    },
+    "rels": {
+      "spouses": [
+        "e9199c9a-a2c7-4185-911a-f6c12bddbf1e"
+      ],
+      "children": [
+        "0e9c7a78-0225-4431-a056-ef087e403f6f",
+        "ad47ebc5-8baa-47c2-8963-3814281db99e",
+        "901d938b-bb18-4862-83f9-f5444993e629",
+        "6a494768-f091-4736-8515-b9ed84466ba5"
+      ]
+    }
+  },
+  {
+    "id": "0e9c7a78-0225-4431-a056-ef087e403f6f",
+    "data": {
+      "gender": "M",
+      "nama": "Omar",
+      "birthday": "",
+      "avatar": ""
+    },
+    "rels": {
+      "father": "e9199c9a-a2c7-4185-911a-f6c12bddbf1e",
+      "mother": "fba34e1b-2557-45eb-8c7c-5ff3dae64091"
+    }
+  },
+  {
+    "id": "ad47ebc5-8baa-47c2-8963-3814281db99e",
+    "data": {
+      "gender": "F",
+      "nama": "Zeza",
+      "birthday": "",
+      "avatar": ""
+    },
+    "rels": {
+      "father": "e9199c9a-a2c7-4185-911a-f6c12bddbf1e",
+      "mother": "fba34e1b-2557-45eb-8c7c-5ff3dae64091"
+    }
+  },
+  {
+    "id": "901d938b-bb18-4862-83f9-f5444993e629",
+    "data": {
+      "gender": "M",
+      "nama": "Dibah",
+      "birthday": "",
+      "avatar": ""
+    },
+    "rels": {
+      "father": "e9199c9a-a2c7-4185-911a-f6c12bddbf1e",
+      "mother": "fba34e1b-2557-45eb-8c7c-5ff3dae64091"
+    }
+  },
+  {
+    "id": "6a494768-f091-4736-8515-b9ed84466ba5",
+    "data": {
+      "gender": "F",
+      "nama": "Jihan",
+      "birthday": "",
+      "avatar": ""
+    },
+    "rels": {
+      "father": "e9199c9a-a2c7-4185-911a-f6c12bddbf1e",
+      "mother": "fba34e1b-2557-45eb-8c7c-5ff3dae64091"
+    }
+  },
+  {
+    "id": "44c3ff34-7476-4e37-b35a-85126aa7375e",
+    "data": {
+      "gender": "F",
+      "nama": "Choirul Ulfa Dina ",
+      "birthday": "",
+      "avatar": ""
+    },
+    "rels": {
+      "father": "1ed79215-0a3f-45ff-9a58-61ee8f4ed965",
+      "mother": "b2410ee9-cf8e-4197-ba87-e16b44c46f93",
+      "spouses": [
+        "82311768-6da9-4d1e-8d39-39f1d1a65e37"
+      ],
+      "children": [
+        "082cdd70-5b89-4102-b7c4-3f4877dda39c",
+        "d40c8e9a-24f7-4952-84e3-3bd3c299dcd6",
+        "8be61dca-443a-46a0-bd50-65064b7edd8f"
+      ]
+    }
+  },
+  {
+    "id": "82311768-6da9-4d1e-8d39-39f1d1a65e37",
+    "data": {
+      "gender": "M",
+      "nama": "Henry",
+      "birthday": "",
+      "avatar": ""
+    },
+    "rels": {
+      "spouses": [
+        "44c3ff34-7476-4e37-b35a-85126aa7375e"
+      ],
+      "children": [
+        "082cdd70-5b89-4102-b7c4-3f4877dda39c",
+        "d40c8e9a-24f7-4952-84e3-3bd3c299dcd6",
+        "8be61dca-443a-46a0-bd50-65064b7edd8f"
+      ]
+    }
+  },
+  {
+    "id": "082cdd70-5b89-4102-b7c4-3f4877dda39c",
+    "data": {
+      "gender": "F",
+      "nama": "Marza",
+      "birthday": "",
+      "avatar": ""
+    },
+    "rels": {
+      "father": "44c3ff34-7476-4e37-b35a-85126aa7375e",
+      "mother": "82311768-6da9-4d1e-8d39-39f1d1a65e37"
+    }
+  },
+  {
+    "id": "d40c8e9a-24f7-4952-84e3-3bd3c299dcd6",
+    "data": {
+      "gender": "F",
+      "nama": "Alesha",
+      "birthday": "",
+      "avatar": ""
+    },
+    "rels": {
+      "father": "44c3ff34-7476-4e37-b35a-85126aa7375e",
+      "mother": "82311768-6da9-4d1e-8d39-39f1d1a65e37"
+    }
+  },
+  {
+    "id": "8be61dca-443a-46a0-bd50-65064b7edd8f",
+    "data": {
+      "gender": "F",
+      "nama": "Sheza",
+      "birthday": "",
+      "avatar": ""
+    },
+    "rels": {
+      "father": "44c3ff34-7476-4e37-b35a-85126aa7375e",
+      "mother": "82311768-6da9-4d1e-8d39-39f1d1a65e37"
+    }
+  },
+  {
+    "id": "625a80fe-91eb-4076-a0b2-b63e1792aff1",
+    "data": {
+      "gender": "F",
+      "nama": "Nisrina Salsabilah",
+      "birthday": "",
+      "avatar": ""
+    },
+    "rels": {
+      "father": "1ed79215-0a3f-45ff-9a58-61ee8f4ed965",
+      "mother": "b2410ee9-cf8e-4197-ba87-e16b44c46f93"
+    }
+  },
+  {
+    "id": "0b3e7288-b993-49f0-af36-abb80c4b17b5",
+    "data": {
+      "gender": "M",
+      "nama": "Agus Nasihin",
+      "birthday": "",
+      "avatar": ""
+    },
+    "rels": {
+      "father": "67af34b9-ff74-482b-9eaa-5d94818f0d87",
+      "mother": "f2fac54f-f5b9-49f4-a184-d6546e451e42",
+      "spouses": [
+        "9c376129-f45d-4c12-9790-f32e055b3e84"
+      ],
+      "children": [
+        "d979391b-9f66-4cd8-a185-5c763c73587d",
+        "66860de5-0034-4c39-a4e4-b6f925b77de2"
+      ]
+    }
+  },
+  {
+    "id": "9c376129-f45d-4c12-9790-f32e055b3e84",
+    "data": {
+      "gender": "F",
+      "nama": "Emi Laila Khurotul Muazizah",
+      "birthday": "",
+      "avatar": ""
+    },
+    "rels": {
+      "spouses": [
+        "0b3e7288-b993-49f0-af36-abb80c4b17b5"
+      ],
+      "children": [
+        "d979391b-9f66-4cd8-a185-5c763c73587d",
+        "66860de5-0034-4c39-a4e4-b6f925b77de2"
+      ]
+    }
+  },
+  {
+    "id": "d979391b-9f66-4cd8-a185-5c763c73587d",
+    "data": {
+      "gender": "F",
+      "nama": "Sherlena Wahidah Andhikayanti",
+      "birthday": "",
+      "avatar": ""
+    },
+    "rels": {
+      "father": "0b3e7288-b993-49f0-af36-abb80c4b17b5",
+      "mother": "9c376129-f45d-4c12-9790-f32e055b3e84"
+    }
+  },
+  {
+    "id": "66860de5-0034-4c39-a4e4-b6f925b77de2",
+    "data": {
+      "gender": "M",
+      "nama": "M Farabi Kapptana Loga",
+      "birthday": "",
+      "avatar": ""
+    },
+    "rels": {
+      "father": "0b3e7288-b993-49f0-af36-abb80c4b17b5",
+      "mother": "9c376129-f45d-4c12-9790-f32e055b3e84"
+    }
+  },
+  {
+    "id": "e3e3643a-4ed6-4046-84bd-875b5c42b18c",
+    "data": {
+      "gender": "F",
+      "nama": "Indranik Nurma ",
+      "birthday": "",
+      "avatar": ""
+    },
+    "rels": {
+      "father": "67af34b9-ff74-482b-9eaa-5d94818f0d87",
+      "mother": "f2fac54f-f5b9-49f4-a184-d6546e451e42",
+      "spouses": [
+        "243ad463-76de-4fb8-a5cf-f56c272abc28"
+      ],
+      "children": [
+        "53969757-5489-4b0e-acbe-3b58ea1707d0",
+        "ae2884f2-50cf-4591-b43d-0b37e76c9cab",
+        "9482f8ee-4299-403e-a2bf-3d4fcd90e7cc"
+      ]
+    }
+  },
+  {
+    "id": "243ad463-76de-4fb8-a5cf-f56c272abc28",
+    "data": {
+      "gender": "M",
+      "nama": "Moh Yusuf",
+      "birthday": "",
+      "avatar": ""
+    },
+    "rels": {
+      "spouses": [
+        "e3e3643a-4ed6-4046-84bd-875b5c42b18c"
+      ],
+      "children": [
+        "53969757-5489-4b0e-acbe-3b58ea1707d0",
+        "ae2884f2-50cf-4591-b43d-0b37e76c9cab",
+        "9482f8ee-4299-403e-a2bf-3d4fcd90e7cc"
+      ]
+    }
+  },
+  {
+    "id": "53969757-5489-4b0e-acbe-3b58ea1707d0",
+    "data": {
+      "gender": "M",
+      "nama": "Wildan Fauzy",
+      "birthday": "",
+      "avatar": ""
+    },
+    "rels": {
+      "father": "e3e3643a-4ed6-4046-84bd-875b5c42b18c",
+      "mother": "243ad463-76de-4fb8-a5cf-f56c272abc28"
+    }
+  },
+  {
+    "id": "ae2884f2-50cf-4591-b43d-0b37e76c9cab",
+    "data": {
+      "gender": "M",
+      "nama": "Fahmi Firmannsyah",
+      "birthday": "",
+      "avatar": ""
+    },
+    "rels": {
+      "father": "e3e3643a-4ed6-4046-84bd-875b5c42b18c",
+      "mother": "243ad463-76de-4fb8-a5cf-f56c272abc28"
+    }
+  },
+  {
+    "id": "9482f8ee-4299-403e-a2bf-3d4fcd90e7cc",
+    "data": {
+      "gender": "F",
+      "nama": "Nadine Zakkyyah Azzahara",
+      "birthday": "",
+      "avatar": ""
+    },
+    "rels": {
+      "father": "e3e3643a-4ed6-4046-84bd-875b5c42b18c",
+      "mother": "243ad463-76de-4fb8-a5cf-f56c272abc28"
+    }
+  },
+  {
+    "id": "0b0c96d0-680c-4266-99e7-2270db0d4068",
+    "data": {
+      "gender": "F",
+      "nama": "Nurul Hapipah",
+      "birthday": "",
+      "avatar": ""
+    },
+    "rels": {
+      "father": "67af34b9-ff74-482b-9eaa-5d94818f0d87",
+      "mother": "f2fac54f-f5b9-49f4-a184-d6546e451e42",
+      "spouses": [
+        "832380fc-3f78-4a2f-aa8a-df35f2bd1f14"
+      ],
+      "children": [
+        "6b9f7288-5d96-4941-99d4-84b0a9a39135",
+        "72fc338c-a994-4dce-b2b0-367b0253a93f"
+      ]
+    }
+  },
+  {
+    "id": "832380fc-3f78-4a2f-aa8a-df35f2bd1f14",
+    "data": {
+      "gender": "M",
+      "nama": "Samuji",
+      "birthday": "",
+      "avatar": ""
+    },
+    "rels": {
+      "spouses": [
+        "0b0c96d0-680c-4266-99e7-2270db0d4068"
+      ],
+      "children": [
+        "6b9f7288-5d96-4941-99d4-84b0a9a39135",
+        "72fc338c-a994-4dce-b2b0-367b0253a93f"
+      ]
+    }
+  },
+  {
+    "id": "6b9f7288-5d96-4941-99d4-84b0a9a39135",
+    "data": {
+      "gender": "F",
+      "nama": "Inna Oriyza Sativa",
+      "birthday": "",
+      "avatar": ""
+    },
+    "rels": {
+      "father": "0b0c96d0-680c-4266-99e7-2270db0d4068",
+      "mother": "832380fc-3f78-4a2f-aa8a-df35f2bd1f14"
+    }
+  },
+  {
+    "id": "72fc338c-a994-4dce-b2b0-367b0253a93f",
+    "data": {
+      "gender": "F",
+      "nama": "Nayyara Aishah Savita",
+      "birthday": "",
+      "avatar": ""
+    },
+    "rels": {
+      "father": "0b0c96d0-680c-4266-99e7-2270db0d4068",
+      "mother": "832380fc-3f78-4a2f-aa8a-df35f2bd1f14"
+    }
+  },
+  {
+    "id": "ca0af30b-7e1e-4cab-baef-46053c1e7250",
+    "data": {
+      "gender": "M",
+      "nama": "Maksum",
+      "birthday": "",
+      "avatar": ""
+    },
+    "rels": {
+      "spouses": [
+        "9039171a-b00e-4129-b1af-e21969076b99"
+      ],
+      "children": [
+        "50a41e61-e6ea-4a86-a2e5-69bd0ccf303a",
+        "4fc68511-ce3e-481e-a56b-b3149d37b1b7",
+        "668382d3-a21b-4e46-b62a-e26d5619da3e",
+        "e4861c16-2376-4085-9bfa-0aed900f2c48"
+      ]
+    }
+  },
+  {
+    "id": "50a41e61-e6ea-4a86-a2e5-69bd0ccf303a",
+    "data": {
+      "gender": "M",
+      "nama": "Gatot Syaiful Bahri ",
+      "birthday": "",
+      "avatar": ""
+    },
+    "rels": {
+      "father": "9039171a-b00e-4129-b1af-e21969076b99",
+      "mother": "ca0af30b-7e1e-4cab-baef-46053c1e7250",
+      "spouses": [
+        "0eb04b51-7189-4aa6-84c0-af62998f309b"
+      ],
+      "children": [
+        "d722a951-f41f-4d5c-b793-cd06ac6c0e4a",
+        "1398d158-72e6-4932-a7a9-1281b348beaf",
+        "b91a5b1c-77f9-4836-be4a-cf4fc1e5ba7e"
+      ]
+    }
+  },
+  {
+    "id": "0eb04b51-7189-4aa6-84c0-af62998f309b",
+    "data": {
+      "gender": "F",
+      "nama": "Yus Mainah",
+      "birthday": "",
+      "avatar": ""
+    },
+    "rels": {
+      "spouses": [
+        "50a41e61-e6ea-4a86-a2e5-69bd0ccf303a"
+      ],
+      "children": [
+        "d722a951-f41f-4d5c-b793-cd06ac6c0e4a",
+        "1398d158-72e6-4932-a7a9-1281b348beaf",
+        "b91a5b1c-77f9-4836-be4a-cf4fc1e5ba7e"
+      ]
+    }
+  },
+  {
+    "id": "d722a951-f41f-4d5c-b793-cd06ac6c0e4a",
+    "data": {
+      "gender": "M",
+      "nama": "Efan",
+      "birthday": "",
+      "avatar": ""
+    },
+    "rels": {
+      "father": "50a41e61-e6ea-4a86-a2e5-69bd0ccf303a",
+      "mother": "0eb04b51-7189-4aa6-84c0-af62998f309b"
+    }
+  },
+  {
+    "id": "1398d158-72e6-4932-a7a9-1281b348beaf",
+    "data": {
+      "gender": "M",
+      "nama": "Arik",
+      "birthday": "",
+      "avatar": ""
+    },
+    "rels": {
+      "father": "50a41e61-e6ea-4a86-a2e5-69bd0ccf303a",
+      "mother": "0eb04b51-7189-4aa6-84c0-af62998f309b"
+    }
+  },
+  {
+    "id": "b91a5b1c-77f9-4836-be4a-cf4fc1e5ba7e",
+    "data": {
+      "gender": "M",
+      "nama": "Izal",
+      "birthday": "",
+      "avatar": ""
+    },
+    "rels": {
+      "father": "50a41e61-e6ea-4a86-a2e5-69bd0ccf303a",
+      "mother": "0eb04b51-7189-4aa6-84c0-af62998f309b"
+    }
+  },
+  {
+    "id": "4fc68511-ce3e-481e-a56b-b3149d37b1b7",
+    "data": {
+      "gender": "F",
+      "nama": "Lilik Farida",
+      "birthday": "",
+      "avatar": ""
+    },
+    "rels": {
+      "father": "9039171a-b00e-4129-b1af-e21969076b99",
+      "mother": "ca0af30b-7e1e-4cab-baef-46053c1e7250",
+      "spouses": [
+        "455513f8-d74c-45bb-8963-6c313be6a080"
+      ],
+      "children": [
+        "84a9dee2-04b0-490a-a6e2-78000378b287",
+        "447bcbc3-423c-4022-bc6c-d45f044bc849"
+      ]
+    }
+  },
+  {
+    "id": "455513f8-d74c-45bb-8963-6c313be6a080",
+    "data": {
+      "gender": "M",
+      "nama": "Gatot",
+      "birthday": "",
+      "avatar": ""
+    },
+    "rels": {
+      "spouses": [
+        "4fc68511-ce3e-481e-a56b-b3149d37b1b7"
+      ],
+      "children": [
+        "84a9dee2-04b0-490a-a6e2-78000378b287",
+        "447bcbc3-423c-4022-bc6c-d45f044bc849"
+      ]
+    }
+  },
+  {
+    "id": "84a9dee2-04b0-490a-a6e2-78000378b287",
+    "data": {
+      "gender": "M",
+      "nama": "Arif Aprila Sanjaya",
+      "birthday": "",
+      "avatar": ""
+    },
+    "rels": {
+      "father": "4fc68511-ce3e-481e-a56b-b3149d37b1b7",
+      "mother": "455513f8-d74c-45bb-8963-6c313be6a080",
+      "spouses": [
+        "52081c67-e42f-4329-98c2-97c027e0df45"
+      ],
+      "children": [
+        "60137d79-c958-45f3-9b3c-95ab6be1f221",
+        "b87b93f2-9fec-4a52-b3ee-a21091c1ad0e"
+      ]
+    }
+  },
+  {
+    "id": "52081c67-e42f-4329-98c2-97c027e0df45",
+    "data": {
+      "gender": "F",
+      "nama": "Yuli Rahmawati",
+      "birthday": "",
+      "avatar": ""
+    },
+    "rels": {
+      "spouses": [
+        "84a9dee2-04b0-490a-a6e2-78000378b287"
+      ],
+      "children": [
+        "60137d79-c958-45f3-9b3c-95ab6be1f221",
+        "b87b93f2-9fec-4a52-b3ee-a21091c1ad0e"
+      ]
+    }
+  },
+  {
+    "id": "60137d79-c958-45f3-9b3c-95ab6be1f221",
+    "data": {
+      "gender": "F",
+      "nama": "Layang Asmara",
+      "birthday": "",
+      "avatar": ""
+    },
+    "rels": {
+      "father": "84a9dee2-04b0-490a-a6e2-78000378b287",
+      "mother": "52081c67-e42f-4329-98c2-97c027e0df45"
+    }
+  },
+  {
+    "id": "b87b93f2-9fec-4a52-b3ee-a21091c1ad0e",
+    "data": {
+      "gender": "F",
+      "nama": "Yura",
+      "birthday": "",
+      "avatar": ""
+    },
+    "rels": {
+      "father": "84a9dee2-04b0-490a-a6e2-78000378b287",
+      "mother": "52081c67-e42f-4329-98c2-97c027e0df45"
+    }
+  },
+  {
+    "id": "447bcbc3-423c-4022-bc6c-d45f044bc849",
+    "data": {
+      "gender": "M",
+      "nama": "Befin Amanda Putra ",
+      "birthday": "",
+      "avatar": ""
+    },
+    "rels": {
+      "father": "4fc68511-ce3e-481e-a56b-b3149d37b1b7",
+      "mother": "455513f8-d74c-45bb-8963-6c313be6a080",
+      "spouses": [
+        "9f5d999e-fcf1-4584-8bf8-286ae23876ec"
+      ],
+      "children": [
+        "7dd1f907-666e-47b1-8399-69a127878e73",
+        "c52320ce-8dc3-485a-a332-027b11c15710"
+      ]
+    }
+  },
+  {
+    "id": "9f5d999e-fcf1-4584-8bf8-286ae23876ec",
+    "data": {
+      "gender": "F",
+      "nama": "Rachmah Chairani",
+      "birthday": "",
+      "avatar": ""
+    },
+    "rels": {
+      "spouses": [
+        "447bcbc3-423c-4022-bc6c-d45f044bc849"
+      ],
+      "children": [
+        "7dd1f907-666e-47b1-8399-69a127878e73",
+        "c52320ce-8dc3-485a-a332-027b11c15710"
+      ]
+    }
+  },
+  {
+    "id": "7dd1f907-666e-47b1-8399-69a127878e73",
+    "data": {
+      "gender": "M",
+      "nama": "Fattah Arsyad",
+      "birthday": "",
+      "avatar": ""
+    },
+    "rels": {
+      "father": "447bcbc3-423c-4022-bc6c-d45f044bc849",
+      "mother": "9f5d999e-fcf1-4584-8bf8-286ae23876ec"
+    }
+  },
+  {
+    "id": "c52320ce-8dc3-485a-a332-027b11c15710",
+    "data": {
+      "gender": "F",
+      "nama": "Azzalea Zalfa",
+      "birthday": "",
+      "avatar": ""
+    },
+    "rels": {
+      "father": "447bcbc3-423c-4022-bc6c-d45f044bc849",
+      "mother": "9f5d999e-fcf1-4584-8bf8-286ae23876ec"
+    }
+  },
+  {
+    "id": "668382d3-a21b-4e46-b62a-e26d5619da3e",
+    "data": {
+      "gender": "M",
+      "nama": "Sulis",
+      "birthday": "",
+      "avatar": ""
+    },
+    "rels": {
+      "father": "9039171a-b00e-4129-b1af-e21969076b99",
+      "mother": "ca0af30b-7e1e-4cab-baef-46053c1e7250",
+      "spouses": [
+        "04c7a580-a7e2-4dfb-9346-8dc4eb174925"
+      ],
+      "children": [
+        "644ac2ea-e704-44dd-89ad-a67e4d1ad406",
+        "3591a2e0-0a91-4d23-b9b7-96dffd997c0d",
+        "d2772a44-987d-42be-bb0d-b6fa5c3966a0"
+      ]
+    }
+  },
+  {
+    "id": "04c7a580-a7e2-4dfb-9346-8dc4eb174925",
+    "data": {
+      "gender": "F",
+      "nama": "Hairomin",
+      "birthday": "",
+      "avatar": ""
+    },
+    "rels": {
+      "spouses": [
+        "668382d3-a21b-4e46-b62a-e26d5619da3e"
+      ],
+      "children": [
+        "644ac2ea-e704-44dd-89ad-a67e4d1ad406",
+        "3591a2e0-0a91-4d23-b9b7-96dffd997c0d",
+        "d2772a44-987d-42be-bb0d-b6fa5c3966a0"
+      ]
+    }
+  },
+  {
+    "id": "644ac2ea-e704-44dd-89ad-a67e4d1ad406",
+    "data": {
+      "gender": "M",
+      "nama": "Ryan Hidayatullah",
+      "birthday": "",
+      "avatar": ""
+    },
+    "rels": {
+      "father": "668382d3-a21b-4e46-b62a-e26d5619da3e",
+      "mother": "04c7a580-a7e2-4dfb-9346-8dc4eb174925",
+      "spouses": [
+        "1baf7ce2-d8da-4377-8df8-7efadef284e2"
+      ],
+      "children": [
+        "6609db4e-f7fb-4776-8440-b60aae981917",
+        "10e23810-c2ca-41e8-a74b-c07c10a605f4",
+        "b7e51baf-608a-4e59-a555-76670dfaa931"
+      ]
+    }
+  },
+  {
+    "id": "1baf7ce2-d8da-4377-8df8-7efadef284e2",
+    "data": {
+      "gender": "F",
+      "nama": "Aprisanti Nia",
+      "birthday": "",
+      "avatar": ""
+    },
+    "rels": {
+      "spouses": [
+        "644ac2ea-e704-44dd-89ad-a67e4d1ad406"
+      ],
+      "children": [
+        "6609db4e-f7fb-4776-8440-b60aae981917",
+        "10e23810-c2ca-41e8-a74b-c07c10a605f4",
+        "b7e51baf-608a-4e59-a555-76670dfaa931"
+      ]
+    }
+  },
+  {
+    "id": "6609db4e-f7fb-4776-8440-b60aae981917",
+    "data": {
+      "gender": "F",
+      "nama": "Mediana",
+      "birthday": "",
+      "avatar": ""
+    },
+    "rels": {
+      "father": "644ac2ea-e704-44dd-89ad-a67e4d1ad406",
+      "mother": "1baf7ce2-d8da-4377-8df8-7efadef284e2"
+    }
+  },
+  {
+    "id": "10e23810-c2ca-41e8-a74b-c07c10a605f4",
+    "data": {
+      "gender": "F",
+      "nama": "Rubby",
+      "birthday": "",
+      "avatar": ""
+    },
+    "rels": {
+      "father": "644ac2ea-e704-44dd-89ad-a67e4d1ad406",
+      "mother": "1baf7ce2-d8da-4377-8df8-7efadef284e2"
+    }
+  },
+  {
+    "id": "b7e51baf-608a-4e59-a555-76670dfaa931",
+    "data": {
+      "gender": "F",
+      "nama": "Hawwa",
+      "birthday": "",
+      "avatar": ""
+    },
+    "rels": {
+      "father": "644ac2ea-e704-44dd-89ad-a67e4d1ad406",
+      "mother": "1baf7ce2-d8da-4377-8df8-7efadef284e2"
+    }
+  },
+  {
+    "id": "3591a2e0-0a91-4d23-b9b7-96dffd997c0d",
+    "data": {
+      "gender": "F",
+      "nama": "Titah Lailiyah ",
+      "birthday": "",
+      "avatar": ""
+    },
+    "rels": {
+      "father": "668382d3-a21b-4e46-b62a-e26d5619da3e",
+      "mother": "04c7a580-a7e2-4dfb-9346-8dc4eb174925",
+      "spouses": [
+        "5d93b80d-796a-4798-9d73-ea3243303b50"
+      ]
+    }
+  },
+  {
+    "id": "5d93b80d-796a-4798-9d73-ea3243303b50",
+    "data": {
+      "gender": "M",
+      "nama": "Firman Rosadi",
+      "birthday": "",
+      "avatar": ""
+    },
+    "rels": {
+      "spouses": [
+        "3591a2e0-0a91-4d23-b9b7-96dffd997c0d"
+      ],
+      "children": []
+    }
+  },
+  {
+    "id": "d2772a44-987d-42be-bb0d-b6fa5c3966a0",
+    "data": {
+      "gender": "M",
+      "nama": "Sulton",
+      "birthday": "",
+      "avatar": ""
+    },
+    "rels": {
+      "father": "668382d3-a21b-4e46-b62a-e26d5619da3e",
+      "mother": "04c7a580-a7e2-4dfb-9346-8dc4eb174925"
+    }
+  },
+  {
+    "id": "e4861c16-2376-4085-9bfa-0aed900f2c48",
+    "data": {
+      "gender": "F",
+      "nama": "Yayuk S Rahayu",
+      "birthday": "",
+      "avatar": ""
+    },
+    "rels": {
+      "father": "9039171a-b00e-4129-b1af-e21969076b99",
+      "mother": "ca0af30b-7e1e-4cab-baef-46053c1e7250",
+      "spouses": [
+        "3dd0489c-a877-4804-8619-e1eee3b449ec"
+      ],
+      "children": [
+        "336141ad-ba5c-4281-9f25-ddc7357806b6",
+        "011b213c-b6ab-4679-ab38-83e1a161b415",
+        "4263b7ee-ea5b-4139-b352-50b8f9b2ba13"
+      ]
+    }
+  },
+  {
+    "id": "3dd0489c-a877-4804-8619-e1eee3b449ec",
+    "data": {
+      "gender": "M",
+      "nama": "Husnan",
+      "birthday": "",
+      "avatar": ""
+    },
+    "rels": {
+      "spouses": [
+        "e4861c16-2376-4085-9bfa-0aed900f2c48"
+      ],
+      "children": [
+        "336141ad-ba5c-4281-9f25-ddc7357806b6",
+        "011b213c-b6ab-4679-ab38-83e1a161b415",
+        "4263b7ee-ea5b-4139-b352-50b8f9b2ba13"
+      ]
+    }
+  },
+  {
+    "id": "336141ad-ba5c-4281-9f25-ddc7357806b6",
+    "data": {
+      "gender": "F",
+      "nama": "Hilma Yunanda",
+      "birthday": "",
+      "avatar": ""
+    },
+    "rels": {
+      "father": "e4861c16-2376-4085-9bfa-0aed900f2c48",
+      "mother": "3dd0489c-a877-4804-8619-e1eee3b449ec",
+      "spouses": [
+        "1fe299d8-141a-4b1f-8fac-aef9ce43f99c"
+      ],
+      "children": [
+        "1f7e02b5-2e09-4f6b-94bb-da621366ebda"
+      ]
+    }
+  },
+  {
+    "id": "1fe299d8-141a-4b1f-8fac-aef9ce43f99c",
+    "data": {
+      "gender": "M",
+      "nama": "Gilang",
+      "birthday": "",
+      "avatar": ""
+    },
+    "rels": {
+      "spouses": [
+        "336141ad-ba5c-4281-9f25-ddc7357806b6"
+      ],
+      "children": [
+        "1f7e02b5-2e09-4f6b-94bb-da621366ebda"
+      ]
+    }
+  },
+  {
+    "id": "1f7e02b5-2e09-4f6b-94bb-da621366ebda",
+    "data": {
+      "gender": "M",
+      "nama": "Aydan",
+      "birthday": "",
+      "avatar": ""
+    },
+    "rels": {
+      "father": "336141ad-ba5c-4281-9f25-ddc7357806b6",
+      "mother": "1fe299d8-141a-4b1f-8fac-aef9ce43f99c"
+    }
+  },
+  {
+    "id": "011b213c-b6ab-4679-ab38-83e1a161b415",
+    "data": {
+      "gender": "M",
+      "nama": "Hilman Yunan Yusnizar",
+      "birthday": "",
+      "avatar": ""
+    },
+    "rels": {
+      "father": "e4861c16-2376-4085-9bfa-0aed900f2c48",
+      "mother": "3dd0489c-a877-4804-8619-e1eee3b449ec"
+    }
+  },
+  {
+    "id": "4263b7ee-ea5b-4139-b352-50b8f9b2ba13",
+    "data": {
+      "gender": "M",
+      "nama": "Nizal",
+      "birthday": "",
+      "avatar": ""
+    },
+    "rels": {
+      "father": "e4861c16-2376-4085-9bfa-0aed900f2c48",
+      "mother": "3dd0489c-a877-4804-8619-e1eee3b449ec"
+    }
+  },
+  {
+    "id": "6f40746c-5e0c-45e7-bc3a-121ed0c09298",
+    "data": {
+      "gender": "F",
+      "nama": "Halimah",
+      "lokasi": "",
+      "birthday": ""
+    },
+    "rels": {
+      "spouses": [
+        "0ed49632-8abd-4d0a-9eee-5f2b9154d6f0"
+      ],
+      "children": [
+        "c6a6894d-9094-4d2b-8629-a88d2920b38d",
+        "fa5a0a7d-2a24-41b1-921d-24059b2f050e",
+        "27c3e2a4-6bd4-4aba-9ec3-61b4ff5d1616",
+        "08c924be-80cd-4314-b762-19f98719a3bd",
+        "d3d5416d-e7e5-4acd-a47b-05c0da2efa03",
+        "5a2c1c89-8f38-4f4c-9e8d-910840092319"
+      ]
+    }
+  },
+  {
+    "id": "c6a6894d-9094-4d2b-8629-a88d2920b38d",
+    "data": {
+      "gender": "F",
+      "nama": "Erma Syarifah",
+      "lokasi": "",
+      "birthday": ""
+    },
+    "rels": {
+      "father": "0ed49632-8abd-4d0a-9eee-5f2b9154d6f0",
+      "mother": "6f40746c-5e0c-45e7-bc3a-121ed0c09298",
+      "spouses": [
+        "8bdda49d-51f8-46dc-925e-c83bc4c80ee3"
+      ],
+      "children": []
+    }
+  },
+  {
+    "id": "fa5a0a7d-2a24-41b1-921d-24059b2f050e",
+    "data": {
+      "gender": "M",
+      "nama": "Samuri",
+      "lokasi": "",
+      "birthday": ""
+    },
+    "rels": {
+      "father": "0ed49632-8abd-4d0a-9eee-5f2b9154d6f0",
+      "mother": "6f40746c-5e0c-45e7-bc3a-121ed0c09298",
+      "spouses": [
+        "4f3ff207-0aa0-4f18-9f77-45fa671de6fc"
+      ],
+      "children": [
+        "5c00dd75-cbc0-4648-ae20-953b05ac8ea3"
+      ]
+    }
+  },
+  {
+    "id": "8bdda49d-51f8-46dc-925e-c83bc4c80ee3",
+    "data": {
+      "gender": "M",
+      "nama": "Teguh Irawan",
+      "lokasi": "",
+      "birthday": ""
+    },
+    "rels": {
+      "spouses": [
+        "c6a6894d-9094-4d2b-8629-a88d2920b38d"
+      ],
+      "children": []
+    }
+  },
+  {
+    "id": "4f3ff207-0aa0-4f18-9f77-45fa671de6fc",
+    "data": {
+      "gender": "F",
+      "nama": "Anin hapsari Slistyowati",
+      "lokasi": "",
+      "birthday": ""
+    },
+    "rels": {
+      "spouses": [
+        "fa5a0a7d-2a24-41b1-921d-24059b2f050e"
+      ],
+      "children": [
+        "5c00dd75-cbc0-4648-ae20-953b05ac8ea3"
+      ]
+    }
+  },
+  {
+    "id": "5c00dd75-cbc0-4648-ae20-953b05ac8ea3",
+    "data": {
+      "gender": "M",
+      "nama": "Ibnu Rafif Farhezi",
+      "lokasi": "",
+      "birthday": ""
+    },
+    "rels": {
+      "father": "fa5a0a7d-2a24-41b1-921d-24059b2f050e",
+      "mother": "4f3ff207-0aa0-4f18-9f77-45fa671de6fc"
+    }
+  },
+  {
+    "id": "27c3e2a4-6bd4-4aba-9ec3-61b4ff5d1616",
+    "data": {
+      "gender": "F",
+      "nama": "Nurul Umamah",
+      "lokasi": "",
+      "birthday": ""
+    },
+    "rels": {
+      "mother": "6f40746c-5e0c-45e7-bc3a-121ed0c09298",
+      "father": "0ed49632-8abd-4d0a-9eee-5f2b9154d6f0"
+    }
+  },
+  {
+    "id": "08c924be-80cd-4314-b762-19f98719a3bd",
+    "data": {
+      "gender": "F",
+      "nama": "Ika Numawati",
+      "lokasi": "",
+      "birthday": ""
+    },
+    "rels": {
+      "mother": "6f40746c-5e0c-45e7-bc3a-121ed0c09298",
+      "father": "0ed49632-8abd-4d0a-9eee-5f2b9154d6f0",
+      "spouses": [
+        "3a4f84da-fbb6-4be5-88c8-382ceedf05b3"
+      ],
+      "children": [
+        "80d585eb-d793-44f5-894a-666cde49e3cb"
+      ]
+    }
+  },
+  {
+    "id": "3a4f84da-fbb6-4be5-88c8-382ceedf05b3",
+    "data": {
+      "gender": "M",
+      "nama": "Sofyan Zubairi",
+      "lokasi": "",
+      "birthday": ""
+    },
+    "rels": {
+      "spouses": [
+        "08c924be-80cd-4314-b762-19f98719a3bd"
+      ],
+      "children": [
+        "80d585eb-d793-44f5-894a-666cde49e3cb"
+      ]
+    }
+  },
+  {
+    "id": "80d585eb-d793-44f5-894a-666cde49e3cb",
+    "data": {
+      "gender": "M",
+      "nama": "M. Widy Alfriandra Husaini",
+      "lokasi": "",
+      "birthday": ""
+    },
+    "rels": {
+      "father": "3a4f84da-fbb6-4be5-88c8-382ceedf05b3",
+      "mother": "08c924be-80cd-4314-b762-19f98719a3bd"
+    }
+  },
+  {
+    "id": "d3d5416d-e7e5-4acd-a47b-05c0da2efa03",
+    "data": {
+      "gender": "F",
+      "nama": "Ulfi Ningtias",
+      "lokasi": "",
+      "birthday": ""
+    },
+    "rels": {
+      "mother": "6f40746c-5e0c-45e7-bc3a-121ed0c09298",
+      "father": "0ed49632-8abd-4d0a-9eee-5f2b9154d6f0",
+      "spouses": [
+        "6ff11e1e-54d2-4dd1-b38b-801ed4fea916"
+      ],
+      "children": [
+        "cddc0ed9-deb8-47e7-9412-8c7353ef1fb1"
+      ]
+    }
+  },
+  {
+    "id": "6ff11e1e-54d2-4dd1-b38b-801ed4fea916",
+    "data": {
+      "gender": "M",
+      "nama": "Ar. Arohman",
+      "lokasi": "",
+      "birthday": ""
+    },
+    "rels": {
+      "spouses": [
+        "d3d5416d-e7e5-4acd-a47b-05c0da2efa03"
+      ],
+      "children": [
+        "cddc0ed9-deb8-47e7-9412-8c7353ef1fb1"
+      ]
+    }
+  },
+  {
+    "id": "cddc0ed9-deb8-47e7-9412-8c7353ef1fb1",
+    "data": {
+      "gender": "F",
+      "nama": "Arvinnindita Keisya",
+      "lokasi": "",
+      "birthday": ""
+    },
+    "rels": {
+      "mother": "d3d5416d-e7e5-4acd-a47b-05c0da2efa03",
+      "father": "6ff11e1e-54d2-4dd1-b38b-801ed4fea916"
+    }
+  },
+  {
+    "id": "5a2c1c89-8f38-4f4c-9e8d-910840092319",
+    "data": {
+      "gender": "F",
+      "nama": "Nurul Fidiaty",
+      "lokasi": "",
+      "birthday": ""
+    },
+    "rels": {
+      "mother": "6f40746c-5e0c-45e7-bc3a-121ed0c09298",
+      "father": "0ed49632-8abd-4d0a-9eee-5f2b9154d6f0",
+      "spouses": [
+        "e1c1ebd5-3395-4f9d-a9f9-55768528d3b2"
+      ],
+      "children": []
+    }
+  },
+  {
+    "id": "e1c1ebd5-3395-4f9d-a9f9-55768528d3b2",
+    "data": {
+      "gender": "M",
+      "nama": "Wahyu Ansori",
+      "lokasi": "",
+      "birthday": ""
+    },
+    "rels": {
+      "spouses": [
+        "5a2c1c89-8f38-4f4c-9e8d-910840092319"
+      ],
+      "children": []
+    }
+  },
+  {
+    "id": "227d7705-cc5d-46f7-9d72-55b05a984903",
+    "data": {
+      "gender": "M",
+      "nama": "Masdour",
+      "lokasi": "",
+      "birthday": ""
+    },
+    "rels": {
+      "spouses": [
+        "8642f8bb-78aa-40f0-8b4a-ab55dc973d7b"
+      ],
+      "children": [
+        "402ee738-7f83-43fe-b2b4-a29360444743",
+        "12af29a7-0e39-4fea-a52a-69288b68d275",
+        "73f15f3e-8b5c-4644-9ff7-daa1c45d1530",
+        "dd220ed3-5b57-4ba1-aefb-f9e6b7797028",
+        "e601e398-37cf-4655-bc8b-f97c319083a0",
+        "fe3fac7d-2925-4d96-ab0e-d49385d8bae2"
+      ]
+    }
+  },
+  {
+    "id": "402ee738-7f83-43fe-b2b4-a29360444743",
+    "data": {
+      "gender": "F",
+      "nama": "Nurul Hidayati",
+      "lokasi": "",
+      "birthday": ""
+    },
+    "rels": {
+      "mother": "8642f8bb-78aa-40f0-8b4a-ab55dc973d7b",
+      "father": "227d7705-cc5d-46f7-9d72-55b05a984903",
+      "spouses": [
+        "98439723-4373-4cc2-8d9b-8c0536a651fe"
+      ],
+      "children": [
+        "625f12d0-b163-4cc7-9af9-1a6c79f410de",
+        "5d8fa99c-7fe8-4aa3-b1e1-921d44dc4d3c",
+        "f5babf8f-1cb1-4db3-b940-d620dbeaaed4"
+      ]
+    }
+  },
+  {
+    "id": "98439723-4373-4cc2-8d9b-8c0536a651fe",
+    "data": {
+      "gender": "M",
+      "nama": "Gondo Sukmono",
+      "lokasi": "",
+      "birthday": ""
+    },
+    "rels": {
+      "spouses": [
+        "402ee738-7f83-43fe-b2b4-a29360444743"
+      ],
+      "children": [
+        "625f12d0-b163-4cc7-9af9-1a6c79f410de",
+        "5d8fa99c-7fe8-4aa3-b1e1-921d44dc4d3c",
+        "f5babf8f-1cb1-4db3-b940-d620dbeaaed4"
+      ]
+    }
+  },
+  {
+    "id": "625f12d0-b163-4cc7-9af9-1a6c79f410de",
+    "data": {
+      "gender": "M",
+      "nama": "Bachtiar Lingga P",
+      "lokasi": "",
+      "birthday": ""
+    },
+    "rels": {
+      "father": "98439723-4373-4cc2-8d9b-8c0536a651fe",
+      "mother": "402ee738-7f83-43fe-b2b4-a29360444743",
+      "spouses": [
+        "d279a016-b212-426c-988c-4e3d6886a0cb"
+      ],
+      "children": [
+        "87c412b9-ecc9-4cce-8338-35828072b3df",
+        "22f8eb63-0f35-441f-9cba-2c5d2f96e84f",
+        "4f22acc3-dcdb-427c-ae96-14d31a047e0b"
+      ]
+    }
+  },
+  {
+    "id": "5d8fa99c-7fe8-4aa3-b1e1-921d44dc4d3c",
+    "data": {
+      "gender": "F",
+      "nama": "Laras Sekar Arum",
+      "lokasi": "",
+      "birthday": ""
+    },
+    "rels": {
+      "mother": "402ee738-7f83-43fe-b2b4-a29360444743",
+      "father": "98439723-4373-4cc2-8d9b-8c0536a651fe",
+      "spouses": [
+        "7c0e257a-7630-46a1-a442-6b6fefc5b176"
+      ],
+      "children": [
+        "2931c8a6-a2cb-4289-8cf4-e298161dab77",
+        "e800217d-797a-433d-b407-4b6865cf5444"
+      ]
+    }
+  },
+  {
+    "id": "f5babf8f-1cb1-4db3-b940-d620dbeaaed4",
+    "data": {
+      "gender": "M",
+      "nama": "Rikaz Maulana T",
+      "lokasi": "",
+      "birthday": ""
+    },
+    "rels": {
+      "father": "98439723-4373-4cc2-8d9b-8c0536a651fe",
+      "mother": "402ee738-7f83-43fe-b2b4-a29360444743"
+    }
+  },
+  {
+    "id": "d279a016-b212-426c-988c-4e3d6886a0cb",
+    "data": {
+      "gender": "F",
+      "nama": "Desi",
+      "lokasi": "",
+      "birthday": ""
+    },
+    "rels": {
+      "spouses": [
+        "625f12d0-b163-4cc7-9af9-1a6c79f410de"
+      ],
+      "children": [
+        "87c412b9-ecc9-4cce-8338-35828072b3df",
+        "22f8eb63-0f35-441f-9cba-2c5d2f96e84f",
+        "4f22acc3-dcdb-427c-ae96-14d31a047e0b"
+      ]
+    }
+  },
+  {
+    "id": "87c412b9-ecc9-4cce-8338-35828072b3df",
+    "data": {
+      "gender": "F",
+      "nama": "Retha ( Rere)",
+      "lokasi": "",
+      "birthday": ""
+    },
+    "rels": {
+      "father": "625f12d0-b163-4cc7-9af9-1a6c79f410de",
+      "mother": "d279a016-b212-426c-988c-4e3d6886a0cb"
+    }
+  },
+  {
+    "id": "22f8eb63-0f35-441f-9cba-2c5d2f96e84f",
+    "data": {
+      "gender": "M",
+      "nama": "Rafisky",
+      "lokasi": "",
+      "birthday": ""
+    },
+    "rels": {
+      "mother": "d279a016-b212-426c-988c-4e3d6886a0cb",
+      "father": "625f12d0-b163-4cc7-9af9-1a6c79f410de"
+    }
+  },
+  {
+    "id": "4f22acc3-dcdb-427c-ae96-14d31a047e0b",
+    "data": {
+      "gender": "M",
+      "nama": "Rafandra",
+      "lokasi": "",
+      "birthday": ""
+    },
+    "rels": {
+      "father": "625f12d0-b163-4cc7-9af9-1a6c79f410de",
+      "mother": "d279a016-b212-426c-988c-4e3d6886a0cb"
+    }
+  },
+  {
+    "id": "7c0e257a-7630-46a1-a442-6b6fefc5b176",
+    "data": {
+      "gender": "M",
+      "nama": "Bima",
+      "lokasi": "",
+      "birthday": ""
+    },
+    "rels": {
+      "spouses": [
+        "5d8fa99c-7fe8-4aa3-b1e1-921d44dc4d3c"
+      ],
+      "children": [
+        "2931c8a6-a2cb-4289-8cf4-e298161dab77",
+        "e800217d-797a-433d-b407-4b6865cf5444"
+      ]
+    }
+  },
+  {
+    "id": "2931c8a6-a2cb-4289-8cf4-e298161dab77",
+    "data": {
+      "gender": "F",
+      "nama": "Nuwa",
+      "lokasi": "",
+      "birthday": ""
+    },
+    "rels": {
+      "mother": "5d8fa99c-7fe8-4aa3-b1e1-921d44dc4d3c",
+      "father": "7c0e257a-7630-46a1-a442-6b6fefc5b176"
+    }
+  },
+  {
+    "id": "e800217d-797a-433d-b407-4b6865cf5444",
+    "data": {
+      "gender": "M",
+      "nama": "Nabil",
+      "lokasi": "",
+      "birthday": ""
+    },
+    "rels": {
+      "father": "7c0e257a-7630-46a1-a442-6b6fefc5b176",
+      "mother": "5d8fa99c-7fe8-4aa3-b1e1-921d44dc4d3c"
+    }
+  },
+  {
+    "id": "12af29a7-0e39-4fea-a52a-69288b68d275",
+    "data": {
+      "gender": "F",
+      "nama": "Nurul Hindana",
+      "lokasi": "",
+      "birthday": ""
+    },
+    "rels": {
+      "mother": "8642f8bb-78aa-40f0-8b4a-ab55dc973d7b",
+      "father": "227d7705-cc5d-46f7-9d72-55b05a984903",
+      "spouses": [
+        "f3b4d61d-f299-44a1-a3cb-b26e2fffd887"
+      ],
+      "children": [
+        "61148b4f-e964-48d0-8538-74d75d0a71b2"
+      ]
+    }
+  },
+  {
+    "id": "f3b4d61d-f299-44a1-a3cb-b26e2fffd887",
+    "data": {
+      "gender": "M",
+      "nama": "Abdul Halim",
+      "lokasi": "",
+      "birthday": ""
+    },
+    "rels": {
+      "spouses": [
+        "12af29a7-0e39-4fea-a52a-69288b68d275"
+      ],
+      "children": [
+        "61148b4f-e964-48d0-8538-74d75d0a71b2"
+      ]
+    }
+  },
+  {
+    "id": "61148b4f-e964-48d0-8538-74d75d0a71b2",
+    "data": {
+      "gender": "M",
+      "nama": "Andi Halim Laparaga",
+      "lokasi": "",
+      "birthday": ""
+    },
+    "rels": {
+      "father": "f3b4d61d-f299-44a1-a3cb-b26e2fffd887",
+      "mother": "12af29a7-0e39-4fea-a52a-69288b68d275"
+    }
+  },
+  {
+    "id": "73f15f3e-8b5c-4644-9ff7-daa1c45d1530",
+    "data": {
+      "gender": "M",
+      "nama": "Prahadi",
+      "lokasi": "",
+      "birthday": ""
+    },
+    "rels": {
+      "father": "227d7705-cc5d-46f7-9d72-55b05a984903",
+      "mother": "8642f8bb-78aa-40f0-8b4a-ab55dc973d7b",
+      "spouses": [
+        "bb1e603d-47f6-4d00-9171-8670f51c19ae"
+      ],
+      "children": [
+        "19945a17-86b5-4044-a569-618abbc99d83",
+        "09b7eebe-3971-4c2a-8b4e-a687c213630c",
+        "b277d3ca-6386-4dc3-bb96-bf5ebc1f4ca1"
+      ]
+    }
+  },
+  {
+    "id": "bb1e603d-47f6-4d00-9171-8670f51c19ae",
+    "data": {
+      "gender": "F",
+      "nama": "Sriyani",
+      "lokasi": "",
+      "birthday": ""
+    },
+    "rels": {
+      "spouses": [
+        "73f15f3e-8b5c-4644-9ff7-daa1c45d1530"
+      ],
+      "children": [
+        "19945a17-86b5-4044-a569-618abbc99d83",
+        "09b7eebe-3971-4c2a-8b4e-a687c213630c",
+        "b277d3ca-6386-4dc3-bb96-bf5ebc1f4ca1"
+      ]
+    }
+  },
+  {
+    "id": "19945a17-86b5-4044-a569-618abbc99d83",
+    "data": {
+      "gender": "F",
+      "nama": "Arum SAE",
+      "lokasi": "",
+      "birthday": ""
+    },
+    "rels": {
+      "mother": "bb1e603d-47f6-4d00-9171-8670f51c19ae",
+      "father": "73f15f3e-8b5c-4644-9ff7-daa1c45d1530",
+      "spouses": [
+        "ca09670b-ceaf-4249-9889-10c487519aad"
+      ],
+      "children": [
+        "a3188fdf-6735-44b9-b5b1-a51f960a7f04",
+        "20e1a384-866a-404e-b5b8-6cbc8fca5761"
+      ]
+    }
+  },
+  {
+    "id": "ca09670b-ceaf-4249-9889-10c487519aad",
+    "data": {
+      "gender": "M",
+      "nama": "Fikriyan ( Yayan)",
+      "lokasi": "",
+      "birthday": ""
+    },
+    "rels": {
+      "spouses": [
+        "19945a17-86b5-4044-a569-618abbc99d83"
+      ],
+      "children": [
+        "a3188fdf-6735-44b9-b5b1-a51f960a7f04",
+        "20e1a384-866a-404e-b5b8-6cbc8fca5761"
+      ]
+    }
+  },
+  {
+    "id": "a3188fdf-6735-44b9-b5b1-a51f960a7f04",
+    "data": {
+      "gender": "F",
+      "nama": "Tifa",
+      "lokasi": "",
+      "birthday": ""
+    },
+    "rels": {
+      "mother": "19945a17-86b5-4044-a569-618abbc99d83",
+      "father": "ca09670b-ceaf-4249-9889-10c487519aad"
+    }
+  },
+  {
+    "id": "20e1a384-866a-404e-b5b8-6cbc8fca5761",
+    "data": {
+      "gender": "M",
+      "nama": "Ardan",
+      "lokasi": "",
+      "birthday": ""
+    },
+    "rels": {
+      "father": "ca09670b-ceaf-4249-9889-10c487519aad",
+      "mother": "19945a17-86b5-4044-a569-618abbc99d83"
+    }
+  },
+  {
+    "id": "09b7eebe-3971-4c2a-8b4e-a687c213630c",
+    "data": {
+      "gender": "M",
+      "nama": "Arga SAE",
+      "lokasi": "",
+      "birthday": ""
+    },
+    "rels": {
+      "father": "73f15f3e-8b5c-4644-9ff7-daa1c45d1530",
+      "mother": "bb1e603d-47f6-4d00-9171-8670f51c19ae"
+    }
+  },
+  {
+    "id": "b277d3ca-6386-4dc3-bb96-bf5ebc1f4ca1",
+    "data": {
+      "gender": "M",
+      "nama": "Ubay SAE",
+      "lokasi": "",
+      "birthday": ""
+    },
+    "rels": {
+      "father": "73f15f3e-8b5c-4644-9ff7-daa1c45d1530",
+      "mother": "bb1e603d-47f6-4d00-9171-8670f51c19ae"
+    }
+  },
+  {
+    "id": "dd220ed3-5b57-4ba1-aefb-f9e6b7797028",
+    "data": {
+      "gender": "F",
+      "nama": "Nuryani",
+      "lokasi": "",
+      "birthday": ""
+    },
+    "rels": {
+      "mother": "8642f8bb-78aa-40f0-8b4a-ab55dc973d7b",
+      "father": "227d7705-cc5d-46f7-9d72-55b05a984903",
+      "spouses": [
+        "066a9a47-7fdf-4201-8012-e874b5381ed7"
+      ],
+      "children": [
+        "10ffd475-89fa-4bac-9514-cfd6685d7aa6",
+        "6606ab9c-3286-4f85-af79-a4bcd67a83e8"
+      ]
+    }
+  },
+  {
+    "id": "066a9a47-7fdf-4201-8012-e874b5381ed7",
+    "data": {
+      "gender": "M",
+      "nama": "Catur Triyono",
+      "lokasi": "",
+      "birthday": ""
+    },
+    "rels": {
+      "spouses": [
+        "dd220ed3-5b57-4ba1-aefb-f9e6b7797028"
+      ],
+      "children": [
+        "10ffd475-89fa-4bac-9514-cfd6685d7aa6",
+        "6606ab9c-3286-4f85-af79-a4bcd67a83e8"
+      ]
+    }
+  },
+  {
+    "id": "10ffd475-89fa-4bac-9514-cfd6685d7aa6",
+    "data": {
+      "gender": "M",
+      "nama": "Royan Samuro",
+      "lokasi": "",
+      "birthday": ""
+    },
+    "rels": {
+      "father": "066a9a47-7fdf-4201-8012-e874b5381ed7",
+      "mother": "dd220ed3-5b57-4ba1-aefb-f9e6b7797028",
+      "spouses": [
+        "ec6e1a5d-c997-44d7-a544-7a8e77e48335"
+      ],
+      "children": [
+        "62ee31a0-8d44-43ab-ae54-c9cef46d4862",
+        "dffa42bd-9c49-43e5-8301-b3e293e5d2c5",
+        "4315387d-6f57-4d0e-9092-f10f5d34714d"
+      ]
+    }
+  },
+  {
+    "id": "6606ab9c-3286-4f85-af79-a4bcd67a83e8",
+    "data": {
+      "gender": "F",
+      "nama": "Iqnuti Ragamis",
+      "lokasi": "",
+      "birthday": ""
+    },
+    "rels": {
+      "mother": "dd220ed3-5b57-4ba1-aefb-f9e6b7797028",
+      "father": "066a9a47-7fdf-4201-8012-e874b5381ed7"
+    }
+  },
+  {
+    "id": "ec6e1a5d-c997-44d7-a544-7a8e77e48335",
+    "data": {
+      "gender": "F",
+      "nama": "Zeza",
+      "lokasi": "",
+      "birthday": ""
+    },
+    "rels": {
+      "spouses": [
+        "10ffd475-89fa-4bac-9514-cfd6685d7aa6"
+      ],
+      "children": [
+        "62ee31a0-8d44-43ab-ae54-c9cef46d4862",
+        "dffa42bd-9c49-43e5-8301-b3e293e5d2c5",
+        "4315387d-6f57-4d0e-9092-f10f5d34714d"
+      ]
+    }
+  },
+  {
+    "id": "62ee31a0-8d44-43ab-ae54-c9cef46d4862",
+    "data": {
+      "gender": "F",
+      "nama": "Adnin",
+      "lokasi": "",
+      "birthday": ""
+    },
+    "rels": {
+      "mother": "ec6e1a5d-c997-44d7-a544-7a8e77e48335",
+      "father": "10ffd475-89fa-4bac-9514-cfd6685d7aa6"
+    }
+  },
+  {
+    "id": "dffa42bd-9c49-43e5-8301-b3e293e5d2c5",
+    "data": {
+      "gender": "M",
+      "nama": "Adam",
+      "lokasi": "",
+      "birthday": ""
+    },
+    "rels": {
+      "father": "10ffd475-89fa-4bac-9514-cfd6685d7aa6",
+      "mother": "ec6e1a5d-c997-44d7-a544-7a8e77e48335"
+    }
+  },
+  {
+    "id": "4315387d-6f57-4d0e-9092-f10f5d34714d",
+    "data": {
+      "gender": "M",
+      "nama": "Albar",
+      "lokasi": "",
+      "birthday": ""
+    },
+    "rels": {
+      "mother": "ec6e1a5d-c997-44d7-a544-7a8e77e48335",
+      "father": "10ffd475-89fa-4bac-9514-cfd6685d7aa6"
+    }
+  },
+  {
+    "id": "e601e398-37cf-4655-bc8b-f97c319083a0",
+    "data": {
+      "gender": "F",
+      "nama": "Nurtitah Ningsih",
+      "lokasi": "",
+      "birthday": ""
+    },
+    "rels": {
+      "mother": "8642f8bb-78aa-40f0-8b4a-ab55dc973d7b",
+      "father": "227d7705-cc5d-46f7-9d72-55b05a984903",
+      "spouses": [
+        "18e87af0-200d-4086-9f62-8ab1d48d388b"
+      ],
+      "children": [
+        "d535b5b6-8654-436d-9c9b-7d63ab3f1797",
+        "1cb374c9-5837-4d81-828e-a16fefa4905a",
+        "379fe293-07cf-49f6-84c3-fb1129131232"
+      ]
+    }
+  },
+  {
+    "id": "18e87af0-200d-4086-9f62-8ab1d48d388b",
+    "data": {
+      "gender": "M",
+      "nama": "Achmad Sukarno",
+      "lokasi": "",
+      "birthday": ""
+    },
+    "rels": {
+      "spouses": [
+        "e601e398-37cf-4655-bc8b-f97c319083a0"
+      ],
+      "children": [
+        "d535b5b6-8654-436d-9c9b-7d63ab3f1797",
+        "1cb374c9-5837-4d81-828e-a16fefa4905a",
+        "379fe293-07cf-49f6-84c3-fb1129131232"
+      ]
+    }
+  },
+  {
+    "id": "d535b5b6-8654-436d-9c9b-7d63ab3f1797",
+    "data": {
+      "gender": "F",
+      "nama": "Damai Nur Sukarno",
+      "lokasi": "",
+      "birthday": ""
+    },
+    "rels": {
+      "father": "18e87af0-200d-4086-9f62-8ab1d48d388b",
+      "mother": "e601e398-37cf-4655-bc8b-f97c319083a0"
+    }
+  },
+  {
+    "id": "1cb374c9-5837-4d81-828e-a16fefa4905a",
+    "data": {
+      "gender": "M",
+      "nama": "Kenzza Ashabi Nur Sukarno",
+      "lokasi": "",
+      "birthday": ""
+    },
+    "rels": {
+      "father": "18e87af0-200d-4086-9f62-8ab1d48d388b",
+      "mother": "e601e398-37cf-4655-bc8b-f97c319083a0"
+    }
+  },
+  {
+    "id": "379fe293-07cf-49f6-84c3-fb1129131232",
+    "data": {
+      "gender": "F",
+      "nama": "Nasttit Hana Nur Sukarno",
+      "lokasi": "",
+      "birthday": ""
+    },
+    "rels": {
+      "mother": "e601e398-37cf-4655-bc8b-f97c319083a0",
+      "father": "18e87af0-200d-4086-9f62-8ab1d48d388b"
+    }
+  },
+  {
+    "id": "fe3fac7d-2925-4d96-ab0e-d49385d8bae2",
+    "data": {
+      "gender": "M",
+      "nama": "Sugeng Wahyudi",
+      "lokasi": "",
+      "birthday": ""
+    },
+    "rels": {
+      "father": "227d7705-cc5d-46f7-9d72-55b05a984903",
+      "mother": "8642f8bb-78aa-40f0-8b4a-ab55dc973d7b",
+      "spouses": [
+        "643c0456-c1fa-4aa4-bbd7-f697e207107c"
+      ],
+      "children": [
+        "c9eb4235-5e71-407a-be58-0d5fe3a69b84",
+        "6a4a128e-9717-403d-84d6-0a49ef59a5f0"
+      ]
+    }
+  },
+  {
+    "id": "643c0456-c1fa-4aa4-bbd7-f697e207107c",
+    "data": {
+      "gender": "F",
+      "nama": "Dewi Pupasari",
+      "lokasi": "",
+      "birthday": ""
+    },
+    "rels": {
+      "spouses": [
+        "fe3fac7d-2925-4d96-ab0e-d49385d8bae2"
+      ],
+      "children": [
+        "c9eb4235-5e71-407a-be58-0d5fe3a69b84",
+        "6a4a128e-9717-403d-84d6-0a49ef59a5f0"
+      ]
+    }
+  },
+  {
+    "id": "c9eb4235-5e71-407a-be58-0d5fe3a69b84",
+    "data": {
+      "gender": "F",
+      "nama": "Veda Nadira Kanzluay",
+      "lokasi": "",
+      "birthday": ""
+    },
+    "rels": {
+      "father": "fe3fac7d-2925-4d96-ab0e-d49385d8bae2",
+      "mother": "643c0456-c1fa-4aa4-bbd7-f697e207107c"
+    }
+  },
+  {
+    "id": "6a4a128e-9717-403d-84d6-0a49ef59a5f0",
+    "data": {
+      "gender": "F",
+      "nama": "Veda Kanaya Kanzluay",
+      "lokasi": "",
+      "birthday": ""
+    },
+    "rels": {
+      "mother": "643c0456-c1fa-4aa4-bbd7-f697e207107c",
+      "father": "fe3fac7d-2925-4d96-ab0e-d49385d8bae2"
+    }
+  },
+  {
+    "id": "a4616080-1457-4d46-8502-335473e0bc17",
+    "data": {
+      "gender": "F",
+      "nama": "Safiyah",
+      "lokasi": "",
+      "birthday": ""
+    },
+    "rels": {
+      "spouses": [
+        "5f872bb1-8754-44fc-8071-41187d9120fe"
+      ],
+      "children": [
+        "276cdba4-f333-4ddf-9815-05b1d5c4eeb2",
+        "8cdaf0dd-aa69-4e37-b51c-b780112622dc",
+        "50b9d94e-cdc1-4ed3-a81a-81d1a97765aa",
+        "491ad4d2-26d8-46e5-8a3a-18e98cbf442c"
+      ]
+    }
+  },
+  {
+    "id": "276cdba4-f333-4ddf-9815-05b1d5c4eeb2",
+    "data": {
+      "gender": "M",
+      "nama": "Ergiyanto",
+      "lokasi": "",
+      "birthday": ""
+    },
+    "rels": {
+      "father": "5f872bb1-8754-44fc-8071-41187d9120fe",
+      "mother": "a4616080-1457-4d46-8502-335473e0bc17",
+      "spouses": [
+        "91cf370b-011f-45b7-a7a8-f3c0fbd8d67b"
+      ],
+      "children": [
+        "75c46177-cb73-4540-8d35-cd243278e2c9",
+        "a8705c19-3ae7-46ed-978b-6756c760b7bc"
+      ]
+    }
+  },
+  {
+    "id": "8cdaf0dd-aa69-4e37-b51c-b780112622dc",
+    "data": {
+      "gender": "F",
+      "nama": "Anis Suryani",
+      "lokasi": "",
+      "birthday": ""
+    },
+    "rels": {
+      "mother": "a4616080-1457-4d46-8502-335473e0bc17",
+      "father": "5f872bb1-8754-44fc-8071-41187d9120fe",
+      "spouses": [
+        "fa2de8b3-22bc-4d16-91a3-3afe69fa3997"
+      ],
+      "children": [
+        "2567eeae-b920-4037-99f5-f5c608a7b3c3",
+        "72b0202a-716c-4d1f-baba-b0fede1d6d57"
+      ]
+    }
+  },
+  {
+    "id": "50b9d94e-cdc1-4ed3-a81a-81d1a97765aa",
+    "data": {
+      "gender": "M",
+      "nama": "Umar Handoyo",
+      "lokasi": "",
+      "birthday": ""
+    },
+    "rels": {
+      "father": "5f872bb1-8754-44fc-8071-41187d9120fe",
+      "mother": "a4616080-1457-4d46-8502-335473e0bc17",
+      "spouses": [
+        "eddf5b9e-d521-404d-a435-b3492b5ac5f2"
+      ],
+      "children": [
+        "835402df-427a-48a1-9144-8ea66d25f72f",
+        "d3553497-4f49-480e-899b-e09652183593"
+      ]
+    }
+  },
+  {
+    "id": "91cf370b-011f-45b7-a7a8-f3c0fbd8d67b",
+    "data": {
+      "gender": "F",
+      "nama": "Wiwik Meinarni ",
+      "lokasi": "",
+      "birthday": ""
+    },
+    "rels": {
+      "spouses": [
+        "276cdba4-f333-4ddf-9815-05b1d5c4eeb2"
+      ],
+      "children": [
+        "75c46177-cb73-4540-8d35-cd243278e2c9",
+        "a8705c19-3ae7-46ed-978b-6756c760b7bc"
+      ]
+    }
+  },
+  {
+    "id": "75c46177-cb73-4540-8d35-cd243278e2c9",
+    "data": {
+      "gender": "F",
+      "nama": "Cahaya Utami Ramadani",
+      "lokasi": "",
+      "birthday": ""
+    },
+    "rels": {
+      "father": "276cdba4-f333-4ddf-9815-05b1d5c4eeb2",
+      "mother": "91cf370b-011f-45b7-a7a8-f3c0fbd8d67b"
+    }
+  },
+  {
+    "id": "a8705c19-3ae7-46ed-978b-6756c760b7bc",
+    "data": {
+      "gender": "M",
+      "nama": "Danang Wildansyah",
+      "lokasi": "",
+      "birthday": ""
+    },
+    "rels": {
+      "mother": "91cf370b-011f-45b7-a7a8-f3c0fbd8d67b",
+      "father": "276cdba4-f333-4ddf-9815-05b1d5c4eeb2"
+    }
+  },
+  {
+    "id": "fa2de8b3-22bc-4d16-91a3-3afe69fa3997",
+    "data": {
+      "gender": "M",
+      "nama": "M. Wahyudi",
+      "lokasi": "",
+      "birthday": ""
+    },
+    "rels": {
+      "spouses": [
+        "8cdaf0dd-aa69-4e37-b51c-b780112622dc"
+      ],
+      "children": [
+        "2567eeae-b920-4037-99f5-f5c608a7b3c3",
+        "72b0202a-716c-4d1f-baba-b0fede1d6d57"
+      ]
+    }
+  },
+  {
+    "id": "2567eeae-b920-4037-99f5-f5c608a7b3c3",
+    "data": {
+      "gender": "M",
+      "nama": "Rifkay Saputra",
+      "lokasi": "",
+      "birthday": ""
+    },
+    "rels": {
+      "father": "fa2de8b3-22bc-4d16-91a3-3afe69fa3997",
+      "mother": "8cdaf0dd-aa69-4e37-b51c-b780112622dc"
+    }
+  },
+  {
+    "id": "72b0202a-716c-4d1f-baba-b0fede1d6d57",
+    "data": {
+      "gender": "M",
+      "nama": "Dwi Nurhandika",
+      "lokasi": "",
+      "birthday": ""
+    },
+    "rels": {
+      "mother": "8cdaf0dd-aa69-4e37-b51c-b780112622dc",
+      "father": "fa2de8b3-22bc-4d16-91a3-3afe69fa3997"
+    }
+  },
+  {
+    "id": "eddf5b9e-d521-404d-a435-b3492b5ac5f2",
+    "data": {
+      "gender": "F",
+      "nama": "Lista Listari ST",
+      "lokasi": "",
+      "birthday": ""
+    },
+    "rels": {
+      "spouses": [
+        "50b9d94e-cdc1-4ed3-a81a-81d1a97765aa"
+      ],
+      "children": [
+        "835402df-427a-48a1-9144-8ea66d25f72f",
+        "d3553497-4f49-480e-899b-e09652183593"
+      ]
+    }
+  },
+  {
+    "id": "835402df-427a-48a1-9144-8ea66d25f72f",
+    "data": {
+      "gender": "M",
+      "nama": "Daffa Martadinata",
+      "lokasi": "",
+      "birthday": ""
+    },
+    "rels": {
+      "father": "50b9d94e-cdc1-4ed3-a81a-81d1a97765aa",
+      "mother": "eddf5b9e-d521-404d-a435-b3492b5ac5f2"
+    }
+  },
+  {
+    "id": "d3553497-4f49-480e-899b-e09652183593",
+    "data": {
+      "gender": "M",
+      "nama": "Azkayra Salvina Handoyo",
+      "lokasi": "",
+      "birthday": ""
+    },
+    "rels": {
+      "mother": "eddf5b9e-d521-404d-a435-b3492b5ac5f2",
+      "father": "50b9d94e-cdc1-4ed3-a81a-81d1a97765aa"
+    }
+  },
+  {
+    "id": "491ad4d2-26d8-46e5-8a3a-18e98cbf442c",
+    "data": {
+      "gender": "M",
+      "nama": "Arie Alfian",
+      "lokasi": "",
+      "birthday": ""
+    },
+    "rels": {
+      "father": "5f872bb1-8754-44fc-8071-41187d9120fe",
+      "mother": "a4616080-1457-4d46-8502-335473e0bc17"
+    }
+  },
+  {
+    "id": "86a9db0a-0f10-4f79-b15a-3350078cd89b",
+    "data": {
+      "gender": "M",
+      "nama": "Asmuni",
+      "lokasi": "",
+      "birthday": ""
+    },
+    "rels": {
+      "spouses": [
+        "e3b50f2a-d465-4fdd-9589-02d5f28f69db"
+      ],
+      "children": [
+        "b4b30a73-30b2-4b73-b76f-c54c0d9a6883",
+        "768ac74d-fd55-4793-9f2f-640d55b9a686",
+        "c9ec053a-4a0f-4987-bb50-436344ede74a"
+      ]
+    }
+  },
+  {
+    "id": "b4b30a73-30b2-4b73-b76f-c54c0d9a6883",
+    "data": {
+      "gender": "F",
+      "nama": "Imma Badariyah",
+      "lokasi": "",
+      "birthday": ""
+    },
+    "rels": {
+      "father": "86a9db0a-0f10-4f79-b15a-3350078cd89b",
+      "mother": "e3b50f2a-d465-4fdd-9589-02d5f28f69db",
+      "spouses": [
+        "6a2a1258-37ef-4883-aa83-8ae1bcaa2be4"
+      ],
+      "children": [
+        "973b4828-da70-42b0-903e-642afe38a1ac",
+        "d59d04e3-fa84-4900-a7c0-ff20ee41a1e6"
+      ]
+    }
+  },
+  {
+    "id": "768ac74d-fd55-4793-9f2f-640d55b9a686",
+    "data": {
+      "gender": "M",
+      "nama": "Ibnu Mas’ud",
+      "lokasi": "",
+      "birthday": ""
+    },
+    "rels": {
+      "mother": "e3b50f2a-d465-4fdd-9589-02d5f28f69db",
+      "father": "86a9db0a-0f10-4f79-b15a-3350078cd89b",
+      "spouses": [
+        "b1f8e7ed-43f4-48cc-adef-ece19d6a9d9d"
+      ],
+      "children": [
+        "ee7cc9ee-ac1d-4cf3-a4eb-c5082f1bdaab",
+        "d0a072ae-446d-4fe3-9358-d0774f310fac"
+      ]
+    }
+  },
+  {
+    "id": "c9ec053a-4a0f-4987-bb50-436344ede74a",
+    "data": {
+      "gender": "F",
+      "nama": "Sri Hindrawati",
+      "lokasi": "",
+      "birthday": ""
+    },
+    "rels": {
+      "mother": "e3b50f2a-d465-4fdd-9589-02d5f28f69db",
+      "father": "86a9db0a-0f10-4f79-b15a-3350078cd89b",
+      "spouses": [
+        "d6dc0448-9de0-49c0-9f58-ba55d4d6308e"
+      ],
+      "children": [
+        "1b49d8c2-a76f-4d92-8f26-f8d3d044fced",
+        "fa692afb-dff3-4a82-9cd9-9a01e5690dba",
+        "28a5da4c-44c2-49c0-995e-158a9e821bc5"
+      ]
+    }
+  },
+  {
+    "id": "6a2a1258-37ef-4883-aa83-8ae1bcaa2be4",
+    "data": {
+      "gender": "M",
+      "nama": "Samiudin",
+      "lokasi": "",
+      "birthday": ""
+    },
+    "rels": {
+      "spouses": [
+        "b4b30a73-30b2-4b73-b76f-c54c0d9a6883"
+      ],
+      "children": [
+        "973b4828-da70-42b0-903e-642afe38a1ac",
+        "d59d04e3-fa84-4900-a7c0-ff20ee41a1e6"
+      ]
+    }
+  },
+  {
+    "id": "973b4828-da70-42b0-903e-642afe38a1ac",
+    "data": {
+      "gender": "M",
+      "nama": "Adam Azizi",
+      "lokasi": "",
+      "birthday": ""
+    },
+    "rels": {
+      "father": "6a2a1258-37ef-4883-aa83-8ae1bcaa2be4",
+      "mother": "b4b30a73-30b2-4b73-b76f-c54c0d9a6883"
+    }
+  },
+  {
+    "id": "d59d04e3-fa84-4900-a7c0-ff20ee41a1e6",
+    "data": {
+      "gender": "F",
+      "nama": "Aura Rahadastul Aisyi",
+      "lokasi": "",
+      "birthday": ""
+    },
+    "rels": {
+      "mother": "b4b30a73-30b2-4b73-b76f-c54c0d9a6883",
+      "father": "6a2a1258-37ef-4883-aa83-8ae1bcaa2be4"
+    }
+  },
+  {
+    "id": "b1f8e7ed-43f4-48cc-adef-ece19d6a9d9d",
+    "data": {
+      "gender": "F",
+      "nama": "Yana Masniati",
+      "lokasi": "",
+      "birthday": ""
+    },
+    "rels": {
+      "spouses": [
+        "768ac74d-fd55-4793-9f2f-640d55b9a686"
+      ],
+      "children": [
+        "ee7cc9ee-ac1d-4cf3-a4eb-c5082f1bdaab",
+        "d0a072ae-446d-4fe3-9358-d0774f310fac"
+      ]
+    }
+  },
+  {
+    "id": "ee7cc9ee-ac1d-4cf3-a4eb-c5082f1bdaab",
+    "data": {
+      "gender": "M",
+      "nama": "Naufal Alfarirzi Mas’ud",
+      "lokasi": "",
+      "birthday": ""
+    },
+    "rels": {
+      "father": "768ac74d-fd55-4793-9f2f-640d55b9a686",
+      "mother": "b1f8e7ed-43f4-48cc-adef-ece19d6a9d9d"
+    }
+  },
+  {
+    "id": "d0a072ae-446d-4fe3-9358-d0774f310fac",
+    "data": {
+      "gender": "M",
+      "nama": "Firzan Alfatih Mas’ud",
+      "lokasi": "",
+      "birthday": ""
+    },
+    "rels": {
+      "mother": "b1f8e7ed-43f4-48cc-adef-ece19d6a9d9d",
+      "father": "768ac74d-fd55-4793-9f2f-640d55b9a686"
+    }
+  },
+  {
+    "id": "d6dc0448-9de0-49c0-9f58-ba55d4d6308e",
+    "data": {
+      "gender": "M",
+      "nama": "Suhardiman",
+      "lokasi": "",
+      "birthday": ""
+    },
+    "rels": {
+      "spouses": [
+        "c9ec053a-4a0f-4987-bb50-436344ede74a"
+      ],
+      "children": [
+        "1b49d8c2-a76f-4d92-8f26-f8d3d044fced",
+        "fa692afb-dff3-4a82-9cd9-9a01e5690dba",
+        "28a5da4c-44c2-49c0-995e-158a9e821bc5"
+      ]
+    }
+  },
+  {
+    "id": "1b49d8c2-a76f-4d92-8f26-f8d3d044fced",
+    "data": {
+      "gender": "M",
+      "nama": "Rasyid Aditya Perdana",
+      "lokasi": "",
+      "birthday": ""
+    },
+    "rels": {
+      "father": "d6dc0448-9de0-49c0-9f58-ba55d4d6308e",
+      "mother": "c9ec053a-4a0f-4987-bb50-436344ede74a"
+    }
+  },
+  {
+    "id": "fa692afb-dff3-4a82-9cd9-9a01e5690dba",
+    "data": {
+      "gender": "M",
+      "nama": "Abdul Aziz Saputra",
+      "lokasi": "",
+      "birthday": ""
+    },
+    "rels": {
+      "mother": "c9ec053a-4a0f-4987-bb50-436344ede74a",
+      "father": "d6dc0448-9de0-49c0-9f58-ba55d4d6308e"
+    }
+  },
+  {
+    "id": "28a5da4c-44c2-49c0-995e-158a9e821bc5",
+    "data": {
+      "gender": "F",
+      "nama": "Salsabila Kirana Alli Faturrhman",
+      "lokasi": "",
+      "birthday": ""
+    },
+    "rels": {
+      "mother": "c9ec053a-4a0f-4987-bb50-436344ede74a",
+      "father": "d6dc0448-9de0-49c0-9f58-ba55d4d6308e"
+    }
+  },
+  {
+    "id": "593e6d54-f925-4bf0-a9d4-2dff34d51a6f",
+    "data": {
+      "gender": "M",
+      "nama": "Abdul Murid",
+      "lokasi": "",
+      "birthday": ""
+    },
+    "rels": {
+      "spouses": [
+        "a7dde435-68fa-42b0-8aae-872de5ad05a1"
+      ],
+      "children": [
+        "93f16962-7a84-418c-a3dd-250ff375bcf7",
+        "3713fe07-273b-4c28-8859-97b8a55f279e"
+      ]
+    }
+  },
+  {
+    "id": "93f16962-7a84-418c-a3dd-250ff375bcf7",
+    "data": {
+      "gender": "F",
+      "nama": "Luluk Purwani ",
+      "lokasi": "",
+      "birthday": ""
+    },
+    "rels": {
+      "father": "593e6d54-f925-4bf0-a9d4-2dff34d51a6f",
+      "mother": "a7dde435-68fa-42b0-8aae-872de5ad05a1",
+      "spouses": [
+        "1f58d5db-0ee6-46ab-bb14-cc610ec040c1"
+      ],
+      "children": [
+        "db95184d-f3e6-4670-ab58-4806103601e2"
+      ]
+    }
+  },
+  {
+    "id": "3713fe07-273b-4c28-8859-97b8a55f279e",
+    "data": {
+      "gender": "F",
+      "nama": "Yuyun Kustini",
+      "lokasi": "",
+      "birthday": ""
+    },
+    "rels": {
+      "mother": "a7dde435-68fa-42b0-8aae-872de5ad05a1",
+      "father": "593e6d54-f925-4bf0-a9d4-2dff34d51a6f",
+      "spouses": [
+        "3a344197-9f0a-41ea-9bc0-063c3623ef1d"
+      ],
+      "children": [
+        "a6fa25b5-d001-4cc6-85e7-dd10eccf1933"
+      ]
+    }
+  },
+  {
+    "id": "1f58d5db-0ee6-46ab-bb14-cc610ec040c1",
+    "data": {
+      "gender": "M",
+      "nama": "Purwanto",
+      "lokasi": "",
+      "birthday": ""
+    },
+    "rels": {
+      "spouses": [
+        "93f16962-7a84-418c-a3dd-250ff375bcf7"
+      ],
+      "children": [
+        "db95184d-f3e6-4670-ab58-4806103601e2"
+      ]
+    }
+  },
+  {
+    "id": "db95184d-f3e6-4670-ab58-4806103601e2",
+    "data": {
+      "gender": "M",
+      "nama": "Rafa Aqmalul Fattah",
+      "lokasi": "",
+      "birthday": ""
+    },
+    "rels": {
+      "father": "1f58d5db-0ee6-46ab-bb14-cc610ec040c1",
+      "mother": "93f16962-7a84-418c-a3dd-250ff375bcf7"
+    }
+  },
+  {
+    "id": "3a344197-9f0a-41ea-9bc0-063c3623ef1d",
+    "data": {
+      "gender": "M",
+      "nama": "Lukman Ahadi",
+      "lokasi": "",
+      "birthday": ""
+    },
+    "rels": {
+      "spouses": [
+        "3713fe07-273b-4c28-8859-97b8a55f279e"
+      ],
+      "children": [
+        "a6fa25b5-d001-4cc6-85e7-dd10eccf1933"
+      ]
+    }
+  },
+  {
+    "id": "a6fa25b5-d001-4cc6-85e7-dd10eccf1933",
+    "data": {
+      "gender": "F",
+      "nama": "Aliyah Hafidzah Hadi",
+      "lokasi": "",
+      "birthday": ""
+    },
+    "rels": {
+      "mother": "3713fe07-273b-4c28-8859-97b8a55f279e",
+      "father": "3a344197-9f0a-41ea-9bc0-063c3623ef1d"
+    }
+  }
 ]
