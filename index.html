@@ -2,122 +2,72 @@
 <html lang="en">
 
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width,initial-scale=1.0" />
-    <title>Silsilah Abdul Manan</title>
-    <script src="https://unpkg.com/d3@6"></script>
-    <script type="module" src="https://unpkg.com/family-chart@0.8.1"></script>
-    <link rel="stylesheet" href="https://unpkg.com/family-chart@0.8.1/dist/styles/family-chart.css">
-    <style>
-        path.link {
-            stroke: #000;
-        }
-    </style>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1.0" />
+  <title>Silsilah Abdul Manan</title>
+  <script src="https://unpkg.com/d3@7"></script>
+  <script type="module" src="https://unpkg.com/family-chart@0.8.1"></script>
+  <link rel="stylesheet" href="https://unpkg.com/family-chart@0.8.1/dist/styles/family-chart.css">
+  <style>
+    body {
+      font-family: 'Arial', sans-serif;
+    }
+  </style>
 </head>
 
 <body>
-    <div id="FamilyChart" class="f3"
-        style="width:100%;height:900px;margin:auto;background-color:rgb(255, 255, 255);color:#fff;"></div>
-    <script type="module">
-        fetch('./data.json')
-            .then(res => res.json())
-            .then(data => create(data));
+  <div id="FamilyChart" class="f3"
+    style="width:100%;height:900px;margin:auto;background-color:rgb(33,33,33);color:#fff;"></div>
+  <script type="module">
+    fetch('./data.json')
+      .then(res => res.json())
+      .then(data => create(data));
 
-        function create(data) {
-            const f3Chart = f3.createChart('#FamilyChart', data)
-                .setTransitionTime(1000)
-                .setCardXSpacing(250)
-                .setCardYSpacing(150)
-                .setSingleParentEmptyCard(true, { label: 'ADD' })
-                .setAncestryDepth(1)
-                .setProgenyDepth(1)
+    function create(data) {
+      const f3Chart = f3.createChart('#FamilyChart', data)
+        .setTransitionTime(1000)
+        .setCardXSpacing(250)
+        .setCardYSpacing(150)
+        .setSingleParentEmptyCard(true, { label: 'ADD' })
+        .setShowSiblingsOfMain(false)
+        .setAncestryDepth(1)
+        .setProgenyDepth(1)
 
-            // detect mobile
-            const isMobile = /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent);
+      // detect mobile
+      const isMobile = /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent);
 
-            // Set chart orientation based on device
-            if (isMobile) {
-                f3Chart.setOrientationHorizontal();
-            }
+      // Set chart orientation based on device
+      if (isMobile) {
+        f3Chart.setOrientationHorizontal();
+      }
 
-            const f3Card = f3Chart.setCard(f3.CardHtml)
-                .setCardDisplay([["nama", "alamat"]])
-                .setCardDim({})
-                .setMiniTree(true)
-                .setStyle('rect')
-                .setOnHoverPathToMain()
+      const f3Card = f3Chart.setCardHtml()
+        .setCardDisplay([["nama"]])
+        .setCardDim(null)
+        .setMiniTree(true)
+        .setStyle('imageRect')
+        .setOnHoverPathToMain()
 
-            console.log(f3Chart.store)
-            // f3Chart.store.setOnUpdate((props) => {
-            //     // cutTree(f3Chart.store.state.tree);
-            //     // f3.view(f3Chart.store.getTree(), f3Chart.svg, f3Chart.getCard(), props || {})
-            //     // f3.view(props || {});
-            // });
 
-            function cutTree(tree, max_depth = 1) {
-                tree.data = tree.data.filter((d) => {
-                    if (d.depth > max_depth) {
-                        return false;
-                    } else if (d.depth === max_depth) {
-                        if (max_depth === 0) {
-                            d.parents = [];
-                            d.children = [];
-                        }
-                        if (d.is_ancestry) d.parents = [];
-                        else d.children = [];
-                    }
-                    return true;
-                });
+      if (isMobile) {
+        f3Chart.updateTree({ initial: true })
+      } else {
+        const f3EditTree = f3Chart.editTree()
+          .fixed(true)
+          .setFields(["birthday", "avatar", "nama", "lokasi"])
+          .setEditFirst(false)
+          .setCardClickOpen(f3Card)
 
-                tree.dim = calculateTreeDim(tree.data);
+        f3EditTree.setEdit()
 
-                function calculateTreeDim(
-                    tree_data,
-                    node_separation = 250,
-                    level_separation = 150
-                ) {
-                    const w_extent = d3.extent(tree_data, (d) => d.x);
-                    const h_extent = d3.extent(tree_data, (d) => d.y);
-                    return {
-                        width: w_extent[1] - w_extent[0] + node_separation,
-                        height: h_extent[1] - h_extent[0] + level_separation,
-                        x_off: -w_extent[0] + node_separation / 2,
-                        y_off: -h_extent[0] + level_separation / 2
-                    };
-                }
-            }
+        f3Chart.updateTree({ initial: true })
+        f3EditTree.open(f3Chart.getMainDatum())
 
-            f3Chart.updateTree({ initial: true })
+        f3Chart.updateTree({ initial: true })
+      }
+    }
 
-            /*
-            const f3EditTree = f3Chart.editTree()
-                .fixed(true)
-                .setFields(["nama", "alamat", "birthday"])
-                .setEditFirst(false)
-
-            // Check if the user is accessing the page on a mobile device
-            var isMobile = /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent);
-
-            if (!isMobile) {
-                // User is accessing the page on a desktop device
-                f3EditTree.setNoEdit()
-
-                f3Card.setOnCardClick((e, d) => {
-                    f3EditTree.open(d)
-                    if (f3EditTree.isAddingRelative()) return
-                    f3Card.onCardClickDefault(e, d)
-                })
-
-                f3Chart.updateTree({ initial: true })
-                f3EditTree.open(f3Chart.getMainDatum())
-
-                f3Chart.updateTree({ initial: true })
-            } else {
-                f3Chart.updateTree({ initial: true })
-            }
-            */
-        }
-    </script>
+  </script>
 </body>
 
 </html>

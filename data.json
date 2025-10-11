@@ -18,8 +18,6 @@
             ]
         },
         "data": {
-            "first name": "Name",
-            "last name": "Surname",
             "birthday": "",
             "avatar": "",
             "gender": "M",
