@@ -149,7 +149,18 @@
         },
         "rels": {
             "father": "0",
-            "mother": "77b5d6c8-72c3-4594-b41a-8573aa3b2b1c"
+            "mother": "77b5d6c8-72c3-4594-b41a-8573aa3b2b1c",
+            "spouses": [
+                "227d7705-cc5d-46f7-9d72-55b05a984903"
+            ],
+            "children": [
+                "402ee738-7f83-43fe-b2b4-a29360444743",
+                "12af29a7-0e39-4fea-a52a-69288b68d275",
+                "73f15f3e-8b5c-4644-9ff7-daa1c45d1530",
+                "dd220ed3-5b57-4ba1-aefb-f9e6b7797028",
+                "e601e398-37cf-4655-bc8b-f97c319083a0",
+                "fe3fac7d-2925-4d96-ab0e-d49385d8bae2"
+            ]
         }
     },
     {
@@ -2050,6 +2061,676 @@
                 "5a2c1c89-8f38-4f4c-9e8d-910840092319"
             ],
             "children": []
+        }
+    },
+    {
+        "id": "227d7705-cc5d-46f7-9d72-55b05a984903",
+        "data": {
+            "gender": "M",
+            "nama": "Masdour",
+            "lokasi": "",
+            "birthday": ""
+        },
+        "rels": {
+            "spouses": [
+                "8642f8bb-78aa-40f0-8b4a-ab55dc973d7b"
+            ],
+            "children": [
+                "402ee738-7f83-43fe-b2b4-a29360444743",
+                "12af29a7-0e39-4fea-a52a-69288b68d275",
+                "73f15f3e-8b5c-4644-9ff7-daa1c45d1530",
+                "dd220ed3-5b57-4ba1-aefb-f9e6b7797028",
+                "e601e398-37cf-4655-bc8b-f97c319083a0",
+                "fe3fac7d-2925-4d96-ab0e-d49385d8bae2"
+            ]
+        }
+    },
+    {
+        "id": "402ee738-7f83-43fe-b2b4-a29360444743",
+        "data": {
+            "gender": "F",
+            "nama": "Nurul Hidayati",
+            "lokasi": "",
+            "birthday": ""
+        },
+        "rels": {
+            "mother": "8642f8bb-78aa-40f0-8b4a-ab55dc973d7b",
+            "father": "227d7705-cc5d-46f7-9d72-55b05a984903",
+            "spouses": [
+                "98439723-4373-4cc2-8d9b-8c0536a651fe"
+            ],
+            "children": [
+                "625f12d0-b163-4cc7-9af9-1a6c79f410de",
+                "5d8fa99c-7fe8-4aa3-b1e1-921d44dc4d3c",
+                "f5babf8f-1cb1-4db3-b940-d620dbeaaed4"
+            ]
+        }
+    },
+    {
+        "id": "98439723-4373-4cc2-8d9b-8c0536a651fe",
+        "data": {
+            "gender": "M",
+            "nama": "Gondo Sukmono",
+            "lokasi": "",
+            "birthday": ""
+        },
+        "rels": {
+            "spouses": [
+                "402ee738-7f83-43fe-b2b4-a29360444743"
+            ],
+            "children": [
+                "625f12d0-b163-4cc7-9af9-1a6c79f410de",
+                "5d8fa99c-7fe8-4aa3-b1e1-921d44dc4d3c",
+                "f5babf8f-1cb1-4db3-b940-d620dbeaaed4"
+            ]
+        }
+    },
+    {
+        "id": "625f12d0-b163-4cc7-9af9-1a6c79f410de",
+        "data": {
+            "gender": "M",
+            "nama": "Bachtiar Lingga P",
+            "lokasi": "",
+            "birthday": ""
+        },
+        "rels": {
+            "father": "98439723-4373-4cc2-8d9b-8c0536a651fe",
+            "mother": "402ee738-7f83-43fe-b2b4-a29360444743",
+            "spouses": [
+                "d279a016-b212-426c-988c-4e3d6886a0cb"
+            ],
+            "children": [
+                "87c412b9-ecc9-4cce-8338-35828072b3df",
+                "22f8eb63-0f35-441f-9cba-2c5d2f96e84f",
+                "4f22acc3-dcdb-427c-ae96-14d31a047e0b"
+            ]
+        }
+    },
+    {
+        "id": "5d8fa99c-7fe8-4aa3-b1e1-921d44dc4d3c",
+        "data": {
+            "gender": "F",
+            "nama": "Laras Sekar Arum",
+            "lokasi": "",
+            "birthday": ""
+        },
+        "rels": {
+            "mother": "402ee738-7f83-43fe-b2b4-a29360444743",
+            "father": "98439723-4373-4cc2-8d9b-8c0536a651fe",
+            "spouses": [
+                "7c0e257a-7630-46a1-a442-6b6fefc5b176"
+            ],
+            "children": [
+                "2931c8a6-a2cb-4289-8cf4-e298161dab77",
+                "e800217d-797a-433d-b407-4b6865cf5444"
+            ]
+        }
+    },
+    {
+        "id": "f5babf8f-1cb1-4db3-b940-d620dbeaaed4",
+        "data": {
+            "gender": "M",
+            "nama": "Rikaz Maulana T",
+            "lokasi": "",
+            "birthday": ""
+        },
+        "rels": {
+            "father": "98439723-4373-4cc2-8d9b-8c0536a651fe",
+            "mother": "402ee738-7f83-43fe-b2b4-a29360444743"
+        }
+    },
+    {
+        "id": "d279a016-b212-426c-988c-4e3d6886a0cb",
+        "data": {
+            "gender": "F",
+            "nama": "Desi",
+            "lokasi": "",
+            "birthday": ""
+        },
+        "rels": {
+            "spouses": [
+                "625f12d0-b163-4cc7-9af9-1a6c79f410de"
+            ],
+            "children": [
+                "87c412b9-ecc9-4cce-8338-35828072b3df",
+                "22f8eb63-0f35-441f-9cba-2c5d2f96e84f",
+                "4f22acc3-dcdb-427c-ae96-14d31a047e0b"
+            ]
+        }
+    },
+    {
+        "id": "87c412b9-ecc9-4cce-8338-35828072b3df",
+        "data": {
+            "gender": "F",
+            "nama": "Retha ( Rere)",
+            "lokasi": "",
+            "birthday": ""
+        },
+        "rels": {
+            "father": "625f12d0-b163-4cc7-9af9-1a6c79f410de",
+            "mother": "d279a016-b212-426c-988c-4e3d6886a0cb"
+        }
+    },
+    {
+        "id": "22f8eb63-0f35-441f-9cba-2c5d2f96e84f",
+        "data": {
+            "gender": "M",
+            "nama": "Rafisky",
+            "lokasi": "",
+            "birthday": ""
+        },
+        "rels": {
+            "mother": "d279a016-b212-426c-988c-4e3d6886a0cb",
+            "father": "625f12d0-b163-4cc7-9af9-1a6c79f410de"
+        }
+    },
+    {
+        "id": "4f22acc3-dcdb-427c-ae96-14d31a047e0b",
+        "data": {
+            "gender": "M",
+            "nama": "Rafandra",
+            "lokasi": "",
+            "birthday": ""
+        },
+        "rels": {
+            "father": "625f12d0-b163-4cc7-9af9-1a6c79f410de",
+            "mother": "d279a016-b212-426c-988c-4e3d6886a0cb"
+        }
+    },
+    {
+        "id": "7c0e257a-7630-46a1-a442-6b6fefc5b176",
+        "data": {
+            "gender": "M",
+            "nama": "Bima",
+            "lokasi": "",
+            "birthday": ""
+        },
+        "rels": {
+            "spouses": [
+                "5d8fa99c-7fe8-4aa3-b1e1-921d44dc4d3c"
+            ],
+            "children": [
+                "2931c8a6-a2cb-4289-8cf4-e298161dab77",
+                "e800217d-797a-433d-b407-4b6865cf5444"
+            ]
+        }
+    },
+    {
+        "id": "2931c8a6-a2cb-4289-8cf4-e298161dab77",
+        "data": {
+            "gender": "F",
+            "nama": "Nuwa",
+            "lokasi": "",
+            "birthday": ""
+        },
+        "rels": {
+            "mother": "5d8fa99c-7fe8-4aa3-b1e1-921d44dc4d3c",
+            "father": "7c0e257a-7630-46a1-a442-6b6fefc5b176"
+        }
+    },
+    {
+        "id": "e800217d-797a-433d-b407-4b6865cf5444",
+        "data": {
+            "gender": "M",
+            "nama": "Nabil",
+            "lokasi": "",
+            "birthday": ""
+        },
+        "rels": {
+            "father": "7c0e257a-7630-46a1-a442-6b6fefc5b176",
+            "mother": "5d8fa99c-7fe8-4aa3-b1e1-921d44dc4d3c"
+        }
+    },
+    {
+        "id": "12af29a7-0e39-4fea-a52a-69288b68d275",
+        "data": {
+            "gender": "F",
+            "nama": "Nurul Hindana",
+            "lokasi": "",
+            "birthday": ""
+        },
+        "rels": {
+            "mother": "8642f8bb-78aa-40f0-8b4a-ab55dc973d7b",
+            "father": "227d7705-cc5d-46f7-9d72-55b05a984903",
+            "spouses": [
+                "f3b4d61d-f299-44a1-a3cb-b26e2fffd887"
+            ],
+            "children": [
+                "61148b4f-e964-48d0-8538-74d75d0a71b2"
+            ]
+        }
+    },
+    {
+        "id": "f3b4d61d-f299-44a1-a3cb-b26e2fffd887",
+        "data": {
+            "gender": "M",
+            "nama": "Abdul Halim",
+            "lokasi": "",
+            "birthday": ""
+        },
+        "rels": {
+            "spouses": [
+                "12af29a7-0e39-4fea-a52a-69288b68d275"
+            ],
+            "children": [
+                "61148b4f-e964-48d0-8538-74d75d0a71b2"
+            ]
+        }
+    },
+    {
+        "id": "61148b4f-e964-48d0-8538-74d75d0a71b2",
+        "data": {
+            "gender": "M",
+            "nama": "Andi Halim Laparaga",
+            "lokasi": "",
+            "birthday": ""
+        },
+        "rels": {
+            "father": "f3b4d61d-f299-44a1-a3cb-b26e2fffd887",
+            "mother": "12af29a7-0e39-4fea-a52a-69288b68d275"
+        }
+    },
+    {
+        "id": "73f15f3e-8b5c-4644-9ff7-daa1c45d1530",
+        "data": {
+            "gender": "M",
+            "nama": "Prahadi",
+            "lokasi": "",
+            "birthday": ""
+        },
+        "rels": {
+            "father": "227d7705-cc5d-46f7-9d72-55b05a984903",
+            "mother": "8642f8bb-78aa-40f0-8b4a-ab55dc973d7b",
+            "spouses": [
+                "bb1e603d-47f6-4d00-9171-8670f51c19ae"
+            ],
+            "children": [
+                "19945a17-86b5-4044-a569-618abbc99d83",
+                "09b7eebe-3971-4c2a-8b4e-a687c213630c",
+                "b277d3ca-6386-4dc3-bb96-bf5ebc1f4ca1"
+            ]
+        }
+    },
+    {
+        "id": "bb1e603d-47f6-4d00-9171-8670f51c19ae",
+        "data": {
+            "gender": "F",
+            "nama": "Sriyani",
+            "lokasi": "",
+            "birthday": ""
+        },
+        "rels": {
+            "spouses": [
+                "73f15f3e-8b5c-4644-9ff7-daa1c45d1530"
+            ],
+            "children": [
+                "19945a17-86b5-4044-a569-618abbc99d83",
+                "09b7eebe-3971-4c2a-8b4e-a687c213630c",
+                "b277d3ca-6386-4dc3-bb96-bf5ebc1f4ca1"
+            ]
+        }
+    },
+    {
+        "id": "19945a17-86b5-4044-a569-618abbc99d83",
+        "data": {
+            "gender": "F",
+            "nama": "Arum SAE",
+            "lokasi": "",
+            "birthday": ""
+        },
+        "rels": {
+            "mother": "bb1e603d-47f6-4d00-9171-8670f51c19ae",
+            "father": "73f15f3e-8b5c-4644-9ff7-daa1c45d1530",
+            "spouses": [
+                "ca09670b-ceaf-4249-9889-10c487519aad"
+            ],
+            "children": [
+                "a3188fdf-6735-44b9-b5b1-a51f960a7f04",
+                "20e1a384-866a-404e-b5b8-6cbc8fca5761"
+            ]
+        }
+    },
+    {
+        "id": "ca09670b-ceaf-4249-9889-10c487519aad",
+        "data": {
+            "gender": "M",
+            "nama": "Fikriyan ( Yayan)",
+            "lokasi": "",
+            "birthday": ""
+        },
+        "rels": {
+            "spouses": [
+                "19945a17-86b5-4044-a569-618abbc99d83"
+            ],
+            "children": [
+                "a3188fdf-6735-44b9-b5b1-a51f960a7f04",
+                "20e1a384-866a-404e-b5b8-6cbc8fca5761"
+            ]
+        }
+    },
+    {
+        "id": "a3188fdf-6735-44b9-b5b1-a51f960a7f04",
+        "data": {
+            "gender": "F",
+            "nama": "Tifa",
+            "lokasi": "",
+            "birthday": ""
+        },
+        "rels": {
+            "mother": "19945a17-86b5-4044-a569-618abbc99d83",
+            "father": "ca09670b-ceaf-4249-9889-10c487519aad"
+        }
+    },
+    {
+        "id": "20e1a384-866a-404e-b5b8-6cbc8fca5761",
+        "data": {
+            "gender": "M",
+            "nama": "Ardan",
+            "lokasi": "",
+            "birthday": ""
+        },
+        "rels": {
+            "father": "ca09670b-ceaf-4249-9889-10c487519aad",
+            "mother": "19945a17-86b5-4044-a569-618abbc99d83"
+        }
+    },
+    {
+        "id": "09b7eebe-3971-4c2a-8b4e-a687c213630c",
+        "data": {
+            "gender": "M",
+            "nama": "Arga SAE",
+            "lokasi": "",
+            "birthday": ""
+        },
+        "rels": {
+            "father": "73f15f3e-8b5c-4644-9ff7-daa1c45d1530",
+            "mother": "bb1e603d-47f6-4d00-9171-8670f51c19ae"
+        }
+    },
+    {
+        "id": "b277d3ca-6386-4dc3-bb96-bf5ebc1f4ca1",
+        "data": {
+            "gender": "M",
+            "nama": "Ubay SAE",
+            "lokasi": "",
+            "birthday": ""
+        },
+        "rels": {
+            "father": "73f15f3e-8b5c-4644-9ff7-daa1c45d1530",
+            "mother": "bb1e603d-47f6-4d00-9171-8670f51c19ae"
+        }
+    },
+    {
+        "id": "dd220ed3-5b57-4ba1-aefb-f9e6b7797028",
+        "data": {
+            "gender": "F",
+            "nama": "Nuryani",
+            "lokasi": "",
+            "birthday": ""
+        },
+        "rels": {
+            "mother": "8642f8bb-78aa-40f0-8b4a-ab55dc973d7b",
+            "father": "227d7705-cc5d-46f7-9d72-55b05a984903",
+            "spouses": [
+                "066a9a47-7fdf-4201-8012-e874b5381ed7"
+            ],
+            "children": [
+                "10ffd475-89fa-4bac-9514-cfd6685d7aa6",
+                "6606ab9c-3286-4f85-af79-a4bcd67a83e8"
+            ]
+        }
+    },
+    {
+        "id": "066a9a47-7fdf-4201-8012-e874b5381ed7",
+        "data": {
+            "gender": "M",
+            "nama": "Catur Triyono",
+            "lokasi": "",
+            "birthday": ""
+        },
+        "rels": {
+            "spouses": [
+                "dd220ed3-5b57-4ba1-aefb-f9e6b7797028"
+            ],
+            "children": [
+                "10ffd475-89fa-4bac-9514-cfd6685d7aa6",
+                "6606ab9c-3286-4f85-af79-a4bcd67a83e8"
+            ]
+        }
+    },
+    {
+        "id": "10ffd475-89fa-4bac-9514-cfd6685d7aa6",
+        "data": {
+            "gender": "M",
+            "nama": "Royan Samuro",
+            "lokasi": "",
+            "birthday": ""
+        },
+        "rels": {
+            "father": "066a9a47-7fdf-4201-8012-e874b5381ed7",
+            "mother": "dd220ed3-5b57-4ba1-aefb-f9e6b7797028",
+            "spouses": [
+                "ec6e1a5d-c997-44d7-a544-7a8e77e48335"
+            ],
+            "children": [
+                "62ee31a0-8d44-43ab-ae54-c9cef46d4862",
+                "dffa42bd-9c49-43e5-8301-b3e293e5d2c5",
+                "4315387d-6f57-4d0e-9092-f10f5d34714d"
+            ]
+        }
+    },
+    {
+        "id": "6606ab9c-3286-4f85-af79-a4bcd67a83e8",
+        "data": {
+            "gender": "F",
+            "nama": "Iqnuti Ragamis",
+            "lokasi": "",
+            "birthday": ""
+        },
+        "rels": {
+            "mother": "dd220ed3-5b57-4ba1-aefb-f9e6b7797028",
+            "father": "066a9a47-7fdf-4201-8012-e874b5381ed7"
+        }
+    },
+    {
+        "id": "ec6e1a5d-c997-44d7-a544-7a8e77e48335",
+        "data": {
+            "gender": "F",
+            "nama": "Zeza",
+            "lokasi": "",
+            "birthday": ""
+        },
+        "rels": {
+            "spouses": [
+                "10ffd475-89fa-4bac-9514-cfd6685d7aa6"
+            ],
+            "children": [
+                "62ee31a0-8d44-43ab-ae54-c9cef46d4862",
+                "dffa42bd-9c49-43e5-8301-b3e293e5d2c5",
+                "4315387d-6f57-4d0e-9092-f10f5d34714d"
+            ]
+        }
+    },
+    {
+        "id": "62ee31a0-8d44-43ab-ae54-c9cef46d4862",
+        "data": {
+            "gender": "F",
+            "nama": "Adnin",
+            "lokasi": "",
+            "birthday": ""
+        },
+        "rels": {
+            "mother": "ec6e1a5d-c997-44d7-a544-7a8e77e48335",
+            "father": "10ffd475-89fa-4bac-9514-cfd6685d7aa6"
+        }
+    },
+    {
+        "id": "dffa42bd-9c49-43e5-8301-b3e293e5d2c5",
+        "data": {
+            "gender": "M",
+            "nama": "Adam",
+            "lokasi": "",
+            "birthday": ""
+        },
+        "rels": {
+            "father": "10ffd475-89fa-4bac-9514-cfd6685d7aa6",
+            "mother": "ec6e1a5d-c997-44d7-a544-7a8e77e48335"
+        }
+    },
+    {
+        "id": "4315387d-6f57-4d0e-9092-f10f5d34714d",
+        "data": {
+            "gender": "M",
+            "nama": "Albar",
+            "lokasi": "",
+            "birthday": ""
+        },
+        "rels": {
+            "mother": "ec6e1a5d-c997-44d7-a544-7a8e77e48335",
+            "father": "10ffd475-89fa-4bac-9514-cfd6685d7aa6"
+        }
+    },
+    {
+        "id": "e601e398-37cf-4655-bc8b-f97c319083a0",
+        "data": {
+            "gender": "F",
+            "nama": "Nurtitah Ningsih",
+            "lokasi": "",
+            "birthday": ""
+        },
+        "rels": {
+            "mother": "8642f8bb-78aa-40f0-8b4a-ab55dc973d7b",
+            "father": "227d7705-cc5d-46f7-9d72-55b05a984903",
+            "spouses": [
+                "18e87af0-200d-4086-9f62-8ab1d48d388b"
+            ],
+            "children": [
+                "d535b5b6-8654-436d-9c9b-7d63ab3f1797",
+                "1cb374c9-5837-4d81-828e-a16fefa4905a",
+                "379fe293-07cf-49f6-84c3-fb1129131232"
+            ]
+        }
+    },
+    {
+        "id": "18e87af0-200d-4086-9f62-8ab1d48d388b",
+        "data": {
+            "gender": "M",
+            "nama": "Achmad Sukarno",
+            "lokasi": "",
+            "birthday": ""
+        },
+        "rels": {
+            "spouses": [
+                "e601e398-37cf-4655-bc8b-f97c319083a0"
+            ],
+            "children": [
+                "d535b5b6-8654-436d-9c9b-7d63ab3f1797",
+                "1cb374c9-5837-4d81-828e-a16fefa4905a",
+                "379fe293-07cf-49f6-84c3-fb1129131232"
+            ]
+        }
+    },
+    {
+        "id": "d535b5b6-8654-436d-9c9b-7d63ab3f1797",
+        "data": {
+            "gender": "F",
+            "nama": "Damai Nur Sukarno",
+            "lokasi": "",
+            "birthday": ""
+        },
+        "rels": {
+            "father": "18e87af0-200d-4086-9f62-8ab1d48d388b",
+            "mother": "e601e398-37cf-4655-bc8b-f97c319083a0"
+        }
+    },
+    {
+        "id": "1cb374c9-5837-4d81-828e-a16fefa4905a",
+        "data": {
+            "gender": "M",
+            "nama": "Kenzza Ashabi Nur Sukarno",
+            "lokasi": "",
+            "birthday": ""
+        },
+        "rels": {
+            "father": "18e87af0-200d-4086-9f62-8ab1d48d388b",
+            "mother": "e601e398-37cf-4655-bc8b-f97c319083a0"
+        }
+    },
+    {
+        "id": "379fe293-07cf-49f6-84c3-fb1129131232",
+        "data": {
+            "gender": "F",
+            "nama": "Nasttit Hana Nur Sukarno",
+            "lokasi": "",
+            "birthday": ""
+        },
+        "rels": {
+            "mother": "e601e398-37cf-4655-bc8b-f97c319083a0",
+            "father": "18e87af0-200d-4086-9f62-8ab1d48d388b"
+        }
+    },
+    {
+        "id": "fe3fac7d-2925-4d96-ab0e-d49385d8bae2",
+        "data": {
+            "gender": "M",
+            "nama": "Sugeng Wahyudi",
+            "lokasi": "",
+            "birthday": ""
+        },
+        "rels": {
+            "father": "227d7705-cc5d-46f7-9d72-55b05a984903",
+            "mother": "8642f8bb-78aa-40f0-8b4a-ab55dc973d7b",
+            "spouses": [
+                "643c0456-c1fa-4aa4-bbd7-f697e207107c"
+            ],
+            "children": [
+                "c9eb4235-5e71-407a-be58-0d5fe3a69b84",
+                "6a4a128e-9717-403d-84d6-0a49ef59a5f0"
+            ]
+        }
+    },
+    {
+        "id": "643c0456-c1fa-4aa4-bbd7-f697e207107c",
+        "data": {
+            "gender": "F",
+            "nama": "Dewi Pupasari",
+            "lokasi": "",
+            "birthday": ""
+        },
+        "rels": {
+            "spouses": [
+                "fe3fac7d-2925-4d96-ab0e-d49385d8bae2"
+            ],
+            "children": [
+                "c9eb4235-5e71-407a-be58-0d5fe3a69b84",
+                "6a4a128e-9717-403d-84d6-0a49ef59a5f0"
+            ]
+        }
+    },
+    {
+        "id": "c9eb4235-5e71-407a-be58-0d5fe3a69b84",
+        "data": {
+            "gender": "F",
+            "nama": "Veda Nadira Kanzluay",
+            "lokasi": "",
+            "birthday": ""
+        },
+        "rels": {
+            "father": "fe3fac7d-2925-4d96-ab0e-d49385d8bae2",
+            "mother": "643c0456-c1fa-4aa4-bbd7-f697e207107c"
+        }
+    },
+    {
+        "id": "6a4a128e-9717-403d-84d6-0a49ef59a5f0",
+        "data": {
+            "gender": "F",
+            "nama": "Veda Kanaya Kanzluay",
+            "lokasi": "",
+            "birthday": ""
+        },
+        "rels": {
+            "mother": "643c0456-c1fa-4aa4-bbd7-f697e207107c",
+            "father": "fe3fac7d-2925-4d96-ab0e-d49385d8bae2"
         }
     }
 ]
